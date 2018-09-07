@@ -1,0 +1,13 @@
+{
+"companyName": "Radicl Games",
+"productName": "OBSTACLE",
+"dataUrl": "Radicl Games - 1st game website.data.unityweb",
+"wasmCodeUrl": "Radicl Games - 1st game website.wasm.code.unityweb",
+"wasmFrameworkUrl": "Radicl Games - 1st game website.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"}
+}
