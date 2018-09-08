@@ -1,0 +1,13 @@
+{
+"companyName": "Radicl",
+"productName": "O B S T A C L E",
+"dataUrl": "OBSTACLE.data.unityweb",
+"wasmCodeUrl": "OBSTACLE.wasm.code.unityweb",
+"wasmFrameworkUrl": "OBSTACLE.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#D9D9D9",
+"cacheControl": {"default": "must-revalidate"}
+}
