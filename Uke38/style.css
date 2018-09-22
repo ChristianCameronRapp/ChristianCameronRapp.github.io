@@ -1,0 +1,55 @@
+body {
+  background-image: url(http://funzine.hu/wp-content/uploads/2017/04/aff5009f32c527a3454d7cfb47e2c762.jpg);
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  color: white;
+  display: inline-flex;
+}
+
+ul {
+  margin-top: 32px;
+}
+
+li {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li a {
+  text-decoration: none;
+  padding: 13px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: white;
+  color: black;
+  margin-left: 120px;
+  border: 1px solid white;
+  border-radius: 60px;
+}
+
+td {
+  font-size: 30px;
+  text-align: center;
+}
+
+th {
+  font-size: 35px;
+  text-align: center;
+}
+
+main {
+  color: white;
+  size: 90px;
+  width: 88%;
+  margin: auto;
+  background-size: contain;
+  text-align: left;
+}
+
+h1 a {
+  text-decoration: none;
+  color: white;
+}
