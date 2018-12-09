@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+  <head>
+
+    <meta charset="utf-8">
+    <title>Interstellar</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="scroll.css">
+    <link rel="stylesheet" href="nav.css">
+    <link rel="stylesheet" href="store.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:200" rel="stylesheet">
+
+    <script src="https://www.gstatic.com/firebasejs/5.5.9/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyAg9fUAszKr8tVgp7dpGz6_dYc64qKBIFg",
+        authDomain: "interstellar-database.firebaseapp.com",
+        databaseURL: "https://interstellar-database.firebaseio.com",
+        projectId: "interstellar-database",
+        storageBucket: "interstellar-database.appspot.com",
+        messagingSenderId: "675962121046"
+      };
+      firebase.initializeApp(config);
+    </script>
+
+    <script type="text/javascript">
+
+    </script>
+
+  </head>
+
+
+
+  <body>
+
+    <header>
+
+      <nav class="navBar">
+        <a id="home" class="navButtons" href="index.html">Home</a>
+        <a class="navButtons" href="UFO.html">UFO</a>
+        <a class="navButtons" href="Stories.html">Stories</a>
+
+        <a id="logoLink" href="index.html"><div id="logo">INTERSTELLAR</div></a>
+
+        <a class="navButtons" href="Planets.html"><div>Planets</div></a>
+        <a class="navButtons" href="Aliens.html">Aliens</a>
+        <a style="color: #bababa;" class="navButtons" href="store.html">Store</a>
+
+        <div class="dropdown">
+          <button id="english" class="dropbtn"><img id="dropbtnIMG" src="united-kingdom.png" alt=""></button>
+          <div class="dropdown-content">
+            <a id="norsk-dropdown" href="norsk-Butikk.html"><img id="dropdownIMG" src="norway.png" alt=""></a>
+          </div>
+        </div>
+      </nav>
+
+    </header>
+
+
+
+    <main>
+
+      <section class="storeHomeMain">
+
+        <div class="storeSaleDiv">
+          <div class="parent-store">
+              <div class="child-store store-BG-en">
+                <a class="TextMainImgNav" id="TextMainImgNav-storeSaleDiv" href="UFO.html">
+                  <div class="TextMainTextNav-1"><b>X-MAS</b></div>
+                  <div class="TextMainTextNav-2"><b>SALE</b></div>
+                </a>
+              </div>
+          </div>
+        </div>
+
+        <div id="storeDiv" class="storeTelDiv">
+          <div class="parent-store">
+              <div class="child-store store-BG-to">
+                <a class="TextMainImgNav-small" id="TextMainImgNav-storeDiv" href="telescope-store.html">
+                  <div><b>Telescopes</b></div>
+                </a>
+              </div>
+          </div>
+        </div>
+
+        <div id="storeDiv" class="storeMerchDiv">
+          <div class="parent-store">
+              <div class="child-store store-BG-tre">
+                <a class="TextMainImgNav-small" id="TextMainImgNav-storeDiv" href="#">
+                  <div><b>Merch</b></div>
+                </a>
+              </div>
+          </div>
+        </div>
+
+        <div id="storeDiv" class="storeToysDiv">
+          <div class="parent-store">
+              <div class="child-store store-BG-fire">
+                <a class="TextMainImgNav-small" id="TextMainImgNav-storeDiv" href="#">
+                  <div>Toys</div>
+                </a>
+              </div>
+          </div>
+        </div>
+
+      </section>
+
+    </main>
+
+
+
+    <footer>
+
+    </footer>
+
+  </body>
+
+</html>

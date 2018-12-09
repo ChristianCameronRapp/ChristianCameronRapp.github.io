@@ -1,0 +1,124 @@
+.navBar{
+  display: grid;
+  grid-template-columns: 11% 10% 10% 10% 18% 10% 10% 10% 2% 4% 5%;
+  margin: auto;
+  text-align: center;
+  background-color: black;
+  font-family: 'Oswald', sans-serif;
+  line-height: 3.5vw;
+  color: white;
+  border-bottom: 0.01vw solid orange;
+}
+
+.navBar:hover > #logoLink{
+  transform: scale(1.1);
+  transition: 0.8s;
+}
+
+.navButtons{
+  text-decoration: none;
+  color: white;
+  font-size: 1.4vw;
+  transition: 0.7s;
+  line-height: 4.2vw;
+}
+
+.navButtons:hover{
+  color: #bababa;
+  transition: 0.7s;
+}
+
+.dropbtn {
+    background: orange;
+    padding: 1vw;
+    font-size: 1.4vw;
+    border: none;
+    transition: 0.7s;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    grid-column: 10;
+    background: orange;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgb(200, 119, 13);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    transition: 0.8s;
+    width: 100%;
+}
+
+.dropdown-content a {
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content > a:hover {
+  background-color: rgb(177, 105, 11);
+}
+
+.dropdown:hover > .dropdown-content {
+  display: block;
+}
+
+.vis{
+  display: block;
+}
+
+#logo{
+  font-size: 2.6vw;
+  margin: auto;
+  font-family: 'Oswald', sans-serif;
+}
+
+#logoLink{
+  font-size: 2.6vw;
+  line-height: 4.2vw;
+  text-decoration: none;
+  color: #eaeaea;
+  transition: 0.8s;
+}
+
+#logoLink:hover{
+  color: #bababa;
+}
+
+#home{
+  grid-column: 2;
+}
+
+#dropbtnIMG{
+  width: 2vw;
+}
+
+#dropdownIMG{
+  width: 2vw;
+}
+
+#norsk{
+  grid-column: 10;
+}
+
+#norsk-dropdown{
+  padding-top: 0.8vw;
+  transition: 0.5s;
+}
+
+#norsk-dropdown:hover{
+  background-color: rgb(177, 105, 11);
+  transition: 0.5s;
+}
+
+#english{
+  grid-column: 10;
+}
+
+#english-dropdown{
+  padding-top: 0.8vw;
+}

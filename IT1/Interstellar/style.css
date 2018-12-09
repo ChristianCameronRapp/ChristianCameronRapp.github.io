@@ -1,0 +1,223 @@
+body{
+  margin: 0;
+  background-image: url(https://i.ytimg.com/vi/Gsc0HtG6rTc/maxresdefault.jpg);
+}
+
+main{
+  margin: auto;
+  font-family: 'Raleway', sans-serif;
+  width: 80%;
+}
+
+footer{
+
+}
+
+searchbar-list{
+  color: white;
+}
+
+div div a:hover{
+  color: #bababa;
+}
+
+.homeMain{
+  width: 90%;
+}
+
+.homeMainSection{
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.middelsIMGdiv{
+  grid-column: span 3;
+  grid-row: span 2;
+  margin: 2vw;
+  height: 45vw;
+}
+
+.litenIMG{
+  grid-column: span 2;
+  grid-row: span 1;
+  margin: 2vw;
+  padding: 0.07vw;
+}
+
+.articleMain{
+  margin: auto;
+  margin-top: 2vw;
+  padding: 0.07vw;
+  border: 0.01vw solid white;
+  background-color: black;
+  text-align: center;
+}
+
+.UFOSec{
+  margin: 2vw;
+  grid-gap: 2vw;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.UFOSecDivIMG{
+  width: 30%;
+  margin: auto;
+}
+
+.child {
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: all 0.2s;
+}
+
+.parent {
+  border: 0.1vw solid #eaeaea;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  float: left;
+  display: inline-block;
+  cursor: pointer;
+  onclick="";
+}
+
+.BG-en{
+  background-image: url("Cigar Alien Spacecraft.png");
+}
+
+.BG-to{
+  background-image: url("The most famous Alien case IMG.png");
+}
+
+.BG-tre{
+  background-image: url("Trappist-1e Interstellar.png");
+}
+
+.BG-fire{
+  background-image: url("Alien life look like.png");
+}
+
+.BG-fem{
+  background-image: url("IMG store.png");
+  background-position: center;
+}
+
+.right {
+  float: right;
+}
+
+.parent:hover .child, .parent:focus .child {
+    transform: scale(1.04);
+}
+
+.parent:hover .child:before, .parent:focus .child:before {
+    display: block;
+}
+
+.parent:hover .TextMainNav, .parent:focus .TextMainNav {
+    color: white;
+}
+
+.child:before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(255, 107, 0, 0.4);
+}
+
+.TextMainNav{
+  font-size: 3vw;
+  color: orange;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.UFOEmbedVID{
+  margin: auto;
+}
+
+.planetsSec{
+  margin: 2vw;
+  grid-gap: 2vw;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.storiesSec{
+  margin: 2vw;
+  grid-gap: 2vw;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.articleSecDivTEXT{
+  color: white;
+  margin: auto;
+  font-size: 1.2vw;
+}
+
+.articleSecDivIMG{
+  width: 100%;
+  margin: auto;
+}
+
+.articleSecDivVID{
+  width: 500vw;
+  height: 400vw;
+}
+
+.articleDivINTRO{
+  margin-left: 15vw;
+  margin-right: 15vw;
+  margin-bottom: -2vw;
+  color: white;
+}
+
+.aliensSec{
+  margin: 2vw;
+  grid-gap: 2vw;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.grid-span-7{
+  grid-column: span 7;
+}
+
+.grid-span-6{
+  grid-column: span 6;
+}
+
+.grid-span-4{
+  grid-column: span 4;
+}
+
+.grid-span-3{
+  grid-column: span 3;
+}
+
+.grid-span-2{
+  grid-column: span 2;
+}
+
+#TextMainNav-middelsIMG{
+  padding-top: 20vw;
+}
+
+#TextMainNav-litenIMG{
+  padding-top: 8vw;
+}

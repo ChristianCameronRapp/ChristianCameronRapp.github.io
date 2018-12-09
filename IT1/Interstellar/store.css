@@ -1,0 +1,221 @@
+.storeMain{
+  width: 80%;
+}
+
+.storeHomeMain{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 2vw;
+  grid-gap: 2vw;
+}
+
+.storeItemLink{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+.storeItem{
+  background-color: black;
+  display: grid;
+  margin: 2vw;
+  grid-template-columns: 30% 70%;
+  border: 0.01vw solid #eaeaea;
+  padding: 0.07vw;
+  color: orange;
+  transition: 0.5s;
+}
+
+.storeItem:hover{
+  background-color: orange;
+  color: black;
+  transition: 0.5s;
+}
+
+.storeItemIMG{
+  width: 100%;
+  grid-row: span 3;
+}
+
+.storeItemTexts{
+  margin: auto;
+}
+
+.storeItemRP{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.storeItemPrice{
+  margin: auto;
+  display: inline-flex;
+}
+
+.storeSaleDiv{
+  grid-column: span 3;
+  height: 17vw;
+  border: 0.01vw solid white;
+}
+
+.storeSaleDivBigFont{
+  font-size: 4vw;
+  color: orange;
+}
+
+.storeSaleDivSmallFont{
+  font-size: 2.2vw;
+  color: orange;
+}
+
+.storeTelDiv{
+  border: 0.01vw solid white;
+}
+
+.storeMerchDiv{
+  border: 0.01vw solid white;
+}
+
+.storeToysDiv{
+  border: 0.01vw solid white;
+}
+
+.TextMainImgNav{
+  font-size: 3vw;
+  color: black;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+  text-decoration: none;
+  display: grid;
+  grid-template-columns: 35% 30% 35%;
+}
+
+.TextMainImgNav-small{
+  font-size: 3vw;
+  color: black;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.parent-store{
+  border: 0.1vw solid #eaeaea;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  float: left;
+  display: inline-block;
+  cursor: pointer;
+  onclick="";
+}
+
+.parent-store:hover .child-store, .parent:focus .child-store {
+  transform: scale(1.04);
+}
+
+.parent-store:hover .child-store:before, .parent:focus .child-store:before {
+  display: block;
+}
+
+.parent-store:hover .TextMainNav, .parent:focus .TextMainNav {
+  color: white;
+}
+
+.child-store{
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: all 0.2s;
+}
+
+.child-store:before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.store-BG-en{
+  background-image: url("X-MAS Sale IMG.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.store-BG-to{
+  background-image: url("Telescope Icon.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.store-BG-tre{
+  background-image: url("Merch Icon.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.store-BG-fire{
+  background-color: blue;
+}
+
+.TextMainTextNav-1{
+  font-size: 5vw;
+}
+
+.TextMainTextNav-2{
+  font-size: 5vw;
+  grid-column: 3;
+}
+
+#TextMainImgNav-storeSaleDiv{
+  padding-top: 6vw;
+}
+
+#TextMainImgNav-storeDiv{
+  padding-top: 5vw;
+}
+
+#storeDiv{
+  height: 13vw;
+}
+
+#rating{
+  margin: auto;
+  font-size: 2vw;
+}
+
+#price{
+  font-size: 2vw;
+  display: inline-flex;
+  margin-right: 0.4vw;
+}
+
+#prevPrice{
+  font-size: 1.8vw;
+  text-decoration: line-through;
+  display: inline-flex;
+  color: #424242;
+}
+
+#storeItemTitle{
+  font-size: 2.5vw;
+}
+
+#storeItemDesc{
+  width: 90%;
+  margin: auto;
+}
