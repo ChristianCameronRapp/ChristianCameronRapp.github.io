@@ -1,5 +1,10 @@
 .storeMain{
   width: 80%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 2vw;
+  grid-gap: 3vw;
+  margin-bottom: 2vw;
 }
 
 .storeHomeMain{
@@ -7,9 +12,20 @@
   grid-template-columns: repeat(3, 1fr);
   margin: 2vw;
   grid-gap: 2vw;
+  display: grid;
+}
+
+.storeSalesMain{
+  margin: 2vw;
+  grid-gap: 2vw;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 2vw;
+  grid-gap: 2vw;
 }
 
 .storeItemLink{
+  grid-column: span 3;
   text-decoration: none;
   color: white;
   text-align: center;
@@ -26,7 +42,17 @@
   transition: 0.5s;
 }
 
-.storeItem:hover{
+.storeItem-sales{
+  background-color: black;
+  display: grid;
+  grid-template-columns: 30% 70%;
+  border: 0.01vw solid #eaeaea;
+  padding: 0.07vw;
+  color: orange;
+  transition: 0.5s;
+}
+
+.storeItem-sales:hover{
   background-color: orange;
   color: black;
   transition: 0.5s;
@@ -81,7 +107,7 @@
 
 .TextMainImgNav{
   font-size: 3vw;
-  color: black;
+  color: red;
   text-align: center;
   position: absolute;
   top: 0;
@@ -92,11 +118,25 @@
   text-decoration: none;
   display: grid;
   grid-template-columns: 35% 30% 35%;
+  font-weight: bolder;
+}
+
+.TextMainImgNav-sales{
+  font-size: 3vw;
+  color: red;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+  text-decoration: none;
 }
 
 .TextMainImgNav-small{
   font-size: 3vw;
-  color: black;
+  color: #121212;
   text-align: center;
   position: absolute;
   top: 0;
@@ -147,7 +187,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .store-BG-en{
@@ -169,7 +209,9 @@
 }
 
 .store-BG-fire{
-  background-color: blue;
+  background-image: url("toysIMG.png");
+  background-position: center;
+  background-size: cover;
 }
 
 .TextMainTextNav-1{
@@ -179,6 +221,189 @@
 .TextMainTextNav-2{
   font-size: 5vw;
   grid-column: 3;
+}
+
+.TextMainTextNavSales-1{
+  font-size: 3vw;
+}
+
+.product{
+  background-color: #121212;
+  grid-column: span 1;
+  text-decoration: none;
+  color: white;
+  border: solid orange 0.2vw;
+  transition: 0.8s;
+}
+
+.product:hover{
+  background-color: orange;
+  color: black;
+  transition: 0.8s;
+}
+
+.storeTelescopeImg-en{
+  background-image: url("Celestron telescope best.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeTelescopeImg-en:hover{
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.storeTelescopeImg-to{
+  background-image: url("Celestron telescope.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeTelescopeImg-tre{
+  background-image: url("bresser telescope.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+
+.productText{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 1vw;
+  grid-gap: 1vw;
+}
+
+.productTextContent{
+  text-align: center;
+}
+
+.telescopePrice{
+  font-size: 1.3vw;
+  text-decoration: line-through;
+  color: #414141;"
+}
+
+.storeClothingImg-en{
+  background-image: url("NASA hettegenser_hvit.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeClothingImg-to{
+  background-image: url("NASA genser_hvit.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeClothingImg-tre{
+  background-image: url("NASA vans_svart(1).png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeClothingImg-fire{
+  background-image: url("STAR WARS babysuit_white.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeClothingImg-fem{
+  background-image: url("STAR WARS hoodie_grey.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeClothingImg-seks{
+  background-image: url("Darth Vader_ supremecostume.jpg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeToysImg-en{
+  background-image: url("Toys_Space rocket.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeToysImg-to{
+  background-image: url("Toys_space set.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeToysImg-tre{
+  background-image: url("Toys_star wars lego(1).jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12.3vw;
+}
+
+.storeSaleDiv-en{
+  background-image: url("CELESTRON telescope.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10vw;
+  grid-row: span 3;
+}
+
+.storeSaleDiv-to{
+  background-image: url("NASA genser_hvit.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10vw;
+  grid-row: span 3;
+}
+
+.storeSaleDiv-tre{
+  background-image: url("STAR WARS hoodie_grey.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10vw;
+  grid-row: span 3;
+}
+
+.storeSaleDiv-fire{
+  background-image: url("Toys_star wars lego(1).jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10vw;
+  grid-row: span 3;
+}
+
+
+#productTextContent-p{
+  font-size: 1.8vw;
+}
+
+#productTextContent-Title{
+  grid-column: span 2;
+  font-size: 1.3vw;
 }
 
 #TextMainImgNav-storeSaleDiv{

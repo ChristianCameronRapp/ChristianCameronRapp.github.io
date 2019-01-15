@@ -37,20 +37,20 @@
     <header>
 
       <nav class="navBar">
-        <a id="home" class="navButtons" href="norsk-index.html">Hjem</a>
-        <a class="navButtons" href="norsk-UFO.html">UFO</a>
-        <a class="navButtons" href="norsk-Historier.html">Historier</a>
+        <a id="home" class="navButtons" href="index.html">Home</a>
+        <a class="navButtons" href="UFO.html">UFO</a>
+        <a class="navButtons" href="Stories.html">Stories</a>
 
-        <a id="logoLink" href="norsk-index.html"><div id="logo">INTERSTELLAR</div></a>
+        <a id="logoLink" href="index.html"><div id="logo">INTERSTELLAR</div></a>
 
-        <a class="navButtons" href="norsk-Planeter.html"><div>Planeter</div></a>
-        <a class="navButtons" href="norsk-Aliens.html">Aliens</a>
-        <a style="color: #bababa;" class="navButtons" href="norsk-Butikk.html">Butikk</a>
+        <a class="navButtons" href="Planets.html"><div>Planets</div></a>
+        <a class="navButtons" href="Aliens.html">Aliens</a>
+        <a style="color: #bababa;" class="navButtons" href="store.html">Store</a>
 
         <div class="dropdown">
-          <button id="norsk" class="dropbtn"><img id="dropbtnIMG" src="norway.png" alt=""></button>
+          <button id="english" class="dropbtn"><img id="dropbtnIMG" src="united-kingdom.png" alt=""></button>
           <div class="dropdown-content">
-            <a id="english-dropdown" href="store.html"><img id="dropdownIMG" src="united-kingdom.png" alt=""></a>
+            <a id="norsk-dropdown" href="norsk-Teleskop-Butikk.html"><img id="dropdownIMG" src="norway.png" alt=""></a>
           </div>
         </div>
       </nav>
@@ -59,65 +59,27 @@
 
 
 
-    <main>
+    <main class="storeMain" style="margin-bottom: 20vw;">
 
-      <section class="storeHomeMain">
-
-        <div class="storeSaleDiv">
-          <div class="parent-store">
-              <div class="child-store store-BG-en">
-                <a class="TextMainImgNav" id="TextMainImgNav-storeSaleDiv" href="norsk-salg.html">
-                  <div class="TextMainTextNav-1"><b>X-MAS</b></div>
-                  <div class="TextMainTextNav-2"><b>SALG</b></div>
-                </a>
-              </div>
-          </div>
-        </div>
-
-        <div id="storeDiv" class="storeTelDiv">
-          <div class="parent-store">
-              <div class="child-store store-BG-to">
-                <a class="TextMainImgNav-small" id="TextMainImgNav-storeDiv" href="norsk-Teleskop-Butikk.html">
-                  <div><b>Teleskoper</b></div>
-                </a>
-              </div>
-          </div>
-        </div>
-
-        <div id="storeDiv" class="storeMerchDiv">
-          <div class="parent-store">
-              <div class="child-store store-BG-tre">
-                <a class="TextMainImgNav-small" id="TextMainImgNav-storeDiv" href="norsk-klær.html">
-                  <div><b>Klær</b></div>
-                </a>
-              </div>
-          </div>
-        </div>
-
-        <div id="storeDiv" class="storeToysDiv">
-          <div class="parent-store">
-              <div class="child-store store-BG-fire">
-                <a class="TextMainImgNav-small" id="TextMainImgNav-storeDiv" href="norsk-leker.html">
-                  <div><b>Leker</b></div>
-                </a>
-              </div>
-          </div>
-        </div>
-
-      </section>
+      <div style="grid-column: span 3;">
+        <div style="color: white; text-align: center; font-size: 4vw;">THANK YOU FOR YOUR PURCHASE!</div>
+        <a href="store.html" style="text-decoration: none; color: white;">
+          <div style="text-align: center; background-color: orange; padding: 2vw; padding-left: 5vw; padding-right: 5vw; font-size: 2vw; margin-top: 5vw;">RETURN TO STORE</div>
+        </a>
+      </div>
 
     </main>
 
     <footer>
       <div class="">
-        <p class="">Kontakt</p>
+        <p class="">Contact</p>
         <a href="mailto:chrcamrapp@gmail.com"><div>chrcamrapp@gmail.com</div></a>
       </div>
 
       <div class="">
         <div class="feedbackDiv" style="text-align: center;">
-          <p style="grid-column: span 2;">Tilbakemelding</p>
-          <textarea id="mainText" placeholder="Skriv Text"></textarea>
+          <p style="grid-column: span 2;">Feedback</p>
+          <textarea id="mainText" placeholder="Enter Text"></textarea>
           <button class="feedbackBtn" id="submitBtn" onclick="submitClick()"><b class="fa fa-arrow-rigjt">SEND</b></button>
         </div>
 
@@ -139,7 +101,7 @@
       </div>
 
       <div class="SMdiv">
-        <p class="SMText">Sosiale Medier</p>
+        <p class="SMText">Social Media</p>
         <a class="SMlogoLink SMLogo-en" target="_blank" style="margin: right;" href="https://twitter.com/">
           <img class="SMLogo" src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53e.png" alt="">
         </a>

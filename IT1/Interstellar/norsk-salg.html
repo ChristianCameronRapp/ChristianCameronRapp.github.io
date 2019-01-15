@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+  <head>
+
+    <meta charset="utf-8">
+    <title>Interstellar</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="scroll.css">
+    <link rel="stylesheet" href="nav.css">
+    <link rel="stylesheet" href="store.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:200" rel="stylesheet">
+
+    <script src="https://www.gstatic.com/firebasejs/5.5.6/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+          apiKey: "AIzaSyB-wbqmM7APeBhxGwK4zs_Td4tklnn6spY",
+          authDomain: "radicldatabase123.firebaseapp.com",
+          databaseURL: "https://radicldatabase123.firebaseio.com",
+          projectId: "radicldatabase123",
+          storageBucket: "radicldatabase123.appspot.com",
+          messagingSenderId: "1052010649397"
+        };
+        firebase.initializeApp(config);
+    </script>
+
+  </head>
+
+
+
+  <body>
+
+    <header>
+
+      <nav class="navBar">
+        <a id="home" class="navButtons" href="norsk-index.html">Hjem</a>
+        <a class="navButtons" href="norsk-UFO.html">UFO</a>
+        <a class="navButtons" href="norsk-Historier.html">Historier</a>
+
+        <a id="logoLink" href="norsk-index.html"><div id="logo">INTERSTELLAR</div></a>
+
+        <a class="navButtons" href="norsk-Planeter.html"><div>Planeter</div></a>
+        <a class="navButtons" href="norsk-Aliens.html">Aliens</a>
+        <a style="color: #bababa;" class="navButtons" href="norsk-Butikk.html">Butikk</a>
+
+        <div class="dropdown">
+          <button id="norsk" class="dropbtn"><img id="dropbtnIMG" src="norway.png" alt=""></button>
+          <div class="dropdown-content">
+            <a id="english-dropdown" href="sales.html"><img id="dropdownIMG" src="united-kingdom.png" alt=""></a>
+          </div>
+        </div>
+      </nav>
+
+    </header>
+
+
+
+    <main>
+
+      <section class="storeSalesMain">
+
+        <div class="storeSaleDiv">
+          <div class="parent-store">
+              <div class="child-store store-BG-en">
+                <a class="TextMainImgNav-sales" id="TextMainImgNav-storeSaleDiv" href="sales.html">
+                  <div class="TextMainTextNavSales-1"><b>DE BESTE SALGENE GJENNOM VERDENSROMMET</b></div>
+                </a>
+              </div>
+          </div>
+        </div>
+
+        <a class="storeItemLink" href="">
+          <div class="storeItem-sales">
+            <div class="storeSaleDiv-en"></div>
+            <div class="storeItemTexts">
+              <p id="storeItemTitle">Celestron Astromaster 130 EQ</p>
+            </div>
+            <div class="storeItemRP">
+              <p id="rating">8.5/10</p>
+              <div class="storeItemPrice">
+                <div class="">
+                  <p style="font-size: 1.5vw; margin-right: 0;" id="price">kr</p><p id="price">2.735</p>
+                </div>
+                <div class="">
+                  <p style="font-size: 1.3vw; text-decoration: none;" id="prevPrice">$</p><p id="prevPrice">3.150</p>
+                </div>
+              </div>
+            </div>
+            <div class="storeItemTexts">
+              <p id="storeItemDesc">Discover our Solar System with the Celestron AstroMaster 130EQ! You’ll be ready to observe in minutes thanks to the quick and easy no-tool setup. The 130EQ provides bright, clear images of the Moon, planets, star clusters, and more for great nighttime viewing.</p>
+            </div>
+          </div>
+        </a>
+
+        <a class="storeItemLink" href="">
+          <div class="storeItem-sales">
+            <div class="storeSaleDiv-to"></div>
+            <div class="storeItemTexts">
+              <p id="storeItemTitle">NASA Genser</p>
+            </div>
+            <div class="storeItemRP">
+              <p id="rating">"Kvalitet"</p>
+              <div class="storeItemPrice">
+                <div class="">
+                  <p style="font-size: 1.5vw; margin-right: 0;" id="price">kr</p><p id="price">339</p>
+                </div>
+                <div class="">
+                  <p style="font-size: 1.3vw; text-decoration: none;" id="prevPrice">$</p><p id="prevPrice">429</p>
+                </div>
+              </div>
+            </div>
+            <div class="storeItemTexts">
+              <p id="storeItemDesc">NASA Genseren har et godt og behagelig design. Stoffet den er laget av er utrolig og det bidrar til å gjøre dette produktet til sitt eget.</p>
+            </div>
+          </div>
+        </a>
+
+        <a class="storeItemLink" href="">
+          <div class="storeItem-sales">
+            <div class="storeSaleDiv-tre"></div>
+            <div class="storeItemTexts">
+              <p id="storeItemTitle">STAR WARS Hettegenser</p>
+            </div>
+            <div class="storeItemRP">
+              <p id="rating">"Kul"</p>
+              <div class="storeItemPrice">
+                <div class="">
+                  <p style="font-size: 1.5vw; margin-right: 0;" id="price">kr</p><p id="price">689</p>
+                </div>
+                <div class="">
+                  <p style="font-size: 1.3vw; text-decoration: none;" id="prevPrice">kr</p><p id="prevPrice">769</p>
+                </div>
+              </div>
+            </div>
+            <div class="storeItemTexts">
+              <p id="storeItemDesc">STAR WARS er en populær filmserie. Nå kan du bruke Star wars hettegenseren og se kul ut mens du gjør det!</p>
+            </div>
+          </div>
+        </a>
+
+        <a class="storeItemLink" href="">
+          <div class="storeItem-sales">
+            <div class="storeSaleDiv-fire"></div>
+            <div class="storeItemTexts">
+              <p id="storeItemTitle">LEGO STAR WARS - Heavy Assault Walker</p>
+            </div>
+            <div class="storeItemRP">
+              <p id="rating">"Tilfredstillende"</p>
+              <div class="storeItemPrice">
+                <div class="">
+                  <p style="font-size: 1.5vw; margin-right: 0;" id="price">kr</p><p id="price">429</p>
+                </div>
+                <div class="">
+                  <p style="font-size: 1.3vw; text-decoration: none;" id="prevPrice">kr</p><p id="prevPrice">509</p>
+                </div>
+              </div>
+            </div>
+            <div class="storeItemTexts">
+              <p id="storeItemDesc">Nå er det nye lego-setet ute, dette tar plass i den nyeste star wars filmen "last jedi"!</p>
+            </div>
+          </div>
+        </a>
+      </section>
+    </main>
+
+    <footer>
+      <div class="">
+        <p class="">Kontakt</p>
+        <a href="mailto:chrcamrapp@gmail.com"><div>chrcamrapp@gmail.com</div></a>
+      </div>
+
+      <div class="">
+        <div class="feedbackDiv" style="text-align: center;">
+          <p style="grid-column: span 2;">Tilbakemelding</p>
+          <textarea id="mainText" placeholder="Skriv Text"></textarea>
+          <button class="feedbackBtn" id="submitBtn" onclick="submitClick()"><b class="fa fa-arrow-rigjt">SEND</b></button>
+        </div>
+
+        <script>
+
+          var mainText = document.getElementById("mainText");
+          var submitBtn = document.getElementById("submitBtn");
+
+          function submitClick() {
+
+            var firebaseRef = firebase.database().ref();
+
+            var messageText = mainText.value;
+
+            firebaseRef.push().set(messageText);
+          }
+
+        </script>
+      </div>
+
+      <div class="SMdiv">
+        <p class="SMText">Sosiale Medier</p>
+        <a class="SMlogoLink SMLogo-en" target="_blank" style="margin: right;" href="https://twitter.com/">
+          <img class="SMLogo" src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53e.png" alt="">
+        </a>
+        <a class="SMlogoLink SMLogo-to" target="_blank" style="margin: auto;" href="https://www.facebook.com/">
+          <img class="SMLogo" src="https://www.delightfulhair.se/userfiles/image/fblogo.png" alt="">
+        </a>
+        <a class="SMlogoLink SMLogo-tre" target="_blank" style="margin: left;" href="https://www.instagram.com/">
+          <img class="SMLogo-tre" src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c521.png" alt="">
+        </a>
+      </div>
+    </footer>
+
+  </body>
+
+</html>

@@ -1,0 +1,35 @@
+.cardInfoMain{
+  background-color: black;
+  display: grid;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  margin-top: 2vw;
+  margin-bottom: 2vw;
+  border: solid white 0.1vw;
+}
+
+.dropdown-region{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: 1vw;
+}
+
+.BuyBtn{
+  width: 15vw;
+  margin: auto;
+  margin-bottom: 2vw;
+  background-color: orange;
+  padding-top: 1.5vw;
+  padding-bottom: 1.5vw;
+  border: none;
+  font-weight: bold;
+  font-size: 1.5vw;
+  font-family: 'Raleway', sans-serif;
+}
+
+.inputFields{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: 1vw;
+}

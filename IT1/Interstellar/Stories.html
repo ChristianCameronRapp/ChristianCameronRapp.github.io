@@ -13,6 +13,20 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway:300" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200" rel="stylesheet">
 
+    <script src="https://www.gstatic.com/firebasejs/5.5.6/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+          apiKey: "AIzaSyB-wbqmM7APeBhxGwK4zs_Td4tklnn6spY",
+          authDomain: "radicldatabase123.firebaseapp.com",
+          databaseURL: "https://radicldatabase123.firebaseio.com",
+          projectId: "radicldatabase123",
+          storageBucket: "radicldatabase123.appspot.com",
+          messagingSenderId: "1052010649397"
+        };
+        firebase.initializeApp(config);
+    </script>
+
   </head>
 
 
@@ -95,10 +109,48 @@
 
     </main>
 
-
-
     <footer>
+      <div class="">
+        <p class="">Contact</p>
+        <a href="mailto:chrcamrapp@gmail.com"><div>chrcamrapp@gmail.com</div></a>
+      </div>
 
+      <div class="">
+        <div class="feedbackDiv" style="text-align: center;">
+          <p style="grid-column: span 2;">Feedback</p>
+          <textarea id="mainText" placeholder="Enter Text"></textarea>
+          <button class="feedbackBtn" id="submitBtn" onclick="submitClick()"><b class="fa fa-arrow-rigjt">SEND</b></button>
+        </div>
+
+        <script>
+
+          var mainText = document.getElementById("mainText");
+          var submitBtn = document.getElementById("submitBtn");
+
+          function submitClick() {
+
+            var firebaseRef = firebase.database().ref();
+
+            var messageText = mainText.value;
+
+            firebaseRef.push().set(messageText);
+          }
+
+        </script>
+      </div>
+
+      <div class="SMdiv">
+        <p class="SMText">Social Media</p>
+        <a class="SMlogoLink SMLogo-en" target="_blank" style="margin: right;" href="https://twitter.com/">
+          <img class="SMLogo" src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53e.png" alt="">
+        </a>
+        <a class="SMlogoLink SMLogo-to" target="_blank" style="margin: auto;" href="https://www.facebook.com/">
+          <img class="SMLogo" src="https://www.delightfulhair.se/userfiles/image/fblogo.png" alt="">
+        </a>
+        <a class="SMlogoLink SMLogo-tre" target="_blank" style="margin: left;" href="https://www.instagram.com/">
+          <img class="SMLogo-tre" src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c521.png" alt="">
+        </a>
+      </div>
     </footer>
 
   </body>

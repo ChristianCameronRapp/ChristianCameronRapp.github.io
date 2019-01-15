@@ -14,6 +14,20 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway:300" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200" rel="stylesheet">
 
+    <script src="https://www.gstatic.com/firebasejs/5.5.6/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+          apiKey: "AIzaSyB-wbqmM7APeBhxGwK4zs_Td4tklnn6spY",
+          authDomain: "radicldatabase123.firebaseapp.com",
+          databaseURL: "https://radicldatabase123.firebaseio.com",
+          projectId: "radicldatabase123",
+          storageBucket: "radicldatabase123.appspot.com",
+          messagingSenderId: "1052010649397"
+        };
+        firebase.initializeApp(config);
+    </script>
+
   </head>
 
 
@@ -47,76 +61,87 @@
 
     <main class="storeMain">
 
-      <a class="storeItemLink" href="">
-        <div class="storeItem">
-          <img class="storeItemIMG" src="https://i.ebayimg.com/images/g/7vMAAOSwOyJaqlUU/s-l1600.jpg" alt="">
-          <div class="storeItemTexts">
-            <p id="storeItemTitle">CELESTRON Astro Fi 5 Schmidt-Cassegrain</p>
-          </div>
-          <div class="storeItemRP">
-            <p id="rating">9.5/10</p>
-            <div class="storeItemPrice">
-              <div class="">
-                <p style="font-size: 1.5vw; margin-right: 0;" id="price">kr</p><p id="price">4.965</p>
-              </div>
+      <a class="product" href="cardInfo.html">
+        <div class="storeTelescopeImg-en">
+        </div>
+        <div class="productText">
+          <div class="productTextContent" id="productTextContent-Title">CELESTRON Astro Fi 5 Schmidt</div>
+          <div class="productTextContent" id="productTextContent-p">9.5/10</div>
+          <div class="productTextContent" id="productTextContent-p">kr4.990</div>
+        </div>
+      </a>
+
+      <a class="product" href="cardInfo.html">
+        <div class="storeTelescopeImg-to">
+        </div>
+        <div class="productText">
+          <div class="productTextContent" id="productTextContent-Title">Celestron Astromaster 130 EQ</div>
+          <div class="productTextContent" id="productTextContent-p">8.5/10</div>
+          <div class="productTextContent" id="productTextContent-p" style="display: grid; grid-template-columns: 1fr 1fr; text-align: center;">
+            <div style="display: inline-flex;">
+              <div>kr</div><div>2.735</div>
             </div>
-          </div>
-          <div class="storeItemTexts">
-            <p id="storeItemDesc">Celestron endrer måten vi opplever astronomi på, den endrer måten du samhandler med nattehimmelen på. Astro Fi 125 Schmidt-Cassegrain er en fullt utstyrt teleskop som kan styres med smart telefon eller nettbrett ved hjelp av den kostnadsfrie Celestron SkyPortal-appen.</p>
+            <div style="display: inline-flex;">
+              <div class="telescopePrice">kr</div><div class="telescopePrice">3.150</div>
+            </div>
           </div>
         </div>
       </a>
 
-      <a class="storeItemLink" href="">
-        <div class="storeItem">
-          <img class="storeItemIMG" src="https://www.japanphoto.no/imageserver/1000/1000/scale/p/japan/PIM_PROD/Celestron/0050234310451_Celestron_1521625807416.jpg" alt="">
-          <div class="storeItemTexts">
-            <p id="storeItemTitle">Celestron Astromaster 130 EQ</p>
-          </div>
-          <div class="storeItemRP">
-            <p id="rating">8.5/10</p>
-            <div class="storeItemPrice">
-              <div class="">
-                <p style="font-size: 1.5vw; margin-right: 0;" id="price">kr</p><p id="price">2.735</p>
-              </div>
-              <div class="">
-                <p style="font-size: 1.3vw; text-decoration: none;" id="prevPrice">kr</p><p id="prevPrice">3.150</p>
-              </div>
-            </div>
-          </div>
-          <div class="storeItemTexts">
-            <p id="storeItemDesc">Oppdag solsystem vårt med Celestron AstroMaster 130EQ! Du vil være klar til å observere i løpet av minutter takket være det raske og enkle verktøyet. 130EQ gir lyse, klare bilder av månen, planeter, stjerneklynger og mer for god nattvisning.</p>
-          </div>
+      <a class="product" href="cardInfo.html">
+        <div class="storeTelescopeImg-tre">
         </div>
-      </a>
-
-
-      <a class="storeItemLink" href="">
-        <div class="storeItem">
-          <img class="storeItemIMG" src="https://skolehuset-prod.ams3.digitaloceanspaces.com/store/productimage/1535/image/medium-672e21cd1e35256937809335898dc519.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=D7AOO66ZOS2Z4LHE6VJC%2F20181120%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20181120T182053Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=9eba07a62128f6b092af8f232194f077bd19770de60d2e262c58a6230e374a7e" alt="">
-          <div class="storeItemTexts">
-            <p id="storeItemTitle">Bresser Spotty Land Telescope</p>
-          </div>
-          <div class="storeItemRP">
-            <p id="rating">7/10</p>
-            <div class="storeItemPrice">
-              <div class="">
-                <p style="font-size: 1.5vw; margin-right: 0;" id="price">kr</p><p id="price">820</p>
-              </div>
-            </div>
-          </div>
-          <div class="storeItemTexts">
-            <p id="storeItemDesc">Bresser Spotty er et teleskop med et langt rekkevidde. Dette er et robust spottingsomfang med forstørrelse 20x-60x. Her får du veldig god optikk til en rimelig pris. Komfortabelt for skuespillere og god antireflex.</p>
-          </div>
+        <div class="productText">
+          <div class="productTextContent" id="productTextContent-Title">Bresser Spotty Land Telescope</div>
+          <div class="productTextContent" id="productTextContent-p">7/10</div>
+          <div class="productTextContent" id="productTextContent-p">kr779</div>
         </div>
       </a>
 
     </main>
 
-
-
     <footer>
+      <div class="">
+        <p class="">Kontakt</p>
+        <a href="mailto:chrcamrapp@gmail.com"><div>chrcamrapp@gmail.com</div></a>
+      </div>
 
+      <div class="">
+        <div class="feedbackDiv" style="text-align: center;">
+          <p style="grid-column: span 2;">Tilbakemelding</p>
+          <textarea id="mainText" placeholder="Skriv Text"></textarea>
+          <button class="feedbackBtn" id="submitBtn" onclick="submitClick()"><b class="fa fa-arrow-rigjt">SEND</b></button>
+        </div>
+
+        <script>
+
+          var mainText = document.getElementById("mainText");
+          var submitBtn = document.getElementById("submitBtn");
+
+          function submitClick() {
+
+            var firebaseRef = firebase.database().ref();
+
+            var messageText = mainText.value;
+
+            firebaseRef.push().set(messageText);
+          }
+
+        </script>
+      </div>
+
+      <div class="SMdiv">
+        <p class="SMText">Sosiale Medier</p>
+        <a class="SMlogoLink SMLogo-en" target="_blank" style="margin: right;" href="https://twitter.com/">
+          <img class="SMLogo" src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53e.png" alt="">
+        </a>
+        <a class="SMlogoLink SMLogo-to" target="_blank" style="margin: auto;" href="https://www.facebook.com/">
+          <img class="SMLogo" src="https://www.delightfulhair.se/userfiles/image/fblogo.png" alt="">
+        </a>
+        <a class="SMlogoLink SMLogo-tre" target="_blank" style="margin: left;" href="https://www.instagram.com/">
+          <img class="SMLogo-tre" src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c521.png" alt="">
+        </a>
+      </div>
     </footer>
 
   </body>
