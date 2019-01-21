@@ -1,0 +1,178 @@
+body{
+  margin: 0;
+  background-color: #eaeaea;
+  font-family: 'ZCOOL QingKe HuangYou';
+}
+
+main{
+  width: 90%;
+  margin: auto;
+  color: #0f1d30;
+}
+
+img{
+  width: 100%;
+}
+
+h1, h2{
+  text-align: center;
+  grid-column: span 2;
+}
+
+h1{
+  font-size: 2.5vw;
+}
+
+h2{
+  font-size: 2.1vw;
+}
+
+ol, ul{
+  font-size: 1.4vw;
+}
+
+ul{
+  grid-column: span 2;
+}
+
+.navBar{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background-color: #0f1d30;
+  line-height: 4vw;
+  text-align: center;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+.navBarBtn{
+  text-decoration: none;
+  color: white;
+  transition: .8s;
+  font-size: 1.8vw;
+}
+
+.navBarBtn:hover{
+  color: #a0a0a0;
+  transition: .8s;
+}
+
+.indexMain{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2vw;
+}
+
+.SikringDigiVerkMain{
+  margin-bottom: 2vw;
+}
+
+.brukSosialeMain{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2vw;
+}
+
+.PersonvernMain{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1.5vw;
+}
+
+::-webkit-scrollbar{
+  width: .6vw;
+}
+
+::-webkit-scrollbar-track{
+  background: #0f1d30;
+}
+
+::-webkit-scrollbar-thumb{
+  background: #f1f1f1;
+  transition: 0.5s;
+}
+
+::-webkit-scrollbar-thumb:hover{
+  background: #7a7a7a;
+  transition: 0.8s;
+}
+
+.tipsLi{
+  font-size: 2vw;
+}
+
+.forslag{
+  text-align: center;
+}
+
+.forslagBtn{
+  padding: .5vw;
+  margin-left: .6vw;
+  margin-right: .6vw;
+  color: white;
+  font-family: 'ZCOOL QingKe HuangYou';
+  border: none;
+  width: 20vw;
+  margin-top: 1.5vw;
+  font-size: 1vw;
+}
+
+.forslagBtnSend{
+  background-color: darkgreen;
+}
+
+.forslagBtnUpdate{
+  background-color: #0f1d30;
+}
+
+.forslagBtnDelete{
+  background-color: darkred;
+}
+
+.message{
+  text-align: center;
+  font-size: 1.3vw;
+  margin-bottom: 1.3vw;
+}
+
+.messageInput{
+  margin-top: 1vw;
+  margin-bottom: .7vw;
+}
+
+.ID{
+  text-align: center;
+  font-size: 1.3vw;
+}
+
+.IDInput{
+  margin-top: 1vw;
+  margin-bottom: .7vw;
+}
+
+#user_id{
+  width: 20vw;
+  height: 1.8vw;
+  font-size: 1.3vw;
+  font-family: monospace;
+  background-color: #0f1d30;
+  color: #eaeaea;
+  border: none;
+  padding-left: .2vw;
+}
+
+#user_id::placeholder{
+  color: #b5b5b5;
+}
+
+#user_name{
+  width: 20vw;
+  height: 3.5vw;
+  font-size: 1.3vw;
+  font-family: monospace;
+  background-color: #0f1d30;
+  color: #eaeaea;
+}
+
+#user_name::placeholder{
+  color: #b5b5b5;
+}

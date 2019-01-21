@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="nb" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>NETTVETT ONLINE</title>
+
+    <link href="https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://www.gstatic.com/firebasejs/5.5.6/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+          apiKey: "AIzaSyB-wbqmM7APeBhxGwK4zs_Td4tklnn6spY",
+          authDomain: "radicldatabase123.firebaseapp.com",
+          databaseURL: "https://radicldatabase123.firebaseio.com",
+          projectId: "radicldatabase123",
+          storageBucket: "radicldatabase123.appspot.com",
+          messagingSenderId: "1052010649397"
+        };
+        firebase.initializeApp(config);
+    </script>
+  </head>
+  <body>
+    <header>
+      <nav class="navBar">
+        <a class="navBarBtn" href="index.html">NETTVETT ONLINE</a>
+        <a class="navBarBtn" href="SikringDigiVerk.html" style="color: #a0a0a0">Sikring av digitale verktøy</a>
+        <a class="navBarBtn" href="brukSosiale.html">Bruk av sosialemedier</a>
+        <a class="navBarBtn" href="Personvern.html">Personvern på internett</a>
+      </nav>
+    </header>
+    <main class="SikringDigiVerkMain">
+      <h1>Sikring </h1>
+      <h2>4 tips for å opprettholde sikkerheten din på nett</h2>
+
+      <li class="tipsLi">Ha et sikkert passord eller fornavn passordet</li>
+      <li class="tipsLi">Oppdater Datamaskinen gjevnlig</li>
+      <li class="tipsLi">Bruk logikk før klikk!</li>
+      <li class="tipsLi">Ikke del privat informasjon på nett</li>
+
+      <h2>Kom med noen forslag!</h2>
+
+      <div class="forslag">
+        <div class="message">
+          <div class="messageInput">Melding:</div>
+          <textarea type="text" name="user_name" placeholder="Skriv..." id="user_name"></textarea>
+        </div>
+        <div class="ID">
+          <div class="IDInput">ID:</div>
+          <input type="text" name="id" placeholder="Lim inn ID..." id="user_id" />
+        </div>
+        <div>
+          <input class="forslagBtn forslagBtnSend" type="button" value="Send" onclick="save_user();" />
+        </div>
+        <div>
+          <input class="forslagBtn forslagBtnUpdate" type="button" value="Update" style="margin-left: 9.4531px;" onclick="update_user();" />
+        </div>
+        <div>
+          <input class="forslagBtn forslagBtnDelete" type="button" value="Delete" style="margin-left: 9.4531px;" onclick="delete_user();" />
+        </div>
+      </div>
+
+      <center>
+
+      <table id="tbl_users_list" border="1" style="font-size: 1.8vw; margin-top: 2vw;">
+        <tr>
+            <td style="padding: .5vw;">MESSAGE</td>
+            <td style="padding: .5vw;">ACCOUNT NAME</td>
+        </tr>
+      </table>
+
+
+    </main>
+    <footer>
+
+    </footer>
+    <script src="javaScript.js"></script>
+  </body>
+</html>
