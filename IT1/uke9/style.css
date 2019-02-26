@@ -1,0 +1,89 @@
+body{
+  background-color: #eaeaea;
+  font-family: 'Playfair Display', serif;;
+}
+
+header{
+
+}
+
+main{
+  padding: 1vw;
+  font-size: 2vw;
+  margin: auto;
+  background-color: #f7f7f7;
+}
+
+#secMessages{
+  height: 60vh;
+  display: grid;
+  align-content: end;
+  grid-gap: 0.5rem;
+  border-bottom: .5vw solid #eee;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  overflow: auto;
+}
+
+
+#secMessages div {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 16px;
+    max-width: 75%;
+}
+
+#secMessages div span{
+    padding: 0.75rem;
+    border-radius: 1rem;
+}
+
+#secMessages div img{
+    height: 4vw;
+    border-radius: 50%;
+}
+
+#inpMessages{
+  width: 100%;
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.logo{
+  font-size: 3vw;
+  text-align: center;
+  margin-bottom: 2vw;
+}
+
+.me{
+  justify-content: right;
+}
+
+.me span {
+    background-color: blueviolet;
+    color: white;
+    grid-row-start: 1;
+}
+
+.others{
+  justify-content: start;
+}
+
+.others span{
+  background-color: #eee;
+}
+
+.forms{
+  display: grid;
+  grid-template: 1fr;
+}
+
+.forms input{
+  width: 100%;
+  padding: .5vw;
+  box-sizing: border-box;
+}
+
+.notloggedin{
+  text-align: center;
+}
