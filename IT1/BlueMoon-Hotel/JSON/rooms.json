@@ -1,0 +1,8004 @@
+{
+  "room" : {
+    "-LdTIddrZuzYmXquvoTD" : {
+      "beds" : 1,
+      "price" : 951,
+      "roomNr" : 1,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdduPkfT18OcyxW7" : {
+      "beds" : 1,
+      "price" : 1275,
+      "roomNr" : 2,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIde4eRrzjEbeuL1v" : {
+      "beds" : 1,
+      "price" : 1033,
+      "roomNr" : 3,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIde5V-zcNCdFEBAB" : {
+      "beds" : 3,
+      "price" : 1152,
+      "roomNr" : 4,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdeH86srPhmLHrEk" : {
+      "beds" : 2,
+      "price" : 1163,
+      "roomNr" : 5,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdeJDZBn8r0gSAcm" : {
+      "beds" : 3,
+      "price" : 989,
+      "roomNr" : 6,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdeJDZBn8r0gSAcn" : {
+      "beds" : 1,
+      "price" : 1056,
+      "roomNr" : 7,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdeKkq6kso_gGRS7" : {
+      "beds" : 3,
+      "price" : 1198,
+      "roomNr" : 8,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdeL-iKLLcS3djQM" : {
+      "beds" : 3,
+      "price" : 921,
+      "roomNr" : 9,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdeMKSZjSzgttHLD" : {
+      "beds" : 2,
+      "price" : 933,
+      "roomNr" : 10,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdeMKSZjSzgttHLE" : {
+      "beds" : 2,
+      "price" : 993,
+      "roomNr" : 11,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdeNbwPFqYKVfU9g" : {
+      "beds" : 1,
+      "price" : 1066,
+      "roomNr" : 12,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdeOB3gmZkwXNgBZ" : {
+      "beds" : 1,
+      "price" : 1286,
+      "roomNr" : 13,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdeQojjItK6ct3ir" : {
+      "beds" : 3,
+      "price" : 988,
+      "roomNr" : 14,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdeRejgxv2T4Cq-y" : {
+      "beds" : 3,
+      "price" : 987,
+      "roomNr" : 15,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdeSdqDyTqvFgVuq" : {
+      "beds" : 2,
+      "price" : 1256,
+      "roomNr" : 16,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdeT7QAyRn1e8ELD" : {
+      "beds" : 1,
+      "price" : 1263,
+      "roomNr" : 17,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdeVEEfMKit3reTv" : {
+      "beds" : 3,
+      "price" : 1090,
+      "roomNr" : 18,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdeWU_HXRCf2triv" : {
+      "beds" : 3,
+      "price" : 1229,
+      "roomNr" : 19,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdeWU_HXRCf2triw" : {
+      "beds" : 2,
+      "price" : 1082,
+      "roomNr" : 20,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdeZAvFe0ZcOb46x" : {
+      "beds" : 3,
+      "price" : 1226,
+      "roomNr" : 21,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIde_gQtFXBI1Ey_T" : {
+      "beds" : 1,
+      "price" : 950,
+      "roomNr" : 22,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdebwQU68RbAGusE" : {
+      "beds" : 1,
+      "price" : 926,
+      "roomNr" : 23,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdebwQU68RbAGusF" : {
+      "beds" : 1,
+      "price" : 969,
+      "roomNr" : 24,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdecLxNqAVvhLfiN" : {
+      "beds" : 3,
+      "price" : 1169,
+      "roomNr" : 25,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdedqSjgi3yIKsgy" : {
+      "beds" : 3,
+      "price" : 996,
+      "roomNr" : 26,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdeoxhO6t9eRIlZW" : {
+      "beds" : 1,
+      "price" : 1145,
+      "roomNr" : 27,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdeppUbjCp1iXqhY" : {
+      "beds" : 3,
+      "price" : 1176,
+      "roomNr" : 28,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdeqBEf7a94szojU" : {
+      "beds" : 1,
+      "price" : 1067,
+      "roomNr" : 29,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIderWLfW5u88JfNJ" : {
+      "beds" : 1,
+      "price" : 1151,
+      "roomNr" : 30,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdet9yij4uynXynx" : {
+      "beds" : 1,
+      "price" : 1085,
+      "roomNr" : 31,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdevQGy-8H0Z_6p8" : {
+      "beds" : 2,
+      "price" : 1139,
+      "roomNr" : 32,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdezy7dApH4saKat" : {
+      "beds" : 1,
+      "price" : 1159,
+      "roomNr" : 33,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdf-pwG85G6RRETz" : {
+      "beds" : 2,
+      "price" : 1018,
+      "roomNr" : 34,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdf0MlEj464xRfi8" : {
+      "beds" : 2,
+      "price" : 1224,
+      "roomNr" : 35,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdf3ihpt9tNVpMgx" : {
+      "beds" : 2,
+      "price" : 1201,
+      "roomNr" : 36,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdf4wvUusWirVozZ" : {
+      "beds" : 1,
+      "price" : 1149,
+      "roomNr" : 37,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdf6o1QhF_9B1SqM" : {
+      "beds" : 3,
+      "price" : 1275,
+      "roomNr" : 38,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdf84dhIwFDNsE-x" : {
+      "beds" : 2,
+      "price" : 1229,
+      "roomNr" : 39,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdf9JSi3U7Ad3Ycm" : {
+      "beds" : 3,
+      "price" : 1276,
+      "roomNr" : 40,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdfAU6wXiUwYixvQ" : {
+      "beds" : 2,
+      "price" : 1207,
+      "roomNr" : 41,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdfH6FuVu8W8Afih" : {
+      "beds" : 3,
+      "price" : 906,
+      "roomNr" : 42,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdfI160eEnqBQHnO" : {
+      "beds" : 1,
+      "price" : 1249,
+      "roomNr" : 43,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdfMyRPhvSMynvoO" : {
+      "beds" : 1,
+      "price" : 1125,
+      "roomNr" : 44,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdfNJ8RHyzC76ld8" : {
+      "beds" : 1,
+      "price" : 1023,
+      "roomNr" : 45,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdfO1llCfvVirndw" : {
+      "beds" : 1,
+      "price" : 1206,
+      "roomNr" : 46,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdfPljMZ16OawAn3" : {
+      "beds" : 1,
+      "price" : 1206,
+      "roomNr" : 47,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdfQBYW-xYrJidxT" : {
+      "beds" : 3,
+      "price" : 1143,
+      "roomNr" : 48,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdfQBYW-xYrJidxU" : {
+      "beds" : 1,
+      "price" : 1262,
+      "roomNr" : 49,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdfRFEeQxKS19KtL" : {
+      "beds" : 3,
+      "price" : 1271,
+      "roomNr" : 50,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdfVJvsY3jDKNNHl" : {
+      "beds" : 3,
+      "price" : 1146,
+      "roomNr" : 51,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdfX_aLJu8k181x5" : {
+      "beds" : 3,
+      "price" : 1164,
+      "roomNr" : 52,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdfYdnAzzMMNXPnf" : {
+      "beds" : 2,
+      "price" : 1180,
+      "roomNr" : 53,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdf_nq_iSmRDw9ia" : {
+      "beds" : 1,
+      "price" : 1124,
+      "roomNr" : 54,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdfcLoFxwPel9AO5" : {
+      "beds" : 2,
+      "price" : 1293,
+      "roomNr" : 55,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdfcLoFxwPel9AO6" : {
+      "beds" : 3,
+      "price" : 1299,
+      "roomNr" : 56,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdfd-HlXFpddqgnd" : {
+      "beds" : 3,
+      "price" : 907,
+      "roomNr" : 57,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdfe0nBdVlUsDTNk" : {
+      "beds" : 2,
+      "price" : 1103,
+      "roomNr" : 58,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdfe0nBdVlUsDTNl" : {
+      "beds" : 2,
+      "price" : 1233,
+      "roomNr" : 59,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdffiOr_1vkS6JSR" : {
+      "beds" : 3,
+      "price" : 1118,
+      "roomNr" : 60,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdfgCSliF3AAkEb4" : {
+      "beds" : 1,
+      "price" : 1152,
+      "roomNr" : 61,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdfi6SctXBy5uWrE" : {
+      "beds" : 1,
+      "price" : 943,
+      "roomNr" : 62,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdg-5EUP9Gb0Aqif" : {
+      "beds" : 2,
+      "price" : 1227,
+      "roomNr" : 63,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdg26GWT-5sVdpFv" : {
+      "beds" : 2,
+      "price" : 1257,
+      "roomNr" : 64,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdg26GWT-5sVdpFw" : {
+      "beds" : 1,
+      "price" : 1270,
+      "roomNr" : 65,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdg49D4u1dM3Ey6K" : {
+      "beds" : 1,
+      "price" : 1068,
+      "roomNr" : 66,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdg5KI-qgIF2xeRe" : {
+      "beds" : 3,
+      "price" : 1086,
+      "roomNr" : 67,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdg6jVzTqHQ4qO_V" : {
+      "beds" : 3,
+      "price" : 1012,
+      "roomNr" : 68,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdg6jVzTqHQ4qO_W" : {
+      "beds" : 1,
+      "price" : 1183,
+      "roomNr" : 69,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdg7vZxI-bbvqxMS" : {
+      "beds" : 2,
+      "price" : 1240,
+      "roomNr" : 70,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdg8KB5hs1nh0wF8" : {
+      "beds" : 3,
+      "price" : 1087,
+      "roomNr" : 71,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdg8KB5hs1nh0wF9" : {
+      "beds" : 3,
+      "price" : 1077,
+      "roomNr" : 72,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdg9uZZwbQpwYHjP" : {
+      "beds" : 2,
+      "price" : 1048,
+      "roomNr" : 73,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdgBuoBxLdNIcg1T" : {
+      "beds" : 2,
+      "price" : 1282,
+      "roomNr" : 74,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdgBuoBxLdNIcg1U" : {
+      "beds" : 1,
+      "price" : 1111,
+      "roomNr" : 75,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdgC2yvL8Aah5sqS" : {
+      "beds" : 2,
+      "price" : 1054,
+      "roomNr" : 76,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdgDUAjvxPq66IB7" : {
+      "beds" : 3,
+      "price" : 1202,
+      "roomNr" : 77,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdgEMvrBLmPeMwL1" : {
+      "beds" : 1,
+      "price" : 931,
+      "roomNr" : 78,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdgHjzjBqPHKiQZR" : {
+      "beds" : 1,
+      "price" : 1147,
+      "roomNr" : 79,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdgI1MjMxjO1PJHv" : {
+      "beds" : 2,
+      "price" : 1156,
+      "roomNr" : 80,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdgJcKsiB5u85Ca_" : {
+      "beds" : 3,
+      "price" : 1295,
+      "roomNr" : 81,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdgKl7pDnvZczxNp" : {
+      "beds" : 1,
+      "price" : 1141,
+      "roomNr" : 82,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdgMWAWOCuckEtOB" : {
+      "beds" : 1,
+      "price" : 961,
+      "roomNr" : 83,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdgOu6Dt7HK2RjIq" : {
+      "beds" : 1,
+      "price" : 1200,
+      "roomNr" : 84,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdgOu6Dt7HK2RjIr" : {
+      "beds" : 3,
+      "price" : 1160,
+      "roomNr" : 85,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdgQn2_Es2FiPnG2" : {
+      "beds" : 3,
+      "price" : 1187,
+      "roomNr" : 86,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdgSkUFiWu_u1ls1" : {
+      "beds" : 3,
+      "price" : 960,
+      "roomNr" : 87,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdgSkUFiWu_u1ls2" : {
+      "beds" : 3,
+      "price" : 1088,
+      "roomNr" : 88,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdgT0zJMHdO1-L4e" : {
+      "beds" : 2,
+      "price" : 1119,
+      "roomNr" : 89,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdgU3IhxrPevNeiO" : {
+      "beds" : 1,
+      "price" : 1143,
+      "roomNr" : 90,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdgXSQ7CuM03-iNc" : {
+      "beds" : 1,
+      "price" : 1168,
+      "roomNr" : 91,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdgZfW6geNbKoxOj" : {
+      "beds" : 2,
+      "price" : 1027,
+      "roomNr" : 92,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdgg_h7MhjI8eDfX" : {
+      "beds" : 3,
+      "price" : 1280,
+      "roomNr" : 93,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdghqZihD6lBNHHq" : {
+      "beds" : 2,
+      "price" : 1093,
+      "roomNr" : 94,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdgi-qKPfBODZamI" : {
+      "beds" : 1,
+      "price" : 1160,
+      "roomNr" : 95,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdgo1hxdXDjQvwL8" : {
+      "beds" : 2,
+      "price" : 1147,
+      "roomNr" : 96,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdgpuebavYGR0Dyz" : {
+      "beds" : 3,
+      "price" : 958,
+      "roomNr" : 97,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdgq9873WRoTmxt3" : {
+      "beds" : 3,
+      "price" : 1158,
+      "roomNr" : 98,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdgrMJ2jsoEmp-Fu" : {
+      "beds" : 2,
+      "price" : 955,
+      "roomNr" : 99,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdgtGiNsceyPZjpT" : {
+      "beds" : 1,
+      "price" : 1145,
+      "roomNr" : 100,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdgu-9Sgz_-GEEYl" : {
+      "beds" : 2,
+      "price" : 1154,
+      "roomNr" : 101,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdgu-9Sgz_-GEEYm" : {
+      "beds" : 2,
+      "price" : 1087,
+      "roomNr" : 102,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdgw8vOFxdoJsK1E" : {
+      "beds" : 2,
+      "price" : 1220,
+      "roomNr" : 103,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdgxWq2eHOH8_dX5" : {
+      "beds" : 3,
+      "price" : 1276,
+      "roomNr" : 104,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdgzOltQyold32Eg" : {
+      "beds" : 2,
+      "price" : 1194,
+      "roomNr" : 105,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdh-5TJagFjCL-TA" : {
+      "beds" : 3,
+      "price" : 985,
+      "roomNr" : 106,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdh1yZe7aSw4GCHK" : {
+      "beds" : 2,
+      "price" : 1161,
+      "roomNr" : 107,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdh28KhMVlArYu6v" : {
+      "beds" : 3,
+      "price" : 994,
+      "roomNr" : 108,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdh28KhMVlArYu6w" : {
+      "beds" : 3,
+      "price" : 1292,
+      "roomNr" : 109,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdh3kBykvLxgjx4u" : {
+      "beds" : 1,
+      "price" : 1023,
+      "roomNr" : 110,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdh3kBykvLxgjx4v" : {
+      "beds" : 2,
+      "price" : 1235,
+      "roomNr" : 111,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdh4QBzIFzfy7IVn" : {
+      "beds" : 1,
+      "price" : 938,
+      "roomNr" : 112,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdh6k9gj7_CVa8U1" : {
+      "beds" : 1,
+      "price" : 1085,
+      "roomNr" : 113,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdh7mgNeluUVsZGh" : {
+      "beds" : 1,
+      "price" : 1083,
+      "roomNr" : 114,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdh89sLtrJKlNuVt" : {
+      "beds" : 1,
+      "price" : 922,
+      "roomNr" : 115,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdh89sLtrJKlNuVu" : {
+      "beds" : 2,
+      "price" : 1180,
+      "roomNr" : 116,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdh9F2j-rbaF6UR7" : {
+      "beds" : 2,
+      "price" : 1195,
+      "roomNr" : 117,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdhAbUAE1hLuIiR2" : {
+      "beds" : 3,
+      "price" : 1237,
+      "roomNr" : 118,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdhBx8OLj3S5QJmb" : {
+      "beds" : 2,
+      "price" : 1040,
+      "roomNr" : 119,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdhCbRFv-o047NP2" : {
+      "beds" : 3,
+      "price" : 1060,
+      "roomNr" : 120,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdhDy8rnWW0_9wyJ" : {
+      "beds" : 1,
+      "price" : 1181,
+      "roomNr" : 121,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdhEBRrV9wQrzsKh" : {
+      "beds" : 1,
+      "price" : 1250,
+      "roomNr" : 122,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdhGRsnz8gG7SmKO" : {
+      "beds" : 2,
+      "price" : 1266,
+      "roomNr" : 123,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdhId0GfhBmKgzxD" : {
+      "beds" : 1,
+      "price" : 1196,
+      "roomNr" : 124,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdhKLkhfb3NOlhL9" : {
+      "beds" : 2,
+      "price" : 1131,
+      "roomNr" : 125,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdhMsVt_QLMMUdTW" : {
+      "beds" : 1,
+      "price" : 996,
+      "roomNr" : 126,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdhN5el4LgnVYFMB" : {
+      "beds" : 3,
+      "price" : 1274,
+      "roomNr" : 127,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdhN5el4LgnVYFMC" : {
+      "beds" : 2,
+      "price" : 1206,
+      "roomNr" : 128,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdhOO8PtpSaF3tnL" : {
+      "beds" : 2,
+      "price" : 1223,
+      "roomNr" : 129,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdhQizjXiJ6Q3Efk" : {
+      "beds" : 2,
+      "price" : 1126,
+      "roomNr" : 130,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdhSrwJa2cXka_yW" : {
+      "beds" : 2,
+      "price" : 903,
+      "roomNr" : 131,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdhT1q3vV9iszeO7" : {
+      "beds" : 3,
+      "price" : 1246,
+      "roomNr" : 132,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdhUxEqD9U0l9vAf" : {
+      "beds" : 3,
+      "price" : 1025,
+      "roomNr" : 133,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdhVGQh8OQ_je0gy" : {
+      "beds" : 3,
+      "price" : 1209,
+      "roomNr" : 134,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdhW2HyjWWMyooEj" : {
+      "beds" : 3,
+      "price" : 948,
+      "roomNr" : 135,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdhXGQQTxIp4UYPo" : {
+      "beds" : 2,
+      "price" : 1124,
+      "roomNr" : 136,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdhZpYdffMxZCx6m" : {
+      "beds" : 3,
+      "price" : 1140,
+      "roomNr" : 137,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdha0lTnwSStYU1i" : {
+      "beds" : 2,
+      "price" : 1189,
+      "roomNr" : 138,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdhbbyIG1faOGpvw" : {
+      "beds" : 2,
+      "price" : 1171,
+      "roomNr" : 139,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdhct_t6Bd4CSUqh" : {
+      "beds" : 2,
+      "price" : 1062,
+      "roomNr" : 140,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdhdSr48aAwxtLpo" : {
+      "beds" : 2,
+      "price" : 1070,
+      "roomNr" : 141,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdhfW8Zp55vGcWNh" : {
+      "beds" : 1,
+      "price" : 1204,
+      "roomNr" : 142,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdhg-BiGIwcC5FX3" : {
+      "beds" : 1,
+      "price" : 1276,
+      "roomNr" : 143,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdhhW6regKHct9aW" : {
+      "beds" : 3,
+      "price" : 1159,
+      "roomNr" : 144,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdhiqKfpZxLCHqR8" : {
+      "beds" : 3,
+      "price" : 1029,
+      "roomNr" : 145,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdhkak8x5OjdMtCg" : {
+      "beds" : 2,
+      "price" : 1191,
+      "roomNr" : 146,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdhlHroWmqMNCFLO" : {
+      "beds" : 1,
+      "price" : 1224,
+      "roomNr" : 147,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdhmxFWfR9bh2rXM" : {
+      "beds" : 1,
+      "price" : 983,
+      "roomNr" : 148,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdhyjr08aTPSH3zo" : {
+      "beds" : 2,
+      "price" : 938,
+      "roomNr" : 149,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdhzjIblhxL5rzah" : {
+      "beds" : 2,
+      "price" : 914,
+      "roomNr" : 150,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdi-x7BZHa-XujAg" : {
+      "beds" : 2,
+      "price" : 1187,
+      "roomNr" : 151,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdi0hVdnjXQV6F1X" : {
+      "beds" : 3,
+      "price" : 1293,
+      "roomNr" : 152,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdi12qEfgSOtsQbh" : {
+      "beds" : 3,
+      "price" : 946,
+      "roomNr" : 153,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdi23b-wBx7ZXBj-" : {
+      "beds" : 3,
+      "price" : 995,
+      "roomNr" : 154,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdi4Pie6ppc80Fsb" : {
+      "beds" : 3,
+      "price" : 1290,
+      "roomNr" : 155,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdi6lgGXWj13zKTg" : {
+      "beds" : 3,
+      "price" : 1212,
+      "roomNr" : 156,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdi7t9Ow_Jwf9ZXh" : {
+      "beds" : 2,
+      "price" : 909,
+      "roomNr" : 157,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdi8l41Hqhc87UHo" : {
+      "beds" : 1,
+      "price" : 1263,
+      "roomNr" : 158,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdi9mZLJK6Goiivr" : {
+      "beds" : 2,
+      "price" : 1136,
+      "roomNr" : 159,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdi9mZLJK6Goiivs" : {
+      "beds" : 1,
+      "price" : 914,
+      "roomNr" : 160,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdiBB5iRD7a21dPE" : {
+      "beds" : 1,
+      "price" : 1024,
+      "roomNr" : 161,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdiBB5iRD7a21dPF" : {
+      "beds" : 1,
+      "price" : 1174,
+      "roomNr" : 162,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdiCXWke8FJPD3n4" : {
+      "beds" : 2,
+      "price" : 1242,
+      "roomNr" : 163,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdiDZJfDoT-Ubz60" : {
+      "beds" : 3,
+      "price" : 1097,
+      "roomNr" : 164,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdiG5YLOBaTWCjbP" : {
+      "beds" : 2,
+      "price" : 1175,
+      "roomNr" : 165,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdiINVDOoMlx7oDq" : {
+      "beds" : 2,
+      "price" : 1247,
+      "roomNr" : 166,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdiINVDOoMlx7oDr" : {
+      "beds" : 1,
+      "price" : 1037,
+      "roomNr" : 167,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdiLWfBINYnxChac" : {
+      "beds" : 3,
+      "price" : 1113,
+      "roomNr" : 168,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdiNXZkfVW45I0QL" : {
+      "beds" : 3,
+      "price" : 1218,
+      "roomNr" : 169,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdiOrTDDS1E16mBn" : {
+      "beds" : 2,
+      "price" : 1165,
+      "roomNr" : 170,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdiOrTDDS1E16mBo" : {
+      "beds" : 1,
+      "price" : 1036,
+      "roomNr" : 171,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdiP5kvYkcFKefbD" : {
+      "beds" : 3,
+      "price" : 1227,
+      "roomNr" : 172,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdiQpZOxO9n9Car-" : {
+      "beds" : 1,
+      "price" : 1088,
+      "roomNr" : 173,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdiRK9Wr_H4xtgi7" : {
+      "beds" : 3,
+      "price" : 1027,
+      "roomNr" : 174,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdiRK9Wr_H4xtgi8" : {
+      "beds" : 3,
+      "price" : 1131,
+      "roomNr" : 175,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdiSLYNHbS17RMjq" : {
+      "beds" : 2,
+      "price" : 1292,
+      "roomNr" : 176,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdiSLYNHbS17RMjr" : {
+      "beds" : 2,
+      "price" : 1092,
+      "roomNr" : 177,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdidwixY8n06UAQN" : {
+      "beds" : 2,
+      "price" : 1123,
+      "roomNr" : 178,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdifsFgtVX7Si622" : {
+      "beds" : 1,
+      "price" : 1009,
+      "roomNr" : 179,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdihj8CcuJuGRVv4" : {
+      "beds" : 1,
+      "price" : 1037,
+      "roomNr" : 180,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdihj8CcuJuGRVv5" : {
+      "beds" : 3,
+      "price" : 1059,
+      "roomNr" : 181,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdiio0WybJyOUXkD" : {
+      "beds" : 1,
+      "price" : 1283,
+      "roomNr" : 182,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdijHHHwSpUZ9mW8" : {
+      "beds" : 3,
+      "price" : 974,
+      "roomNr" : 183,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdijHHHwSpUZ9mW9" : {
+      "beds" : 3,
+      "price" : 979,
+      "roomNr" : 184,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdikYNXM0inxwm9z" : {
+      "beds" : 1,
+      "price" : 1020,
+      "roomNr" : 185,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdikYNXM0inxwmA-" : {
+      "beds" : 2,
+      "price" : 971,
+      "roomNr" : 186,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdileoEcJ3a9R4DY" : {
+      "beds" : 3,
+      "price" : 900,
+      "roomNr" : 187,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdioHuoU9lnnswIc" : {
+      "beds" : 1,
+      "price" : 1246,
+      "roomNr" : 188,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdipWziEkyomjYSs" : {
+      "beds" : 2,
+      "price" : 1271,
+      "roomNr" : 189,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIditI05LUpjsLmIB" : {
+      "beds" : 1,
+      "price" : 991,
+      "roomNr" : 190,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdiu78nZch19Tc9B" : {
+      "beds" : 1,
+      "price" : 1098,
+      "roomNr" : 191,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdivHspQybAq2tbu" : {
+      "beds" : 3,
+      "price" : 972,
+      "roomNr" : 192,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdivHspQybAq2tbv" : {
+      "beds" : 3,
+      "price" : 1052,
+      "roomNr" : 193,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdiw7IW7JCQaz4ia" : {
+      "beds" : 2,
+      "price" : 954,
+      "roomNr" : 194,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdixoehiXoKc999r" : {
+      "beds" : 3,
+      "price" : 1164,
+      "roomNr" : 195,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdiyHnKiM6_nn9jF" : {
+      "beds" : 1,
+      "price" : 1292,
+      "roomNr" : 196,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdizrrfq3Cym-xN2" : {
+      "beds" : 3,
+      "price" : 923,
+      "roomNr" : 197,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdj-8P9fUEdkhp8a" : {
+      "beds" : 2,
+      "price" : 1297,
+      "roomNr" : 198,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdj0T9rED7WtEN7Q" : {
+      "beds" : 1,
+      "price" : 1200,
+      "roomNr" : 199,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdj0T9rED7WtEN7R" : {
+      "beds" : 2,
+      "price" : 1296,
+      "roomNr" : 200,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdj1jgP4oH5JP7gq" : {
+      "beds" : 1,
+      "price" : 1157,
+      "roomNr" : 201,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdj2Te--DWVz2ks5" : {
+      "beds" : 1,
+      "price" : 1169,
+      "roomNr" : 202,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdj3mt8w5LDOUpRV" : {
+      "beds" : 2,
+      "price" : 1215,
+      "roomNr" : 203,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdj4WpCNryYMvBtW" : {
+      "beds" : 2,
+      "price" : 1220,
+      "roomNr" : 204,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdj4WpCNryYMvBtX" : {
+      "beds" : 1,
+      "price" : 954,
+      "roomNr" : 205,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdj5OX1MYWsyQnGL" : {
+      "beds" : 3,
+      "price" : 1251,
+      "roomNr" : 206,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdj6yoiOH_F8eC2q" : {
+      "beds" : 3,
+      "price" : 1251,
+      "roomNr" : 207,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdj7k-4yP7CHHr7n" : {
+      "beds" : 3,
+      "price" : 1084,
+      "roomNr" : 208,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdj8VzIJxItJbr-y" : {
+      "beds" : 3,
+      "price" : 1128,
+      "roomNr" : 209,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdj9WaUPGHpB0rZh" : {
+      "beds" : 2,
+      "price" : 1038,
+      "roomNr" : 210,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdjArogwffVGFt6y" : {
+      "beds" : 2,
+      "price" : 1183,
+      "roomNr" : 211,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdjArogwffVGFt6z" : {
+      "beds" : 1,
+      "price" : 963,
+      "roomNr" : 212,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdjBHwttfDrga3Pv" : {
+      "beds" : 3,
+      "price" : 1222,
+      "roomNr" : 213,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdjBHwttfDrga3Pw" : {
+      "beds" : 3,
+      "price" : 1231,
+      "roomNr" : 214,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdjC_AL9F0kG7kuf" : {
+      "beds" : 3,
+      "price" : 995,
+      "roomNr" : 215,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdjD8Aj-1TLXAe3u" : {
+      "beds" : 3,
+      "price" : 991,
+      "roomNr" : 216,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdjD8Aj-1TLXAe3v" : {
+      "beds" : 1,
+      "price" : 953,
+      "roomNr" : 217,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdjEGWdFkQyj2J89" : {
+      "beds" : 2,
+      "price" : 944,
+      "roomNr" : 218,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdjFXc6WXat3erb8" : {
+      "beds" : 2,
+      "price" : 985,
+      "roomNr" : 219,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdjGJ1E7oxOitrjT" : {
+      "beds" : 1,
+      "price" : 1174,
+      "roomNr" : 220,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdjGJ1E7oxOitrjU" : {
+      "beds" : 3,
+      "price" : 1107,
+      "roomNr" : 221,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdjH7UeJKTfMFU3n" : {
+      "beds" : 3,
+      "price" : 1270,
+      "roomNr" : 222,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdjH7UeJKTfMFU3o" : {
+      "beds" : 3,
+      "price" : 1187,
+      "roomNr" : 223,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdjIiLTjA8lP8HE0" : {
+      "beds" : 2,
+      "price" : 1194,
+      "roomNr" : 224,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdjJPgJDqji_qT-q" : {
+      "beds" : 3,
+      "price" : 1213,
+      "roomNr" : 225,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdjKwj9qaTRZMy88" : {
+      "beds" : 1,
+      "price" : 1071,
+      "roomNr" : 226,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdjKwj9qaTRZMy89" : {
+      "beds" : 2,
+      "price" : 1076,
+      "roomNr" : 227,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdjLO1ynOyDADYgG" : {
+      "beds" : 1,
+      "price" : 1217,
+      "roomNr" : 228,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdjLO1ynOyDADYgH" : {
+      "beds" : 2,
+      "price" : 1128,
+      "roomNr" : 229,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdjMa9rAA0VLMBSj" : {
+      "beds" : 1,
+      "price" : 1183,
+      "roomNr" : 230,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdjNLh7_Oy93QDOx" : {
+      "beds" : 3,
+      "price" : 1236,
+      "roomNr" : 231,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdjOHNqWRTq0-gO7" : {
+      "beds" : 2,
+      "price" : 1166,
+      "roomNr" : 232,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdjPkDe_xtK4XD76" : {
+      "beds" : 1,
+      "price" : 1259,
+      "roomNr" : 233,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdjQDmpuJhlWK7_u" : {
+      "beds" : 3,
+      "price" : 1191,
+      "roomNr" : 234,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdjRvjA33efzohsy" : {
+      "beds" : 1,
+      "price" : 1271,
+      "roomNr" : 235,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdjSpHt0MivSuUqd" : {
+      "beds" : 2,
+      "price" : 1288,
+      "roomNr" : 236,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdjSpHt0MivSuUqe" : {
+      "beds" : 2,
+      "price" : 1166,
+      "roomNr" : 237,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdjT3gTOOrvxZlnu" : {
+      "beds" : 1,
+      "price" : 955,
+      "roomNr" : 238,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdjUmHrQTa-689_E" : {
+      "beds" : 1,
+      "price" : 978,
+      "roomNr" : 239,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdjbgaYBVZTN3qGQ" : {
+      "beds" : 2,
+      "price" : 1068,
+      "roomNr" : 240,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdjczvtKe0vA8yZ7" : {
+      "beds" : 1,
+      "price" : 1117,
+      "roomNr" : 241,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdjd8eS6Tktt9nnQ" : {
+      "beds" : 1,
+      "price" : 1226,
+      "roomNr" : 242,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdjfRGwr4XUVITkK" : {
+      "beds" : 1,
+      "price" : 948,
+      "roomNr" : 243,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdjgx5RNGR_ZNuVI" : {
+      "beds" : 2,
+      "price" : 1058,
+      "roomNr" : 244,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdjhOcRsNhKvm_kJ" : {
+      "beds" : 3,
+      "price" : 1211,
+      "roomNr" : 245,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdjjDNbPDFmNhEpa" : {
+      "beds" : 1,
+      "price" : 905,
+      "roomNr" : 246,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdjkzLrWaNOn3T-Q" : {
+      "beds" : 1,
+      "price" : 1029,
+      "roomNr" : 247,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdjlPb7YYOSzjsfQ" : {
+      "beds" : 3,
+      "price" : 1194,
+      "roomNr" : 248,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdjmhux1K1psfLAT" : {
+      "beds" : 1,
+      "price" : 923,
+      "roomNr" : 249,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdjmhux1K1psfLAU" : {
+      "beds" : 1,
+      "price" : 1171,
+      "roomNr" : 250,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdjntbEGdsVzjJuG" : {
+      "beds" : 3,
+      "price" : 1298,
+      "roomNr" : 251,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdjntbEGdsVzjJuH" : {
+      "beds" : 2,
+      "price" : 1096,
+      "roomNr" : 252,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdjo2luJIMlWcS2B" : {
+      "beds" : 3,
+      "price" : 1144,
+      "roomNr" : 253,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdjpld2HcLFVfeWI" : {
+      "beds" : 1,
+      "price" : 1297,
+      "roomNr" : 254,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdjqsLQg1ayz6sOe" : {
+      "beds" : 2,
+      "price" : 1241,
+      "roomNr" : 255,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdjrB66rtjxgizFp" : {
+      "beds" : 2,
+      "price" : 1024,
+      "roomNr" : 256,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdjv_w0M5oD2x-Mc" : {
+      "beds" : 3,
+      "price" : 1151,
+      "roomNr" : 257,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdjwYm1S2nGVesSd" : {
+      "beds" : 1,
+      "price" : 1142,
+      "roomNr" : 258,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdjyQOXWNgWM-NSi" : {
+      "beds" : 1,
+      "price" : 1228,
+      "roomNr" : 259,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdjzhRAna6toLSmr" : {
+      "beds" : 3,
+      "price" : 973,
+      "roomNr" : 260,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdjzhRAna6toLSms" : {
+      "beds" : 1,
+      "price" : 1007,
+      "roomNr" : 261,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdk-vtrAPGCCSNI7" : {
+      "beds" : 1,
+      "price" : 1232,
+      "roomNr" : 262,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdk-vtrAPGCCSNI8" : {
+      "beds" : 1,
+      "price" : 1128,
+      "roomNr" : 263,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdk0ISH4OvIBcCnG" : {
+      "beds" : 2,
+      "price" : 1113,
+      "roomNr" : 264,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdk0ISH4OvIBcCnH" : {
+      "beds" : 3,
+      "price" : 1243,
+      "roomNr" : 265,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdk1nf3kIu8dx7KW" : {
+      "beds" : 1,
+      "price" : 1113,
+      "roomNr" : 266,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdk1nf3kIu8dx7KX" : {
+      "beds" : 1,
+      "price" : 924,
+      "roomNr" : 267,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdk2BIDvaLbYWMxr" : {
+      "beds" : 2,
+      "price" : 1132,
+      "roomNr" : 268,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdk3902XriqQDeyh" : {
+      "beds" : 3,
+      "price" : 938,
+      "roomNr" : 269,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdk5cJ-mPvdIAJGD" : {
+      "beds" : 3,
+      "price" : 909,
+      "roomNr" : 270,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdk7pW8o7-h5aWlO" : {
+      "beds" : 1,
+      "price" : 1104,
+      "roomNr" : 271,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdk7pW8o7-h5aWlP" : {
+      "beds" : 2,
+      "price" : 1291,
+      "roomNr" : 272,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdk9m6OG-EoMJICi" : {
+      "beds" : 2,
+      "price" : 1212,
+      "roomNr" : 273,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdkAw6bRyswU5M8W" : {
+      "beds" : 3,
+      "price" : 1123,
+      "roomNr" : 274,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdkCk-VXNsLdN-UK" : {
+      "beds" : 2,
+      "price" : 1079,
+      "roomNr" : 275,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdkCk-VXNsLdN-UL" : {
+      "beds" : 3,
+      "price" : 914,
+      "roomNr" : 276,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdkEI7AJaRf5159N" : {
+      "beds" : 1,
+      "price" : 1230,
+      "roomNr" : 277,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdkEI7AJaRf5159O" : {
+      "beds" : 1,
+      "price" : 1175,
+      "roomNr" : 278,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdkFIYrQxuAxquuS" : {
+      "beds" : 2,
+      "price" : 1023,
+      "roomNr" : 279,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdkG3W014p6mlZ7r" : {
+      "beds" : 3,
+      "price" : 1114,
+      "roomNr" : 280,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdkHXfOepwHO0gNU" : {
+      "beds" : 3,
+      "price" : 1132,
+      "roomNr" : 281,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdkHXfOepwHO0gNV" : {
+      "beds" : 3,
+      "price" : 1016,
+      "roomNr" : 282,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdkICXTvxkfC-N9s" : {
+      "beds" : 2,
+      "price" : 1003,
+      "roomNr" : 283,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdkICXTvxkfC-N9t" : {
+      "beds" : 3,
+      "price" : 1115,
+      "roomNr" : 284,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdkJ13jVpaR21iCi" : {
+      "beds" : 3,
+      "price" : 1162,
+      "roomNr" : 285,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdkKwMKkwLi94EIq" : {
+      "beds" : 1,
+      "price" : 983,
+      "roomNr" : 286,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdkMcWLbkBakiGJJ" : {
+      "beds" : 1,
+      "price" : 1266,
+      "roomNr" : 287,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdkN5UETbd41alRp" : {
+      "beds" : 2,
+      "price" : 1193,
+      "roomNr" : 288,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdkQUpOHE2sr0kvb" : {
+      "beds" : 3,
+      "price" : 1189,
+      "roomNr" : 289,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdkRl7LcXyGB-TUN" : {
+      "beds" : 3,
+      "price" : 1085,
+      "roomNr" : 290,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdkSF1VZrqr4ZbmD" : {
+      "beds" : 3,
+      "price" : 1145,
+      "roomNr" : 291,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdkTeSFJ_D9Rho4i" : {
+      "beds" : 1,
+      "price" : 912,
+      "roomNr" : 292,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdkVqXQ6RbqjvpKe" : {
+      "beds" : 1,
+      "price" : 1290,
+      "roomNr" : 293,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdkW7y1s9Gdqy3cH" : {
+      "beds" : 3,
+      "price" : 1229,
+      "roomNr" : 294,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdkXaVjtc2XaWyYw" : {
+      "beds" : 2,
+      "price" : 1197,
+      "roomNr" : 295,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdkZ1dAogAynNRb7" : {
+      "beds" : 1,
+      "price" : 1284,
+      "roomNr" : 296,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdk_0a5CgOssEOHT" : {
+      "beds" : 2,
+      "price" : 937,
+      "roomNr" : 297,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdkad4s9lrCwj0Li" : {
+      "beds" : 3,
+      "price" : 939,
+      "roomNr" : 298,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdkb9CXKT2LUM46T" : {
+      "beds" : 1,
+      "price" : 1155,
+      "roomNr" : 299,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdkct1KAq4Gqdv4G" : {
+      "beds" : 2,
+      "price" : 928,
+      "roomNr" : 300,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdkct1KAq4Gqdv4H" : {
+      "beds" : 1,
+      "price" : 1249,
+      "roomNr" : 301,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdkdJV_iLIpjtGSF" : {
+      "beds" : 3,
+      "price" : 1280,
+      "roomNr" : 302,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdkdJV_iLIpjtGSG" : {
+      "beds" : 3,
+      "price" : 1064,
+      "roomNr" : 303,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdkeQahMN7ddMtMF" : {
+      "beds" : 1,
+      "price" : 1154,
+      "roomNr" : 304,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdkgYiXijERidjA0" : {
+      "beds" : 2,
+      "price" : 958,
+      "roomNr" : 305,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdkiGRYhHoUdb6Co" : {
+      "beds" : 3,
+      "price" : 952,
+      "roomNr" : 306,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdkiGRYhHoUdb6Cp" : {
+      "beds" : 3,
+      "price" : 1102,
+      "roomNr" : 307,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdkjOzdZbAOKLuM3" : {
+      "beds" : 3,
+      "price" : 954,
+      "roomNr" : 308,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdkjOzdZbAOKLuM4" : {
+      "beds" : 2,
+      "price" : 1298,
+      "roomNr" : 309,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdkk2yGFtWeO8Ia4" : {
+      "beds" : 1,
+      "price" : 1022,
+      "roomNr" : 310,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdkk2yGFtWeO8Ia5" : {
+      "beds" : 2,
+      "price" : 1136,
+      "roomNr" : 311,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdklRKYRHGiCtIji" : {
+      "beds" : 1,
+      "price" : 1002,
+      "roomNr" : 312,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdklRKYRHGiCtIjj" : {
+      "beds" : 3,
+      "price" : 904,
+      "roomNr" : 313,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdkmR80wJCAV9-by" : {
+      "beds" : 2,
+      "price" : 974,
+      "roomNr" : 314,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdkmR80wJCAV9-bz" : {
+      "beds" : 3,
+      "price" : 1194,
+      "roomNr" : 315,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdkn0s_Ywlnmii1q" : {
+      "beds" : 3,
+      "price" : 975,
+      "roomNr" : 316,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdkn0s_Ywlnmii1r" : {
+      "beds" : 2,
+      "price" : 1157,
+      "roomNr" : 317,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdkoCPFF7ZgfSGkN" : {
+      "beds" : 1,
+      "price" : 1139,
+      "roomNr" : 318,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdkoCPFF7ZgfSGkO" : {
+      "beds" : 1,
+      "price" : 1297,
+      "roomNr" : 319,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdkp-xpV7cZnZM8c" : {
+      "beds" : 3,
+      "price" : 952,
+      "roomNr" : 320,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdkp-xpV7cZnZM8d" : {
+      "beds" : 2,
+      "price" : 1184,
+      "roomNr" : 321,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdkqw02ZxPZiJB4X" : {
+      "beds" : 3,
+      "price" : 1121,
+      "roomNr" : 322,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdkr95xYR2DuMQPL" : {
+      "beds" : 1,
+      "price" : 982,
+      "roomNr" : 323,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdkr95xYR2DuMQPM" : {
+      "beds" : 3,
+      "price" : 1016,
+      "roomNr" : 324,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdkslI-lQMA91wUh" : {
+      "beds" : 2,
+      "price" : 1189,
+      "roomNr" : 325,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdktbiK0RJX-PVXB" : {
+      "beds" : 1,
+      "price" : 1023,
+      "roomNr" : 326,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdktbiK0RJX-PVXC" : {
+      "beds" : 2,
+      "price" : 955,
+      "roomNr" : 327,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdkugoxb8__TU3gQ" : {
+      "beds" : 1,
+      "price" : 1041,
+      "roomNr" : 328,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdkugoxb8__TU3gR" : {
+      "beds" : 2,
+      "price" : 946,
+      "roomNr" : 329,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdkugoxb8__TU3gS" : {
+      "beds" : 1,
+      "price" : 907,
+      "roomNr" : 330,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdkxpe9AJ4JBj5V_" : {
+      "beds" : 2,
+      "price" : 953,
+      "roomNr" : 331,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdky0T3PJti-NU5g" : {
+      "beds" : 2,
+      "price" : 1207,
+      "roomNr" : 332,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdkzDG4Fob_4_71v" : {
+      "beds" : 3,
+      "price" : 945,
+      "roomNr" : 333,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdl-uhyeYObRJEqn" : {
+      "beds" : 2,
+      "price" : 910,
+      "roomNr" : 334,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdl0EHKCMdJeAQGy" : {
+      "beds" : 1,
+      "price" : 1077,
+      "roomNr" : 335,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdl1YfK8ZfKJNVN0" : {
+      "beds" : 1,
+      "price" : 1074,
+      "roomNr" : 336,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdl4zHGCG0dF9BQR" : {
+      "beds" : 3,
+      "price" : 1187,
+      "roomNr" : 337,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdl5EmL9cOvKWuX0" : {
+      "beds" : 3,
+      "price" : 1290,
+      "roomNr" : 338,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdl7A5N4R_3zP10y" : {
+      "beds" : 2,
+      "price" : 1124,
+      "roomNr" : 339,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdl8rbz7t63jtU4f" : {
+      "beds" : 3,
+      "price" : 1170,
+      "roomNr" : 340,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdl9wcYYQjNTe_xS" : {
+      "beds" : 3,
+      "price" : 1196,
+      "roomNr" : 341,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdlC-bSx8ZdHwQ_3" : {
+      "beds" : 2,
+      "price" : 1226,
+      "roomNr" : 342,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdlC-bSx8ZdHwQ_4" : {
+      "beds" : 1,
+      "price" : 1282,
+      "roomNr" : 343,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdlDCkWpnBs73k8v" : {
+      "beds" : 1,
+      "price" : 991,
+      "roomNr" : 344,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdlEIUSmzoQoX5Ks" : {
+      "beds" : 3,
+      "price" : 957,
+      "roomNr" : 345,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdlFMaylBu4pxjzu" : {
+      "beds" : 2,
+      "price" : 1040,
+      "roomNr" : 346,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdlFMaylBu4pxjzv" : {
+      "beds" : 3,
+      "price" : 1117,
+      "roomNr" : 347,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdlGutgchm5gTpZO" : {
+      "beds" : 1,
+      "price" : 953,
+      "roomNr" : 348,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdlGutgchm5gTpZP" : {
+      "beds" : 1,
+      "price" : 1080,
+      "roomNr" : 349,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdlHPDplk7pG1Ka8" : {
+      "beds" : 3,
+      "price" : 1093,
+      "roomNr" : 350,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdlIKvMrrXRIWSxz" : {
+      "beds" : 3,
+      "price" : 1179,
+      "roomNr" : 351,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdlIKvMrrXRIWSy-" : {
+      "beds" : 2,
+      "price" : 1227,
+      "roomNr" : 352,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdlJyhRSUC7GxqHB" : {
+      "beds" : 1,
+      "price" : 1108,
+      "roomNr" : 353,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdlKL8WeG01DVe5M" : {
+      "beds" : 1,
+      "price" : 904,
+      "roomNr" : 354,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdlKL8WeG01DVe5N" : {
+      "beds" : 2,
+      "price" : 906,
+      "roomNr" : 355,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdlLGCYXp7jYm2Ab" : {
+      "beds" : 2,
+      "price" : 1027,
+      "roomNr" : 356,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdlLGCYXp7jYm2Ac" : {
+      "beds" : 1,
+      "price" : 1280,
+      "roomNr" : 357,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdlM203yPInveAC8" : {
+      "beds" : 3,
+      "price" : 936,
+      "roomNr" : 358,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdlM203yPInveAC9" : {
+      "beds" : 2,
+      "price" : 1231,
+      "roomNr" : 359,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdlN4-zcYNfV3y2F" : {
+      "beds" : 1,
+      "price" : 939,
+      "roomNr" : 360,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdlN4-zcYNfV3y2G" : {
+      "beds" : 3,
+      "price" : 1207,
+      "roomNr" : 361,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdlOhb8hvgrAtEtU" : {
+      "beds" : 3,
+      "price" : 987,
+      "roomNr" : 362,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdlOhb8hvgrAtEtV" : {
+      "beds" : 1,
+      "price" : 1064,
+      "roomNr" : 363,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdlPkWJmibhzcIlh" : {
+      "beds" : 1,
+      "price" : 1157,
+      "roomNr" : 364,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdlPkWJmibhzcIli" : {
+      "beds" : 2,
+      "price" : 1097,
+      "roomNr" : 365,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdlQ870sGz0xoi4E" : {
+      "beds" : 2,
+      "price" : 1227,
+      "roomNr" : 366,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdlQ870sGz0xoi4F" : {
+      "beds" : 2,
+      "price" : 1035,
+      "roomNr" : 367,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdlRIzx4D-kJ1lzT" : {
+      "beds" : 1,
+      "price" : 1190,
+      "roomNr" : 368,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdlS93ZXpEL55CfR" : {
+      "beds" : 2,
+      "price" : 1232,
+      "roomNr" : 369,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdlVEKPHvUv-XuQf" : {
+      "beds" : 2,
+      "price" : 1240,
+      "roomNr" : 370,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdlX6X-KOGC8w5Z8" : {
+      "beds" : 3,
+      "price" : 1038,
+      "roomNr" : 371,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdlYw45TuvxeV-84" : {
+      "beds" : 1,
+      "price" : 1187,
+      "roomNr" : 372,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdlZte6wuBfqfreE" : {
+      "beds" : 1,
+      "price" : 1040,
+      "roomNr" : 373,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdlbXo_KzvlClRma" : {
+      "beds" : 3,
+      "price" : 1108,
+      "roomNr" : 374,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdlbXo_KzvlClRmb" : {
+      "beds" : 3,
+      "price" : 1153,
+      "roomNr" : 375,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdld3LoH6EYjgoF7" : {
+      "beds" : 1,
+      "price" : 1264,
+      "roomNr" : 376,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdlfNgEYEV-kDO1U" : {
+      "beds" : 2,
+      "price" : 1092,
+      "roomNr" : 377,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdlfNgEYEV-kDO1V" : {
+      "beds" : 1,
+      "price" : 1114,
+      "roomNr" : 378,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdlnZ-LAPdMIQFfr" : {
+      "beds" : 2,
+      "price" : 1259,
+      "roomNr" : 379,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdlo4LXnrRdtZpMp" : {
+      "beds" : 2,
+      "price" : 1025,
+      "roomNr" : 380,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdlpaiTFzDvXhD55" : {
+      "beds" : 1,
+      "price" : 927,
+      "roomNr" : 381,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdlpaiTFzDvXhD56" : {
+      "beds" : 2,
+      "price" : 1009,
+      "roomNr" : 382,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdlq0jTbhbLCs8L8" : {
+      "beds" : 1,
+      "price" : 1031,
+      "roomNr" : 383,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdlq0jTbhbLCs8L9" : {
+      "beds" : 3,
+      "price" : 1244,
+      "roomNr" : 384,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdlrz0vxRhlon7Bj" : {
+      "beds" : 3,
+      "price" : 1271,
+      "roomNr" : 385,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdlsKgKBmdsFU7_o" : {
+      "beds" : 3,
+      "price" : 1188,
+      "roomNr" : 386,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdluL6ydkXg2zaro" : {
+      "beds" : 2,
+      "price" : 1075,
+      "roomNr" : 387,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdlvIDpwpWCt3yoK" : {
+      "beds" : 2,
+      "price" : 983,
+      "roomNr" : 388,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdlwdKSvG-TzryRw" : {
+      "beds" : 1,
+      "price" : 1126,
+      "roomNr" : 389,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdlwdKSvG-TzryRx" : {
+      "beds" : 1,
+      "price" : 1214,
+      "roomNr" : 390,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdlxd1ETxin1IowX" : {
+      "beds" : 3,
+      "price" : 1124,
+      "roomNr" : 391,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdm-qdD7y5dt1hOd" : {
+      "beds" : 3,
+      "price" : 1131,
+      "roomNr" : 392,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdm0KoDNvk1kDgua" : {
+      "beds" : 3,
+      "price" : 1004,
+      "roomNr" : 393,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdm1ScWuH3V3rmx6" : {
+      "beds" : 1,
+      "price" : 1210,
+      "roomNr" : 394,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdm2ht-nYOxBdzPr" : {
+      "beds" : 2,
+      "price" : 1108,
+      "roomNr" : 395,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdm2ht-nYOxBdzPs" : {
+      "beds" : 1,
+      "price" : 1123,
+      "roomNr" : 396,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdm3lXMJ8-hgR_Xa" : {
+      "beds" : 2,
+      "price" : 1252,
+      "roomNr" : 397,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdm3lXMJ8-hgR_Xb" : {
+      "beds" : 1,
+      "price" : 964,
+      "roomNr" : 398,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdm4-UW-tN366n2b" : {
+      "beds" : 1,
+      "price" : 1182,
+      "roomNr" : 399,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdm6-ZhEqrSULn7y" : {
+      "beds" : 3,
+      "price" : 1139,
+      "roomNr" : 400,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdm7R0clUA_1GHjH" : {
+      "beds" : 2,
+      "price" : 1014,
+      "roomNr" : 401,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdm9_4ccPP7ELCBB" : {
+      "beds" : 1,
+      "price" : 1267,
+      "roomNr" : 402,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdmBR9aBBvnPG4VD" : {
+      "beds" : 1,
+      "price" : 1098,
+      "roomNr" : 403,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdmC0HASfmfYmUey" : {
+      "beds" : 1,
+      "price" : 1176,
+      "roomNr" : 404,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdmC0HASfmfYmUez" : {
+      "beds" : 3,
+      "price" : 954,
+      "roomNr" : 405,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdmDtbJhAYNlTwFS" : {
+      "beds" : 1,
+      "price" : 1190,
+      "roomNr" : 406,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdmIXyjwCPQGGw1S" : {
+      "beds" : 3,
+      "price" : 1197,
+      "roomNr" : 407,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdmJloONt28T4c1U" : {
+      "beds" : 1,
+      "price" : 1281,
+      "roomNr" : 408,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdmKwcbjFZDxkQ5H" : {
+      "beds" : 1,
+      "price" : 1288,
+      "roomNr" : 409,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdmKwcbjFZDxkQ5I" : {
+      "beds" : 2,
+      "price" : 1201,
+      "roomNr" : 410,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdmLadiF1rkMal3I" : {
+      "beds" : 3,
+      "price" : 1146,
+      "roomNr" : 411,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdmMLRb6lXL1zuW7" : {
+      "beds" : 1,
+      "price" : 979,
+      "roomNr" : 412,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdmNRYczJqzSFDP_" : {
+      "beds" : 3,
+      "price" : 1011,
+      "roomNr" : 413,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdmNRYczJqzSFDPa" : {
+      "beds" : 2,
+      "price" : 1116,
+      "roomNr" : 414,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdmOD29fUzUu_L6n" : {
+      "beds" : 1,
+      "price" : 1195,
+      "roomNr" : 415,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdmOD29fUzUu_L6o" : {
+      "beds" : 3,
+      "price" : 1283,
+      "roomNr" : 416,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdmOD29fUzUu_L6p" : {
+      "beds" : 3,
+      "price" : 954,
+      "roomNr" : 417,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdmPbKqa1VAQ7hgV" : {
+      "beds" : 3,
+      "price" : 1022,
+      "roomNr" : 418,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdmPbKqa1VAQ7hgW" : {
+      "beds" : 3,
+      "price" : 1061,
+      "roomNr" : 419,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdmQZUKRhkjANjCo" : {
+      "beds" : 2,
+      "price" : 1136,
+      "roomNr" : 420,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdmRbdvIpYJiYW5a" : {
+      "beds" : 3,
+      "price" : 995,
+      "roomNr" : 421,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdmRbdvIpYJiYW5b" : {
+      "beds" : 3,
+      "price" : 1023,
+      "roomNr" : 422,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdmSfdQpcGqn4VWC" : {
+      "beds" : 1,
+      "price" : 1009,
+      "roomNr" : 423,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdmTpTTLZm9fKt96" : {
+      "beds" : 3,
+      "price" : 1286,
+      "roomNr" : 424,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdmW84RwbI3XumCs" : {
+      "beds" : 2,
+      "price" : 1071,
+      "roomNr" : 425,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdmxlWB8Fy-dl-dC" : {
+      "beds" : 1,
+      "price" : 1037,
+      "roomNr" : 426,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdmy8aNQWSWeHEDe" : {
+      "beds" : 3,
+      "price" : 1166,
+      "roomNr" : 427,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdmz7q_8Bcq3U6hQ" : {
+      "beds" : 2,
+      "price" : 1038,
+      "roomNr" : 428,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdmz7q_8Bcq3U6hR" : {
+      "beds" : 2,
+      "price" : 954,
+      "roomNr" : 429,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdn-4SrTLN9ETu5N" : {
+      "beds" : 1,
+      "price" : 1166,
+      "roomNr" : 430,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdn37WPxLHBIbAas" : {
+      "beds" : 1,
+      "price" : 1210,
+      "roomNr" : 431,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdn4IQECarF6uxRx" : {
+      "beds" : 1,
+      "price" : 991,
+      "roomNr" : 432,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdn4IQECarF6uxRy" : {
+      "beds" : 1,
+      "price" : 1190,
+      "roomNr" : 433,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdn5ge8WOVtLw4wh" : {
+      "beds" : 3,
+      "price" : 1154,
+      "roomNr" : 434,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdn7aiQYNmOWpkeN" : {
+      "beds" : 1,
+      "price" : 1149,
+      "roomNr" : 435,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdn7aiQYNmOWpkeO" : {
+      "beds" : 3,
+      "price" : 1296,
+      "roomNr" : 436,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdn8wirSsAcFeSvP" : {
+      "beds" : 2,
+      "price" : 956,
+      "roomNr" : 437,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdn8wirSsAcFeSvQ" : {
+      "beds" : 1,
+      "price" : 1061,
+      "roomNr" : 438,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdn9J52nPpRsjf0O" : {
+      "beds" : 2,
+      "price" : 934,
+      "roomNr" : 439,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdn9J52nPpRsjf0P" : {
+      "beds" : 1,
+      "price" : 1174,
+      "roomNr" : 440,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdnAR2PTNXkyF6gn" : {
+      "beds" : 1,
+      "price" : 1127,
+      "roomNr" : 441,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdnBavCaKolZyBbH" : {
+      "beds" : 3,
+      "price" : 903,
+      "roomNr" : 442,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdnE3WxFR_3nmyqx" : {
+      "beds" : 3,
+      "price" : 1067,
+      "roomNr" : 443,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdnFFoDV-EXae3kv" : {
+      "beds" : 2,
+      "price" : 1248,
+      "roomNr" : 444,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdnJcf0jBoGUSwYE" : {
+      "beds" : 2,
+      "price" : 1148,
+      "roomNr" : 445,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdnKY9ZLIkCOAU5T" : {
+      "beds" : 3,
+      "price" : 1240,
+      "roomNr" : 446,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdnLRonqHEj8Vp_i" : {
+      "beds" : 3,
+      "price" : 1086,
+      "roomNr" : 447,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdnMN6xFhOfnsca2" : {
+      "beds" : 3,
+      "price" : 1106,
+      "roomNr" : 448,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdnMN6xFhOfnsca3" : {
+      "beds" : 1,
+      "price" : 1129,
+      "roomNr" : 449,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdnNOiZZWDknnccc" : {
+      "beds" : 2,
+      "price" : 1138,
+      "roomNr" : 450,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdnNOiZZWDknnccd" : {
+      "beds" : 3,
+      "price" : 1010,
+      "roomNr" : 451,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdnOzCE0hMRHJJ0j" : {
+      "beds" : 3,
+      "price" : 1188,
+      "roomNr" : 452,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdnOzCE0hMRHJJ0k" : {
+      "beds" : 3,
+      "price" : 995,
+      "roomNr" : 453,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdnPKnlUKzCsRfiG" : {
+      "beds" : 1,
+      "price" : 1002,
+      "roomNr" : 454,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdnPKnlUKzCsRfiH" : {
+      "beds" : 2,
+      "price" : 975,
+      "roomNr" : 455,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdnQgEw80RnWeWqi" : {
+      "beds" : 2,
+      "price" : 990,
+      "roomNr" : 456,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdnQgEw80RnWeWqj" : {
+      "beds" : 3,
+      "price" : 1187,
+      "roomNr" : 457,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdnQgEw80RnWeWqk" : {
+      "beds" : 2,
+      "price" : 1217,
+      "roomNr" : 458,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdnRBHvpxvqQ8bv1" : {
+      "beds" : 2,
+      "price" : 1198,
+      "roomNr" : 459,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdnS3x4imlymWVZX" : {
+      "beds" : 1,
+      "price" : 1018,
+      "roomNr" : 460,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdnT2kxc_RjbwSEo" : {
+      "beds" : 3,
+      "price" : 1213,
+      "roomNr" : 461,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdnUfkhA_gRnYez8" : {
+      "beds" : 2,
+      "price" : 1100,
+      "roomNr" : 462,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdnUfkhA_gRnYez9" : {
+      "beds" : 3,
+      "price" : 1017,
+      "roomNr" : 463,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdnVKwu4HqJjyoQr" : {
+      "beds" : 3,
+      "price" : 1086,
+      "roomNr" : 464,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdnVKwu4HqJjyoQs" : {
+      "beds" : 2,
+      "price" : 1299,
+      "roomNr" : 465,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdnWEadyTmLEwn42" : {
+      "beds" : 2,
+      "price" : 1148,
+      "roomNr" : 466,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdnWEadyTmLEwn43" : {
+      "beds" : 2,
+      "price" : 1173,
+      "roomNr" : 467,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdnXKp6bXss--R0J" : {
+      "beds" : 1,
+      "price" : 1194,
+      "roomNr" : 468,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdnYLvxSbZtCqzM3" : {
+      "beds" : 3,
+      "price" : 1216,
+      "roomNr" : 469,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdnZJ3rkJ93bc5YA" : {
+      "beds" : 2,
+      "price" : 1114,
+      "roomNr" : 470,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdnZJ3rkJ93bc5YB" : {
+      "beds" : 3,
+      "price" : 998,
+      "roomNr" : 471,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdn_coAFYOftrELb" : {
+      "beds" : 1,
+      "price" : 993,
+      "roomNr" : 472,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdnaxWm2LYIIL7ZK" : {
+      "beds" : 3,
+      "price" : 1282,
+      "roomNr" : 473,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdnaxWm2LYIIL7ZL" : {
+      "beds" : 1,
+      "price" : 1044,
+      "roomNr" : 474,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdnbf6L5R_xT7PhU" : {
+      "beds" : 1,
+      "price" : 1152,
+      "roomNr" : 475,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdnbf6L5R_xT7PhV" : {
+      "beds" : 3,
+      "price" : 1089,
+      "roomNr" : 476,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdncRLkeMkfS-2dX" : {
+      "beds" : 3,
+      "price" : 971,
+      "roomNr" : 477,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdncRLkeMkfS-2dY" : {
+      "beds" : 1,
+      "price" : 1105,
+      "roomNr" : 478,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdncRLkeMkfS-2dZ" : {
+      "beds" : 3,
+      "price" : 1176,
+      "roomNr" : 479,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdndXMr0svu8RZ7T" : {
+      "beds" : 3,
+      "price" : 930,
+      "roomNr" : 480,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdndXMr0svu8RZ7U" : {
+      "beds" : 1,
+      "price" : 1074,
+      "roomNr" : 481,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdneYCOLYqFhUjfS" : {
+      "beds" : 1,
+      "price" : 1119,
+      "roomNr" : 482,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdneYCOLYqFhUjfT" : {
+      "beds" : 3,
+      "price" : 1016,
+      "roomNr" : 483,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdnfTWmnr11NbsaL" : {
+      "beds" : 2,
+      "price" : 1130,
+      "roomNr" : 484,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdnfTWmnr11NbsaM" : {
+      "beds" : 3,
+      "price" : 1166,
+      "roomNr" : 485,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdnfTWmnr11NbsaN" : {
+      "beds" : 1,
+      "price" : 934,
+      "roomNr" : 486,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdngToxTVf0H-rZ-" : {
+      "beds" : 2,
+      "price" : 1097,
+      "roomNr" : 487,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdnh_lmYduylDWkn" : {
+      "beds" : 2,
+      "price" : 1011,
+      "roomNr" : 488,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdnh_lmYduylDWko" : {
+      "beds" : 3,
+      "price" : 921,
+      "roomNr" : 489,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdnh_lmYduylDWkp" : {
+      "beds" : 1,
+      "price" : 1212,
+      "roomNr" : 490,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdniMMxW8UoK4vLB" : {
+      "beds" : 1,
+      "price" : 1148,
+      "roomNr" : 491,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdniMMxW8UoK4vLC" : {
+      "beds" : 2,
+      "price" : 950,
+      "roomNr" : 492,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdnjZY8Feti2JwMY" : {
+      "beds" : 1,
+      "price" : 1072,
+      "roomNr" : 493,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdnjZY8Feti2JwMZ" : {
+      "beds" : 1,
+      "price" : 917,
+      "roomNr" : 494,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdnjZY8Feti2JwM_" : {
+      "beds" : 3,
+      "price" : 1026,
+      "roomNr" : 495,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdnkgDDabPhViNs-" : {
+      "beds" : 3,
+      "price" : 1164,
+      "roomNr" : 496,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdnkgDDabPhViNs0" : {
+      "beds" : 1,
+      "price" : 904,
+      "roomNr" : 497,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdnluNtK2Q8TfHAI" : {
+      "beds" : 3,
+      "price" : 1193,
+      "roomNr" : 498,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdnm9Hr3FyEf5tyY" : {
+      "beds" : 3,
+      "price" : 1037,
+      "roomNr" : 499,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdnm9Hr3FyEf5tyZ" : {
+      "beds" : 3,
+      "price" : 1106,
+      "roomNr" : 500,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdnn6kNG8YXhPCxa" : {
+      "beds" : 3,
+      "price" : 1286,
+      "roomNr" : 501,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdnooseDme8AR0Jq" : {
+      "beds" : 3,
+      "price" : 1272,
+      "roomNr" : 502,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdnpNXZjJTjxasq1" : {
+      "beds" : 3,
+      "price" : 930,
+      "roomNr" : 503,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdnqAoV4avDZlU4N" : {
+      "beds" : 1,
+      "price" : 1249,
+      "roomNr" : 504,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdnrGaf2tINlGNSm" : {
+      "beds" : 1,
+      "price" : 1141,
+      "roomNr" : 505,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdnrGaf2tINlGNSn" : {
+      "beds" : 1,
+      "price" : 1278,
+      "roomNr" : 506,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdnrGaf2tINlGNSo" : {
+      "beds" : 3,
+      "price" : 1201,
+      "roomNr" : 507,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdnsvWtC86DuxmVu" : {
+      "beds" : 3,
+      "price" : 1104,
+      "roomNr" : 508,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdntPF5qkvEtTtui" : {
+      "beds" : 2,
+      "price" : 988,
+      "roomNr" : 509,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdnvkyCp-3VfrM32" : {
+      "beds" : 2,
+      "price" : 1208,
+      "roomNr" : 510,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdnvkyCp-3VfrM33" : {
+      "beds" : 2,
+      "price" : 1199,
+      "roomNr" : 511,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdnwRSyxjN4NcO34" : {
+      "beds" : 2,
+      "price" : 1024,
+      "roomNr" : 512,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdnwRSyxjN4NcO35" : {
+      "beds" : 1,
+      "price" : 1296,
+      "roomNr" : 513,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdnxfyCdGJXz8tzI" : {
+      "beds" : 1,
+      "price" : 1248,
+      "roomNr" : 514,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdnyTf_W5l9_5tTs" : {
+      "beds" : 2,
+      "price" : 921,
+      "roomNr" : 515,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdnyTf_W5l9_5tTt" : {
+      "beds" : 3,
+      "price" : 1104,
+      "roomNr" : 516,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdnyTf_W5l9_5tTu" : {
+      "beds" : 1,
+      "price" : 942,
+      "roomNr" : 517,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdnzFDFp8w2FbLGW" : {
+      "beds" : 1,
+      "price" : 1252,
+      "roomNr" : 518,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdnzFDFp8w2FbLGX" : {
+      "beds" : 3,
+      "price" : 1200,
+      "roomNr" : 519,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdo-j0x9Z1NsYtbE" : {
+      "beds" : 3,
+      "price" : 942,
+      "roomNr" : 520,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdo-j0x9Z1NsYtbF" : {
+      "beds" : 1,
+      "price" : 916,
+      "roomNr" : 521,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdo0G-ceD8bhUoOq" : {
+      "beds" : 2,
+      "price" : 977,
+      "roomNr" : 522,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdo0G-ceD8bhUoOr" : {
+      "beds" : 1,
+      "price" : 1022,
+      "roomNr" : 523,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdo0G-ceD8bhUoOs" : {
+      "beds" : 1,
+      "price" : 1060,
+      "roomNr" : 524,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdo1lBlueyxv2Wg8" : {
+      "beds" : 2,
+      "price" : 991,
+      "roomNr" : 525,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdo1lBlueyxv2Wg9" : {
+      "beds" : 1,
+      "price" : 992,
+      "roomNr" : 526,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdo4mKFMUdXADvB0" : {
+      "beds" : 3,
+      "price" : 905,
+      "roomNr" : 527,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdo4mKFMUdXADvB1" : {
+      "beds" : 3,
+      "price" : 1007,
+      "roomNr" : 528,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdo5sj6Hxln5gZtN" : {
+      "beds" : 1,
+      "price" : 1063,
+      "roomNr" : 529,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdo6ryrSBTt4wIBl" : {
+      "beds" : 2,
+      "price" : 1025,
+      "roomNr" : 530,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdo7_qC16RZpNXa4" : {
+      "beds" : 2,
+      "price" : 977,
+      "roomNr" : 531,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdo7_qC16RZpNXa5" : {
+      "beds" : 2,
+      "price" : 1232,
+      "roomNr" : 532,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdo81x_8jiPbQ8OM" : {
+      "beds" : 1,
+      "price" : 1100,
+      "roomNr" : 533,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdo81x_8jiPbQ8ON" : {
+      "beds" : 3,
+      "price" : 1041,
+      "roomNr" : 534,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdo9QCH2LFruM2bX" : {
+      "beds" : 2,
+      "price" : 1225,
+      "roomNr" : 535,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdo9QCH2LFruM2bY" : {
+      "beds" : 2,
+      "price" : 1250,
+      "roomNr" : 536,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdoA4kjdqQNjXK1u" : {
+      "beds" : 1,
+      "price" : 1129,
+      "roomNr" : 537,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdoBQRKvpYAZi1zK" : {
+      "beds" : 1,
+      "price" : 906,
+      "roomNr" : 538,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdoBQRKvpYAZi1zL" : {
+      "beds" : 1,
+      "price" : 1275,
+      "roomNr" : 539,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdoC_o4ZZbNsdWJr" : {
+      "beds" : 1,
+      "price" : 1045,
+      "roomNr" : 540,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdoC_o4ZZbNsdWJs" : {
+      "beds" : 3,
+      "price" : 1084,
+      "roomNr" : 541,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdoDCZ-Hc3cAKZUe" : {
+      "beds" : 2,
+      "price" : 1261,
+      "roomNr" : 542,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdoEaQ2AGIczuFFb" : {
+      "beds" : 3,
+      "price" : 982,
+      "roomNr" : 543,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdoEaQ2AGIczuFFc" : {
+      "beds" : 3,
+      "price" : 1237,
+      "roomNr" : 544,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdoF8bHmXZPFV5QG" : {
+      "beds" : 3,
+      "price" : 906,
+      "roomNr" : 545,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdoF8bHmXZPFV5QH" : {
+      "beds" : 2,
+      "price" : 1088,
+      "roomNr" : 546,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdoF8bHmXZPFV5QI" : {
+      "beds" : 3,
+      "price" : 1199,
+      "roomNr" : 547,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdoIscXLfYwWwilI" : {
+      "beds" : 3,
+      "price" : 1063,
+      "roomNr" : 548,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdoLhl8KlvoFrbbh" : {
+      "beds" : 3,
+      "price" : 1241,
+      "roomNr" : 549,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdoMwM_wTa1nrzV-" : {
+      "beds" : 2,
+      "price" : 1056,
+      "roomNr" : 550,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdoPidNSIKBVD2lT" : {
+      "beds" : 2,
+      "price" : 1161,
+      "roomNr" : 551,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdoQDopWSKbn0RYD" : {
+      "beds" : 2,
+      "price" : 1206,
+      "roomNr" : 552,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdoSeOAkPUeyJ3zU" : {
+      "beds" : 1,
+      "price" : 1165,
+      "roomNr" : 553,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdoTitOm1xVo9__Q" : {
+      "beds" : 2,
+      "price" : 1166,
+      "roomNr" : 554,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdoUSyRahJvT8Qfu" : {
+      "beds" : 3,
+      "price" : 968,
+      "roomNr" : 555,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdoVfpTlGAopqqOI" : {
+      "beds" : 3,
+      "price" : 1031,
+      "roomNr" : 556,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdoa4H18VNCtlL-V" : {
+      "beds" : 3,
+      "price" : 1282,
+      "roomNr" : 557,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdogpn5UJl6cJCKB" : {
+      "beds" : 1,
+      "price" : 1027,
+      "roomNr" : 558,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdohEsUA4cR9sqhR" : {
+      "beds" : 1,
+      "price" : 1101,
+      "roomNr" : 559,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdohEsUA4cR9sqhS" : {
+      "beds" : 1,
+      "price" : 1078,
+      "roomNr" : 560,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdoirjz2YLFFBXiL" : {
+      "beds" : 2,
+      "price" : 1173,
+      "roomNr" : 561,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdoirjz2YLFFBXiM" : {
+      "beds" : 1,
+      "price" : 1037,
+      "roomNr" : 562,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdojvy_aWa2MhqWY" : {
+      "beds" : 3,
+      "price" : 1271,
+      "roomNr" : 563,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdojvy_aWa2MhqWZ" : {
+      "beds" : 2,
+      "price" : 981,
+      "roomNr" : 564,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdokELycTRpLlXdQ" : {
+      "beds" : 1,
+      "price" : 1157,
+      "roomNr" : 565,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdokELycTRpLlXdR" : {
+      "beds" : 2,
+      "price" : 1220,
+      "roomNr" : 566,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdomYhDZY1KokJz4" : {
+      "beds" : 1,
+      "price" : 1189,
+      "roomNr" : 567,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdonu4Zz9NLypv6w" : {
+      "beds" : 2,
+      "price" : 1154,
+      "roomNr" : 568,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdonu4Zz9NLypv6x" : {
+      "beds" : 3,
+      "price" : 902,
+      "roomNr" : 569,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdoogiHBNiZQqvB2" : {
+      "beds" : 2,
+      "price" : 1192,
+      "roomNr" : 570,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdoogiHBNiZQqvB3" : {
+      "beds" : 3,
+      "price" : 1052,
+      "roomNr" : 571,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdopPt0EjGYbjBg9" : {
+      "beds" : 3,
+      "price" : 978,
+      "roomNr" : 572,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdoq4o2kVYKaQFQE" : {
+      "beds" : 1,
+      "price" : 982,
+      "roomNr" : 573,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdorJA7rj5tZO7gm" : {
+      "beds" : 3,
+      "price" : 1273,
+      "roomNr" : 574,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdosaufO8rCljGpJ" : {
+      "beds" : 2,
+      "price" : 1173,
+      "roomNr" : 575,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdosaufO8rCljGpK" : {
+      "beds" : 2,
+      "price" : 1171,
+      "roomNr" : 576,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdotS07Y6K7rgnzT" : {
+      "beds" : 3,
+      "price" : 1004,
+      "roomNr" : 577,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdou4DXRQUMAPWvD" : {
+      "beds" : 3,
+      "price" : 1297,
+      "roomNr" : 578,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdovsu7NwB8UyLnb" : {
+      "beds" : 3,
+      "price" : 1173,
+      "roomNr" : 579,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdoweiVGfx0zY-vY" : {
+      "beds" : 2,
+      "price" : 1084,
+      "roomNr" : 580,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdoweiVGfx0zY-vZ" : {
+      "beds" : 1,
+      "price" : 992,
+      "roomNr" : 581,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdoxG5NgYr2zXPPc" : {
+      "beds" : 2,
+      "price" : 1040,
+      "roomNr" : 582,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdoxG5NgYr2zXPPd" : {
+      "beds" : 2,
+      "price" : 1170,
+      "roomNr" : 583,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdoyF--F4wgRN1qF" : {
+      "beds" : 2,
+      "price" : 1066,
+      "roomNr" : 584,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdoyF--F4wgRN1qG" : {
+      "beds" : 1,
+      "price" : 1144,
+      "roomNr" : 585,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdozio25UAc1fsy_" : {
+      "beds" : 2,
+      "price" : 1223,
+      "roomNr" : 586,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdozio25UAc1fsya" : {
+      "beds" : 2,
+      "price" : 1145,
+      "roomNr" : 587,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdp-qj2JlE5LSNTm" : {
+      "beds" : 3,
+      "price" : 1223,
+      "roomNr" : 588,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdp-qj2JlE5LSNTn" : {
+      "beds" : 3,
+      "price" : 1044,
+      "roomNr" : 589,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdp07xcXFjz-lAjt" : {
+      "beds" : 1,
+      "price" : 1180,
+      "roomNr" : 590,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdp07xcXFjz-lAju" : {
+      "beds" : 3,
+      "price" : 1105,
+      "roomNr" : 591,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdp07xcXFjz-lAjv" : {
+      "beds" : 1,
+      "price" : 984,
+      "roomNr" : 592,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdp1LYCRSX5nu2rB" : {
+      "beds" : 2,
+      "price" : 1080,
+      "roomNr" : 593,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdp1LYCRSX5nu2rC" : {
+      "beds" : 3,
+      "price" : 1154,
+      "roomNr" : 594,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdp34EOIPXvEnIAJ" : {
+      "beds" : 3,
+      "price" : 1189,
+      "roomNr" : 595,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdp34EOIPXvEnIAK" : {
+      "beds" : 3,
+      "price" : 1098,
+      "roomNr" : 596,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdp4fDE8-hWSHX7m" : {
+      "beds" : 1,
+      "price" : 1207,
+      "roomNr" : 597,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdp7GCoHfEo7iPtX" : {
+      "beds" : 2,
+      "price" : 1197,
+      "roomNr" : 598,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdp8cZFpxyrodhz3" : {
+      "beds" : 2,
+      "price" : 935,
+      "roomNr" : 599,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdp9lZkmaHKKOcv0" : {
+      "beds" : 3,
+      "price" : 962,
+      "roomNr" : 600,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdp9lZkmaHKKOcv1" : {
+      "beds" : 2,
+      "price" : 1205,
+      "roomNr" : 601,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdpA7wVvx-wi-FV4" : {
+      "beds" : 1,
+      "price" : 1055,
+      "roomNr" : 602,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdpA7wVvx-wi-FV5" : {
+      "beds" : 3,
+      "price" : 1093,
+      "roomNr" : 603,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdpA7wVvx-wi-FV6" : {
+      "beds" : 3,
+      "price" : 916,
+      "roomNr" : 604,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdpByxxENxyxL5rv" : {
+      "beds" : 3,
+      "price" : 1174,
+      "roomNr" : 605,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdpByxxENxyxL5rw" : {
+      "beds" : 3,
+      "price" : 1246,
+      "roomNr" : 606,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdpCiI8gk91D1fls" : {
+      "beds" : 1,
+      "price" : 1130,
+      "roomNr" : 607,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdpCiI8gk91D1flt" : {
+      "beds" : 2,
+      "price" : 1091,
+      "roomNr" : 608,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdpCiI8gk91D1flu" : {
+      "beds" : 2,
+      "price" : 1069,
+      "roomNr" : 609,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdpDhDEg7xFMhlmP" : {
+      "beds" : 3,
+      "price" : 958,
+      "roomNr" : 610,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdpDhDEg7xFMhlmQ" : {
+      "beds" : 1,
+      "price" : 1158,
+      "roomNr" : 611,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdpE0tahAed_0z9e" : {
+      "beds" : 1,
+      "price" : 1079,
+      "roomNr" : 612,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdpE0tahAed_0z9f" : {
+      "beds" : 2,
+      "price" : 1280,
+      "roomNr" : 613,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdpE0tahAed_0z9g" : {
+      "beds" : 3,
+      "price" : 1050,
+      "roomNr" : 614,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdpFhFTi0a_iW0gl" : {
+      "beds" : 1,
+      "price" : 942,
+      "roomNr" : 615,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdpG-9i3xgkmTknH" : {
+      "beds" : 1,
+      "price" : 1230,
+      "roomNr" : 616,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdpHGg4qbJvSzsQh" : {
+      "beds" : 3,
+      "price" : 926,
+      "roomNr" : 617,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdpHGg4qbJvSzsQi" : {
+      "beds" : 2,
+      "price" : 1148,
+      "roomNr" : 618,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdpIVEk8bxm1VEkr" : {
+      "beds" : 3,
+      "price" : 1207,
+      "roomNr" : 619,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdpIVEk8bxm1VEks" : {
+      "beds" : 3,
+      "price" : 954,
+      "roomNr" : 620,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdpIVEk8bxm1VEkt" : {
+      "beds" : 2,
+      "price" : 1164,
+      "roomNr" : 621,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdpJb4VaeOh1bjcz" : {
+      "beds" : 1,
+      "price" : 1195,
+      "roomNr" : 622,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdpJb4VaeOh1bjd-" : {
+      "beds" : 1,
+      "price" : 1230,
+      "roomNr" : 623,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdpKqiGkHPFgKVEF" : {
+      "beds" : 2,
+      "price" : 1013,
+      "roomNr" : 624,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdpKqiGkHPFgKVEG" : {
+      "beds" : 3,
+      "price" : 1010,
+      "roomNr" : 625,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdpLEEqhD1wjBIP8" : {
+      "beds" : 3,
+      "price" : 1247,
+      "roomNr" : 626,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdpNk6AyNBk1dNqH" : {
+      "beds" : 1,
+      "price" : 1078,
+      "roomNr" : 627,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdpOxq_jMT7fnkJV" : {
+      "beds" : 1,
+      "price" : 1157,
+      "roomNr" : 628,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdpP2afeOFKBewJq" : {
+      "beds" : 3,
+      "price" : 1040,
+      "roomNr" : 629,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdpQHf5nhwiN__kk" : {
+      "beds" : 1,
+      "price" : 1160,
+      "roomNr" : 630,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdpQHf5nhwiN__kl" : {
+      "beds" : 2,
+      "price" : 1050,
+      "roomNr" : 631,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdpRN2B_DVos9sd7" : {
+      "beds" : 3,
+      "price" : 1135,
+      "roomNr" : 632,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdpRN2B_DVos9sd8" : {
+      "beds" : 1,
+      "price" : 1134,
+      "roomNr" : 633,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdpRN2B_DVos9sd9" : {
+      "beds" : 1,
+      "price" : 1010,
+      "roomNr" : 634,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdpSPt8XbUm2Fkm4" : {
+      "beds" : 1,
+      "price" : 1124,
+      "roomNr" : 635,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdpSPt8XbUm2Fkm5" : {
+      "beds" : 2,
+      "price" : 947,
+      "roomNr" : 636,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdpSPt8XbUm2Fkm6" : {
+      "beds" : 1,
+      "price" : 1263,
+      "roomNr" : 637,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdpTwSJnKToDy98V" : {
+      "beds" : 3,
+      "price" : 1134,
+      "roomNr" : 638,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdpTwSJnKToDy98W" : {
+      "beds" : 1,
+      "price" : 922,
+      "roomNr" : 639,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdpTwSJnKToDy98X" : {
+      "beds" : 1,
+      "price" : 965,
+      "roomNr" : 640,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdpU0TvhsL_y8129" : {
+      "beds" : 3,
+      "price" : 1028,
+      "roomNr" : 641,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdpU0TvhsL_y812A" : {
+      "beds" : 3,
+      "price" : 1138,
+      "roomNr" : 642,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdpU0TvhsL_y812B" : {
+      "beds" : 3,
+      "price" : 999,
+      "roomNr" : 643,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdpVKBq08zDQY6KP" : {
+      "beds" : 3,
+      "price" : 912,
+      "roomNr" : 644,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdpVKBq08zDQY6KQ" : {
+      "beds" : 3,
+      "price" : 901,
+      "roomNr" : 645,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdpVKBq08zDQY6KR" : {
+      "beds" : 2,
+      "price" : 1069,
+      "roomNr" : 646,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdpW963OEaMHBWIH" : {
+      "beds" : 1,
+      "price" : 1091,
+      "roomNr" : 647,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdpW963OEaMHBWII" : {
+      "beds" : 1,
+      "price" : 1268,
+      "roomNr" : 648,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdpXs6884DDQ24ih" : {
+      "beds" : 2,
+      "price" : 921,
+      "roomNr" : 649,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdpYR8G-Ra704G10" : {
+      "beds" : 2,
+      "price" : 1105,
+      "roomNr" : 650,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdp_zxX9YoioHjSP" : {
+      "beds" : 2,
+      "price" : 1223,
+      "roomNr" : 651,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdp_zxX9YoioHjSQ" : {
+      "beds" : 1,
+      "price" : 1117,
+      "roomNr" : 652,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdpaN1jXKOqYMc87" : {
+      "beds" : 2,
+      "price" : 1117,
+      "roomNr" : 653,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdpd_8fhL-mu8zA9" : {
+      "beds" : 1,
+      "price" : 1111,
+      "roomNr" : 654,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdph5Ta_sxbJQm5Q" : {
+      "beds" : 1,
+      "price" : 1030,
+      "roomNr" : 655,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdpi-mivCFWu3VgS" : {
+      "beds" : 2,
+      "price" : 1178,
+      "roomNr" : 656,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdpi-mivCFWu3VgT" : {
+      "beds" : 2,
+      "price" : 918,
+      "roomNr" : 657,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdpjJ_gZUcyde8PC" : {
+      "beds" : 1,
+      "price" : 1183,
+      "roomNr" : 658,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdq1eRPrIDr7AIoD" : {
+      "beds" : 1,
+      "price" : 1173,
+      "roomNr" : 659,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdq2OoINfFy23p1M" : {
+      "beds" : 1,
+      "price" : 1275,
+      "roomNr" : 660,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdq3G8XzmVfSHMzF" : {
+      "beds" : 1,
+      "price" : 1124,
+      "roomNr" : 661,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdq58HhZTh7vFUyW" : {
+      "beds" : 2,
+      "price" : 1189,
+      "roomNr" : 662,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdq6G_j3UfTUuKi3" : {
+      "beds" : 1,
+      "price" : 972,
+      "roomNr" : 663,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdq9BQljuhecu4Hd" : {
+      "beds" : 3,
+      "price" : 1025,
+      "roomNr" : 664,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdqCMfZjgb2rAvr_" : {
+      "beds" : 2,
+      "price" : 1287,
+      "roomNr" : 665,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdqD7wnYtDoFzwkt" : {
+      "beds" : 2,
+      "price" : 1095,
+      "roomNr" : 666,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdqEUwvo5hr_ThTb" : {
+      "beds" : 2,
+      "price" : 1251,
+      "roomNr" : 667,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdqEUwvo5hr_ThTc" : {
+      "beds" : 2,
+      "price" : 1206,
+      "roomNr" : 668,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdqFa3_dkxqFWuz5" : {
+      "beds" : 2,
+      "price" : 952,
+      "roomNr" : 669,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdqFa3_dkxqFWuz6" : {
+      "beds" : 3,
+      "price" : 993,
+      "roomNr" : 670,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdqGMGBuDwHuYuCP" : {
+      "beds" : 1,
+      "price" : 960,
+      "roomNr" : 671,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdqGMGBuDwHuYuCQ" : {
+      "beds" : 2,
+      "price" : 1132,
+      "roomNr" : 672,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdqHiHzL1zcGsX-m" : {
+      "beds" : 1,
+      "price" : 954,
+      "roomNr" : 673,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdqHiHzL1zcGsX-n" : {
+      "beds" : 3,
+      "price" : 907,
+      "roomNr" : 674,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdqILGaDGjDRMX81" : {
+      "beds" : 3,
+      "price" : 1104,
+      "roomNr" : 675,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdqILGaDGjDRMX82" : {
+      "beds" : 2,
+      "price" : 1079,
+      "roomNr" : 676,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdqJFT9ZYnPfn9Km" : {
+      "beds" : 2,
+      "price" : 1289,
+      "roomNr" : 677,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdqJFT9ZYnPfn9Kn" : {
+      "beds" : 1,
+      "price" : 1210,
+      "roomNr" : 678,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdqKcA1RD0heHCZR" : {
+      "beds" : 2,
+      "price" : 981,
+      "roomNr" : 679,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdqLzC99rGNIR9nO" : {
+      "beds" : 2,
+      "price" : 1199,
+      "roomNr" : 680,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdqLzC99rGNIR9nP" : {
+      "beds" : 1,
+      "price" : 1043,
+      "roomNr" : 681,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdqLzC99rGNIR9nQ" : {
+      "beds" : 2,
+      "price" : 976,
+      "roomNr" : 682,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdqMFGmQDw_lfbCm" : {
+      "beds" : 2,
+      "price" : 1175,
+      "roomNr" : 683,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdqMFGmQDw_lfbCn" : {
+      "beds" : 2,
+      "price" : 908,
+      "roomNr" : 684,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdqMFGmQDw_lfbCo" : {
+      "beds" : 3,
+      "price" : 1272,
+      "roomNr" : 685,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdqNrFZEtUs_0HLf" : {
+      "beds" : 3,
+      "price" : 1173,
+      "roomNr" : 686,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdqNrFZEtUs_0HLg" : {
+      "beds" : 2,
+      "price" : 901,
+      "roomNr" : 687,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdqPGMSyvMbzr6ND" : {
+      "beds" : 2,
+      "price" : 980,
+      "roomNr" : 688,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdqQERElvfnJ4DT_" : {
+      "beds" : 1,
+      "price" : 1031,
+      "roomNr" : 689,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdqRc90SSsiPrFsP" : {
+      "beds" : 2,
+      "price" : 1171,
+      "roomNr" : 690,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdqS32PGlQc-BRwF" : {
+      "beds" : 3,
+      "price" : 1011,
+      "roomNr" : 691,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdqS32PGlQc-BRwG" : {
+      "beds" : 2,
+      "price" : 1293,
+      "roomNr" : 692,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdqTRuMS_Jf1Bq36" : {
+      "beds" : 3,
+      "price" : 1007,
+      "roomNr" : 693,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdqTRuMS_Jf1Bq37" : {
+      "beds" : 3,
+      "price" : 1035,
+      "roomNr" : 694,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdqTRuMS_Jf1Bq38" : {
+      "beds" : 3,
+      "price" : 1292,
+      "roomNr" : 695,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdqW2w7WLc06aYoT" : {
+      "beds" : 1,
+      "price" : 958,
+      "roomNr" : 696,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdqX17sbVBZHUJ7X" : {
+      "beds" : 2,
+      "price" : 978,
+      "roomNr" : 697,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdqX17sbVBZHUJ7Y" : {
+      "beds" : 3,
+      "price" : 944,
+      "roomNr" : 698,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdqYG51LtsaVVxE1" : {
+      "beds" : 2,
+      "price" : 906,
+      "roomNr" : 699,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdqYG51LtsaVVxE2" : {
+      "beds" : 1,
+      "price" : 1042,
+      "roomNr" : 700,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdqZZ2zQ0c07NdS4" : {
+      "beds" : 1,
+      "price" : 1177,
+      "roomNr" : 701,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdqc4QgK-op-qWM_" : {
+      "beds" : 2,
+      "price" : 1226,
+      "roomNr" : 702,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdqfsdTueyEU-F9K" : {
+      "beds" : 1,
+      "price" : 1088,
+      "roomNr" : 703,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdqgCXROUr95iMRn" : {
+      "beds" : 1,
+      "price" : 1079,
+      "roomNr" : 704,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdqhXg5m2jOQFi9M" : {
+      "beds" : 1,
+      "price" : 1241,
+      "roomNr" : 705,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdqhXg5m2jOQFi9N" : {
+      "beds" : 1,
+      "price" : 913,
+      "roomNr" : 706,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdqiwL9rAGvAKnPk" : {
+      "beds" : 2,
+      "price" : 1240,
+      "roomNr" : 707,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdqjmkOB_m0HnZ7C" : {
+      "beds" : 1,
+      "price" : 1083,
+      "roomNr" : 708,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdqkna7pbz21gVS3" : {
+      "beds" : 1,
+      "price" : 1270,
+      "roomNr" : 709,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdqkna7pbz21gVS4" : {
+      "beds" : 1,
+      "price" : 951,
+      "roomNr" : 710,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdqlNd0b1tzlqLma" : {
+      "beds" : 3,
+      "price" : 909,
+      "roomNr" : 711,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdqno7UStjVmNXUC" : {
+      "beds" : 1,
+      "price" : 1209,
+      "roomNr" : 712,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdqno7UStjVmNXUD" : {
+      "beds" : 1,
+      "price" : 1196,
+      "roomNr" : 713,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdqoKpvm4g59EMMb" : {
+      "beds" : 2,
+      "price" : 1251,
+      "roomNr" : 714,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdqoKpvm4g59EMMc" : {
+      "beds" : 3,
+      "price" : 1181,
+      "roomNr" : 715,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdqpHx5C8z5TaJqR" : {
+      "beds" : 3,
+      "price" : 1086,
+      "roomNr" : 716,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdqpHx5C8z5TaJqS" : {
+      "beds" : 2,
+      "price" : 906,
+      "roomNr" : 717,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdqqcmVHNwHryALQ" : {
+      "beds" : 3,
+      "price" : 1098,
+      "roomNr" : 718,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdqqcmVHNwHryALR" : {
+      "beds" : 3,
+      "price" : 1126,
+      "roomNr" : 719,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdqqcmVHNwHryALS" : {
+      "beds" : 1,
+      "price" : 1130,
+      "roomNr" : 720,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdqrDyuimdtJa2zG" : {
+      "beds" : 3,
+      "price" : 958,
+      "roomNr" : 721,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdqrDyuimdtJa2zH" : {
+      "beds" : 1,
+      "price" : 951,
+      "roomNr" : 722,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdqsvft1VSFl_q1q" : {
+      "beds" : 3,
+      "price" : 1114,
+      "roomNr" : 723,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdqsvft1VSFl_q1r" : {
+      "beds" : 1,
+      "price" : 1237,
+      "roomNr" : 724,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdqsvft1VSFl_q1s" : {
+      "beds" : 3,
+      "price" : 1248,
+      "roomNr" : 725,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdqtmWdvSeldPrZv" : {
+      "beds" : 1,
+      "price" : 943,
+      "roomNr" : 726,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdqtmWdvSeldPrZw" : {
+      "beds" : 3,
+      "price" : 1184,
+      "roomNr" : 727,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdquWaZPVUO0JjlT" : {
+      "beds" : 2,
+      "price" : 1020,
+      "roomNr" : 728,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdqw2311RNIzYM38" : {
+      "beds" : 1,
+      "price" : 1003,
+      "roomNr" : 729,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdqxSoewFn3mTyAw" : {
+      "beds" : 3,
+      "price" : 955,
+      "roomNr" : 730,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdqyJ3F6H65I9B_J" : {
+      "beds" : 3,
+      "price" : 1296,
+      "roomNr" : 731,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdqyJ3F6H65I9B_K" : {
+      "beds" : 3,
+      "price" : 1145,
+      "roomNr" : 732,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdqzoxEv48uhHflD" : {
+      "beds" : 2,
+      "price" : 1285,
+      "roomNr" : 733,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdqzoxEv48uhHflE" : {
+      "beds" : 2,
+      "price" : 1064,
+      "roomNr" : 734,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdqzoxEv48uhHflF" : {
+      "beds" : 1,
+      "price" : 979,
+      "roomNr" : 735,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdr-aoOwOIcTcKMg" : {
+      "beds" : 2,
+      "price" : 1055,
+      "roomNr" : 736,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdr-aoOwOIcTcKMh" : {
+      "beds" : 3,
+      "price" : 902,
+      "roomNr" : 737,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdr0lZZU0bpzlXvs" : {
+      "beds" : 1,
+      "price" : 974,
+      "roomNr" : 738,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdr0lZZU0bpzlXvt" : {
+      "beds" : 1,
+      "price" : 1042,
+      "roomNr" : 739,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdr0lZZU0bpzlXvu" : {
+      "beds" : 2,
+      "price" : 1052,
+      "roomNr" : 740,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdr1yp1rqESkpLHx" : {
+      "beds" : 1,
+      "price" : 1231,
+      "roomNr" : 741,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdr1yp1rqESkpLHy" : {
+      "beds" : 3,
+      "price" : 1143,
+      "roomNr" : 742,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdr2jXzYScN6T0WQ" : {
+      "beds" : 2,
+      "price" : 1074,
+      "roomNr" : 743,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdr2jXzYScN6T0WR" : {
+      "beds" : 2,
+      "price" : 1023,
+      "roomNr" : 744,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdr2jXzYScN6T0WS" : {
+      "beds" : 1,
+      "price" : 989,
+      "roomNr" : 745,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdr36rsyqOvA0C-v" : {
+      "beds" : 2,
+      "price" : 1098,
+      "roomNr" : 746,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdr36rsyqOvA0C-w" : {
+      "beds" : 3,
+      "price" : 1100,
+      "roomNr" : 747,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdr36rsyqOvA0C-x" : {
+      "beds" : 3,
+      "price" : 1296,
+      "roomNr" : 748,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdr4TZebg5Pro6bH" : {
+      "beds" : 2,
+      "price" : 1042,
+      "roomNr" : 749,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdr4TZebg5Pro6bI" : {
+      "beds" : 3,
+      "price" : 1104,
+      "roomNr" : 750,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdr5g2XBo2-Y7fg6" : {
+      "beds" : 1,
+      "price" : 1005,
+      "roomNr" : 751,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdr5g2XBo2-Y7fg7" : {
+      "beds" : 2,
+      "price" : 935,
+      "roomNr" : 752,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdr6Mu0nwFQiD_-b" : {
+      "beds" : 1,
+      "price" : 963,
+      "roomNr" : 753,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdr6Mu0nwFQiD_-c" : {
+      "beds" : 2,
+      "price" : 1184,
+      "roomNr" : 754,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdr7eckBDV5tDh2c" : {
+      "beds" : 3,
+      "price" : 998,
+      "roomNr" : 755,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdr7eckBDV5tDh2d" : {
+      "beds" : 2,
+      "price" : 1230,
+      "roomNr" : 756,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdr8Hw8QVHuOy4JG" : {
+      "beds" : 3,
+      "price" : 1097,
+      "roomNr" : 757,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdr8Hw8QVHuOy4JH" : {
+      "beds" : 3,
+      "price" : 1217,
+      "roomNr" : 758,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdr8Hw8QVHuOy4JI" : {
+      "beds" : 3,
+      "price" : 1280,
+      "roomNr" : 759,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdr9E86TRlfK7B6t" : {
+      "beds" : 3,
+      "price" : 1189,
+      "roomNr" : 760,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdr9E86TRlfK7B6u" : {
+      "beds" : 2,
+      "price" : 1165,
+      "roomNr" : 761,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdr9E86TRlfK7B6v" : {
+      "beds" : 2,
+      "price" : 1018,
+      "roomNr" : 762,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdrC8qtAPpr6vVTt" : {
+      "beds" : 1,
+      "price" : 1149,
+      "roomNr" : 763,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdrDSq0MoO1MZXSQ" : {
+      "beds" : 2,
+      "price" : 905,
+      "roomNr" : 764,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdrDSq0MoO1MZXSR" : {
+      "beds" : 2,
+      "price" : 1034,
+      "roomNr" : 765,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdrE742DeQa407H-" : {
+      "beds" : 2,
+      "price" : 1220,
+      "roomNr" : 766,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdrFrHjixmBZAn2j" : {
+      "beds" : 2,
+      "price" : 958,
+      "roomNr" : 767,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdrFrHjixmBZAn2k" : {
+      "beds" : 3,
+      "price" : 1085,
+      "roomNr" : 768,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdrG3zTIUkxA26vL" : {
+      "beds" : 2,
+      "price" : 1204,
+      "roomNr" : 769,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdrI7ioa2M3pcY2G" : {
+      "beds" : 2,
+      "price" : 1190,
+      "roomNr" : 770,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdrI7ioa2M3pcY2H" : {
+      "beds" : 2,
+      "price" : 1101,
+      "roomNr" : 771,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdrJwWRToBYa-zL1" : {
+      "beds" : 3,
+      "price" : 1130,
+      "roomNr" : 772,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdrJwWRToBYa-zL2" : {
+      "beds" : 3,
+      "price" : 1095,
+      "roomNr" : 773,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdrK0LZRUSmwT_HD" : {
+      "beds" : 3,
+      "price" : 955,
+      "roomNr" : 774,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdrLh019GVCGIIzs" : {
+      "beds" : 1,
+      "price" : 1266,
+      "roomNr" : 775,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdrLh019GVCGIIzt" : {
+      "beds" : 1,
+      "price" : 1095,
+      "roomNr" : 776,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdrMqcRT5QtgkYd8" : {
+      "beds" : 1,
+      "price" : 1087,
+      "roomNr" : 777,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdrNQ7SpxIL2KkfM" : {
+      "beds" : 1,
+      "price" : 1122,
+      "roomNr" : 778,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdrPYMizNvJSXk8k" : {
+      "beds" : 1,
+      "price" : 1177,
+      "roomNr" : 779,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdrTjDqnZriVU6nW" : {
+      "beds" : 2,
+      "price" : 919,
+      "roomNr" : 780,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdrU9QuSgd5tgQfY" : {
+      "beds" : 2,
+      "price" : 1052,
+      "roomNr" : 781,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdrWRQDmkwCxBmVk" : {
+      "beds" : 3,
+      "price" : 985,
+      "roomNr" : 782,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdrWRQDmkwCxBmVl" : {
+      "beds" : 1,
+      "price" : 991,
+      "roomNr" : 783,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdrWRQDmkwCxBmVm" : {
+      "beds" : 1,
+      "price" : 1034,
+      "roomNr" : 784,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdrXOo0UqRp98p0l" : {
+      "beds" : 2,
+      "price" : 1053,
+      "roomNr" : 785,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdrXOo0UqRp98p0m" : {
+      "beds" : 3,
+      "price" : 1104,
+      "roomNr" : 786,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdrYWA2eCPLesjWc" : {
+      "beds" : 1,
+      "price" : 942,
+      "roomNr" : 787,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdrYWA2eCPLesjWd" : {
+      "beds" : 1,
+      "price" : 1273,
+      "roomNr" : 788,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdrZyDIsFFZ3f8Lq" : {
+      "beds" : 1,
+      "price" : 1064,
+      "roomNr" : 789,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdrZyDIsFFZ3f8Lr" : {
+      "beds" : 3,
+      "price" : 1218,
+      "roomNr" : 790,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdrZyDIsFFZ3f8Ls" : {
+      "beds" : 1,
+      "price" : 1114,
+      "roomNr" : 791,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdr_-AlfzN0lykw5" : {
+      "beds" : 3,
+      "price" : 1173,
+      "roomNr" : 792,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdr_-AlfzN0lykw6" : {
+      "beds" : 1,
+      "price" : 982,
+      "roomNr" : 793,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdraZRa_ksEMzu2c" : {
+      "beds" : 1,
+      "price" : 1284,
+      "roomNr" : 794,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdraZRa_ksEMzu2d" : {
+      "beds" : 1,
+      "price" : 1114,
+      "roomNr" : 795,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdrbK-3swFFDAlBJ" : {
+      "beds" : 3,
+      "price" : 1193,
+      "roomNr" : 796,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdrbK-3swFFDAlBK" : {
+      "beds" : 2,
+      "price" : 1260,
+      "roomNr" : 797,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdrc7_RZpKBJ4YOP" : {
+      "beds" : 2,
+      "price" : 1258,
+      "roomNr" : 798,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdrdpRvLm2NA6x-Z" : {
+      "beds" : 2,
+      "price" : 979,
+      "roomNr" : 799,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdreJ5yKgLuevY71" : {
+      "beds" : 2,
+      "price" : 1105,
+      "roomNr" : 800,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdreJ5yKgLuevY72" : {
+      "beds" : 2,
+      "price" : 1156,
+      "roomNr" : 801,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdreJ5yKgLuevY73" : {
+      "beds" : 1,
+      "price" : 953,
+      "roomNr" : 802,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdrf41Y-exWrDvPR" : {
+      "beds" : 3,
+      "price" : 922,
+      "roomNr" : 803,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdrf41Y-exWrDvPS" : {
+      "beds" : 2,
+      "price" : 1048,
+      "roomNr" : 804,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdrf41Y-exWrDvPT" : {
+      "beds" : 3,
+      "price" : 1039,
+      "roomNr" : 805,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdrjZOOpnJSVeU3o" : {
+      "beds" : 3,
+      "price" : 1174,
+      "roomNr" : 806,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdrlKClfCHATfXDV" : {
+      "beds" : 3,
+      "price" : 1244,
+      "roomNr" : 807,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdrmgJwqAM0a9gXJ" : {
+      "beds" : 3,
+      "price" : 1278,
+      "roomNr" : 808,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdrnsyl0UqGO0y9h" : {
+      "beds" : 2,
+      "price" : 1093,
+      "roomNr" : 809,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdrnsyl0UqGO0y9i" : {
+      "beds" : 1,
+      "price" : 1009,
+      "roomNr" : 810,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdror9Fy9XGOCPzL" : {
+      "beds" : 3,
+      "price" : 1283,
+      "roomNr" : 811,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdror9Fy9XGOCPzM" : {
+      "beds" : 2,
+      "price" : 996,
+      "roomNr" : 812,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdrpoKopVdqfmqhK" : {
+      "beds" : 2,
+      "price" : 914,
+      "roomNr" : 813,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdrpoKopVdqfmqhL" : {
+      "beds" : 2,
+      "price" : 1215,
+      "roomNr" : 814,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdrpoKopVdqfmqhM" : {
+      "beds" : 1,
+      "price" : 1064,
+      "roomNr" : 815,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdrqch4zx51k4bDA" : {
+      "beds" : 1,
+      "price" : 1233,
+      "roomNr" : 816,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdrqch4zx51k4bDB" : {
+      "beds" : 1,
+      "price" : 901,
+      "roomNr" : 817,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdrr16w2YSU1WBH4" : {
+      "beds" : 2,
+      "price" : 1248,
+      "roomNr" : 818,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdrr16w2YSU1WBH5" : {
+      "beds" : 2,
+      "price" : 970,
+      "roomNr" : 819,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdrtXJY9YVFphXWp" : {
+      "beds" : 1,
+      "price" : 1008,
+      "roomNr" : 820,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdruBiTc7AVp_K_u" : {
+      "beds" : 1,
+      "price" : 1046,
+      "roomNr" : 821,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdrvnv49YgUEfPJH" : {
+      "beds" : 2,
+      "price" : 1251,
+      "roomNr" : 822,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdrw2wn7MWa9kIy9" : {
+      "beds" : 3,
+      "price" : 1059,
+      "roomNr" : 823,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdryV436H9VvCbus" : {
+      "beds" : 2,
+      "price" : 1058,
+      "roomNr" : 824,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdryV436H9VvCbut" : {
+      "beds" : 1,
+      "price" : 1048,
+      "roomNr" : 825,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIds-c5es_mw8L1Nr" : {
+      "beds" : 1,
+      "price" : 1023,
+      "roomNr" : 826,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIds0p0jMEWCBtVgD" : {
+      "beds" : 1,
+      "price" : 924,
+      "roomNr" : 827,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIds1a86gyUnNunAo" : {
+      "beds" : 2,
+      "price" : 1281,
+      "roomNr" : 828,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIds2tz6HLZXSwRpr" : {
+      "beds" : 2,
+      "price" : 1083,
+      "roomNr" : 829,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIds34YkKQhhONXg_" : {
+      "beds" : 3,
+      "price" : 1020,
+      "roomNr" : 830,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIds34YkKQhhONXga" : {
+      "beds" : 3,
+      "price" : 1063,
+      "roomNr" : 831,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIds4su-WbKF8ZaMN" : {
+      "beds" : 1,
+      "price" : 976,
+      "roomNr" : 832,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIds4su-WbKF8ZaMO" : {
+      "beds" : 2,
+      "price" : 1091,
+      "roomNr" : 833,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIds5ci1nGWgk0FVR" : {
+      "beds" : 2,
+      "price" : 1166,
+      "roomNr" : 834,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIds5ci1nGWgk0FVS" : {
+      "beds" : 2,
+      "price" : 937,
+      "roomNr" : 835,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIds5ci1nGWgk0FVT" : {
+      "beds" : 3,
+      "price" : 1248,
+      "roomNr" : 836,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIds6kzKIQfXwiyH5" : {
+      "beds" : 1,
+      "price" : 1219,
+      "roomNr" : 837,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIds6kzKIQfXwiyH6" : {
+      "beds" : 2,
+      "price" : 1273,
+      "roomNr" : 838,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIds6kzKIQfXwiyH7" : {
+      "beds" : 3,
+      "price" : 1210,
+      "roomNr" : 839,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIds73oj9sDm6P3J8" : {
+      "beds" : 1,
+      "price" : 921,
+      "roomNr" : 840,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIds73oj9sDm6P3J9" : {
+      "beds" : 1,
+      "price" : 1297,
+      "roomNr" : 841,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIds8ZwgTSA_GGSTy" : {
+      "beds" : 1,
+      "price" : 1230,
+      "roomNr" : 842,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIds8ZwgTSA_GGSTz" : {
+      "beds" : 2,
+      "price" : 1244,
+      "roomNr" : 843,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdsAoSkveTRy9ffP" : {
+      "beds" : 3,
+      "price" : 952,
+      "roomNr" : 844,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdsAoSkveTRy9ffQ" : {
+      "beds" : 2,
+      "price" : 1228,
+      "roomNr" : 845,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdsBsImrDEYRiMLR" : {
+      "beds" : 1,
+      "price" : 1035,
+      "roomNr" : 846,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdsBsImrDEYRiMLS" : {
+      "beds" : 2,
+      "price" : 1230,
+      "roomNr" : 847,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdsCGElRNgKdSQ4Y" : {
+      "beds" : 1,
+      "price" : 1104,
+      "roomNr" : 848,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdsCGElRNgKdSQ4Z" : {
+      "beds" : 2,
+      "price" : 1032,
+      "roomNr" : 849,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdsEmUSTH4OHSxIP" : {
+      "beds" : 1,
+      "price" : 1043,
+      "roomNr" : 850,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdsFedmONmEgGoiq" : {
+      "beds" : 1,
+      "price" : 1157,
+      "roomNr" : 851,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdsH7Ro_XuOP66Rz" : {
+      "beds" : 3,
+      "price" : 1161,
+      "roomNr" : 852,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdsIj0Oc62uidw91" : {
+      "beds" : 2,
+      "price" : 1187,
+      "roomNr" : 853,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdsIj0Oc62uidw92" : {
+      "beds" : 2,
+      "price" : 996,
+      "roomNr" : 854,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdsJ42mqOWZuvdFr" : {
+      "beds" : 1,
+      "price" : 1295,
+      "roomNr" : 855,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdsJ42mqOWZuvdFs" : {
+      "beds" : 1,
+      "price" : 967,
+      "roomNr" : 856,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdsJ42mqOWZuvdFt" : {
+      "beds" : 3,
+      "price" : 1181,
+      "roomNr" : 857,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdsKC9rhCm2uiDUz" : {
+      "beds" : 2,
+      "price" : 1115,
+      "roomNr" : 858,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdsKC9rhCm2uiDV-" : {
+      "beds" : 1,
+      "price" : 1182,
+      "roomNr" : 859,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdsLBSaP7mIQiepn" : {
+      "beds" : 3,
+      "price" : 1041,
+      "roomNr" : 860,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdsLBSaP7mIQiepo" : {
+      "beds" : 2,
+      "price" : 1158,
+      "roomNr" : 861,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdsMkjzoBjslT3xP" : {
+      "beds" : 1,
+      "price" : 903,
+      "roomNr" : 862,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdsMkjzoBjslT3xQ" : {
+      "beds" : 2,
+      "price" : 1241,
+      "roomNr" : 863,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdsN3MXdyWXve8Cl" : {
+      "beds" : 2,
+      "price" : 1023,
+      "roomNr" : 864,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdsOk6JLYk5iKv9h" : {
+      "beds" : 3,
+      "price" : 1276,
+      "roomNr" : 865,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdsPR2_parN8NuCG" : {
+      "beds" : 1,
+      "price" : 964,
+      "roomNr" : 866,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdsQkibX1s6-Fy5i" : {
+      "beds" : 3,
+      "price" : 1103,
+      "roomNr" : 867,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdsRAWdAPvMtcwzt" : {
+      "beds" : 2,
+      "price" : 928,
+      "roomNr" : 868,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdsS8XxpJCo6nKQu" : {
+      "beds" : 2,
+      "price" : 1057,
+      "roomNr" : 869,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdsS8XxpJCo6nKQv" : {
+      "beds" : 3,
+      "price" : 1228,
+      "roomNr" : 870,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdsS8XxpJCo6nKQw" : {
+      "beds" : 1,
+      "price" : 1286,
+      "roomNr" : 871,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdsTrAkgUtMMrQ5X" : {
+      "beds" : 1,
+      "price" : 1297,
+      "roomNr" : 872,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdsXDpqBFqAcYux9" : {
+      "beds" : 1,
+      "price" : 1184,
+      "roomNr" : 873,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdsXDpqBFqAcYuxA" : {
+      "beds" : 1,
+      "price" : 1133,
+      "roomNr" : 874,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdsYIRk1XXaZDAYY" : {
+      "beds" : 3,
+      "price" : 1210,
+      "roomNr" : 875,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdsZ818IRJALy3hX" : {
+      "beds" : 2,
+      "price" : 1027,
+      "roomNr" : 876,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdsZ818IRJALy3hY" : {
+      "beds" : 3,
+      "price" : 1254,
+      "roomNr" : 877,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdsbYD84qfTkM0Kn" : {
+      "beds" : 1,
+      "price" : 1140,
+      "roomNr" : 878,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdsbYD84qfTkM0Ko" : {
+      "beds" : 2,
+      "price" : 1222,
+      "roomNr" : 879,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdscGL8l-0UNQGyC" : {
+      "beds" : 1,
+      "price" : 1099,
+      "roomNr" : 880,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdscGL8l-0UNQGyD" : {
+      "beds" : 3,
+      "price" : 963,
+      "roomNr" : 881,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 7
+    },
+    "-LdTIdsd61ky-K6a_DQK" : {
+      "beds" : 3,
+      "price" : 966,
+      "roomNr" : 882,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdsd61ky-K6a_DQL" : {
+      "beds" : 1,
+      "price" : 1285,
+      "roomNr" : 883,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdsfKeclrYbwxKNA" : {
+      "beds" : 2,
+      "price" : 970,
+      "roomNr" : 884,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdshRdK4U10TJhRR" : {
+      "beds" : 1,
+      "price" : 1155,
+      "roomNr" : 885,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdshRdK4U10TJhRS" : {
+      "beds" : 1,
+      "price" : 1113,
+      "roomNr" : 886,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdshRdK4U10TJhRT" : {
+      "beds" : 1,
+      "price" : 1239,
+      "roomNr" : 887,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdsidNAmvBFqAHnv" : {
+      "beds" : 3,
+      "price" : 1142,
+      "roomNr" : 888,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdsidNAmvBFqAHnw" : {
+      "beds" : 2,
+      "price" : 1256,
+      "roomNr" : 889,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdskIAbgEz33Uytb" : {
+      "beds" : 2,
+      "price" : 1275,
+      "roomNr" : 890,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdslN9Hv9sEErsfd" : {
+      "beds" : 2,
+      "price" : 1176,
+      "roomNr" : 891,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdsmJOoSMWiY9C_k" : {
+      "beds" : 1,
+      "price" : 1071,
+      "roomNr" : 892,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdsnoPYfPAAdTI_d" : {
+      "beds" : 1,
+      "price" : 1211,
+      "roomNr" : 893,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdsokcEIVrGxek75" : {
+      "beds" : 3,
+      "price" : 1096,
+      "roomNr" : 894,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdsokcEIVrGxek76" : {
+      "beds" : 1,
+      "price" : 1212,
+      "roomNr" : 895,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdspb2lFEsYKo50R" : {
+      "beds" : 3,
+      "price" : 971,
+      "roomNr" : 896,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdspb2lFEsYKo50S" : {
+      "beds" : 2,
+      "price" : 1262,
+      "roomNr" : 897,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdsqH5PeU0gHSNrt" : {
+      "beds" : 3,
+      "price" : 1114,
+      "roomNr" : 898,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdsqH5PeU0gHSNru" : {
+      "beds" : 3,
+      "price" : 1180,
+      "roomNr" : 899,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdsrj2GaVVRcIO3C" : {
+      "beds" : 3,
+      "price" : 1029,
+      "roomNr" : 900,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdsrj2GaVVRcIO3D" : {
+      "beds" : 2,
+      "price" : 980,
+      "roomNr" : 901,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdsrj2GaVVRcIO3E" : {
+      "beds" : 1,
+      "price" : 1197,
+      "roomNr" : 902,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdsssLGhbk1tna6Y" : {
+      "beds" : 3,
+      "price" : 1109,
+      "roomNr" : 903,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdsssLGhbk1tna6Z" : {
+      "beds" : 1,
+      "price" : 943,
+      "roomNr" : 904,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdsssLGhbk1tna6_" : {
+      "beds" : 1,
+      "price" : 950,
+      "roomNr" : 905,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdsto0RXq1Hi6mi6" : {
+      "beds" : 2,
+      "price" : 1237,
+      "roomNr" : 906,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdsto0RXq1Hi6mi7" : {
+      "beds" : 3,
+      "price" : 1006,
+      "roomNr" : 907,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdsto0RXq1Hi6mi8" : {
+      "beds" : 1,
+      "price" : 1255,
+      "roomNr" : 908,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdsudKk80ptdiBX-" : {
+      "beds" : 3,
+      "price" : 1017,
+      "roomNr" : 909,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdsudKk80ptdiBX0" : {
+      "beds" : 2,
+      "price" : 915,
+      "roomNr" : 910,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdsv8NtbkYMqETJl" : {
+      "beds" : 2,
+      "price" : 1007,
+      "roomNr" : 911,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdsv8NtbkYMqETJm" : {
+      "beds" : 1,
+      "price" : 1158,
+      "roomNr" : 912,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdsv8NtbkYMqETJn" : {
+      "beds" : 1,
+      "price" : 1181,
+      "roomNr" : 913,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdswYpCQUBVUxGyy" : {
+      "beds" : 3,
+      "price" : 924,
+      "roomNr" : 914,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdswYpCQUBVUxGyz" : {
+      "beds" : 3,
+      "price" : 1178,
+      "roomNr" : 915,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdsxG3fgtNnn57-4" : {
+      "beds" : 1,
+      "price" : 974,
+      "roomNr" : 916,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdsxG3fgtNnn57-5" : {
+      "beds" : 1,
+      "price" : 1093,
+      "roomNr" : 917,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdsxG3fgtNnn57-6" : {
+      "beds" : 2,
+      "price" : 1123,
+      "roomNr" : 918,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdsy8fuYyExxY0i7" : {
+      "beds" : 2,
+      "price" : 1290,
+      "roomNr" : 919,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdsy8fuYyExxY0i8" : {
+      "beds" : 1,
+      "price" : 1169,
+      "roomNr" : 920,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdsz4v0Ke12O-8Ve" : {
+      "beds" : 3,
+      "price" : 1169,
+      "roomNr" : 921,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdt0q-ou7GhrwFhU" : {
+      "beds" : 2,
+      "price" : 1059,
+      "roomNr" : 922,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdt0q-ou7GhrwFhV" : {
+      "beds" : 1,
+      "price" : 1222,
+      "roomNr" : 923,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdt1i8CmLirdk_Tb" : {
+      "beds" : 1,
+      "price" : 1086,
+      "roomNr" : 924,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdt28u7DHiepcy2u" : {
+      "beds" : 1,
+      "price" : 972,
+      "roomNr" : 925,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdt3n_Fos9KVnLjy" : {
+      "beds" : 2,
+      "price" : 1268,
+      "roomNr" : 926,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdt3n_Fos9KVnLjz" : {
+      "beds" : 3,
+      "price" : 1050,
+      "roomNr" : 927,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdt3n_Fos9KVnLk-" : {
+      "beds" : 1,
+      "price" : 940,
+      "roomNr" : 928,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdt4JXfi8ATRGlw4" : {
+      "beds" : 1,
+      "price" : 1050,
+      "roomNr" : 929,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdt4JXfi8ATRGlw5" : {
+      "beds" : 3,
+      "price" : 1175,
+      "roomNr" : 930,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdt5hvD0U9bmfPDv" : {
+      "beds" : 3,
+      "price" : 1192,
+      "roomNr" : 931,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdt6mmQn8IwXRnV7" : {
+      "beds" : 2,
+      "price" : 1105,
+      "roomNr" : 932,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdt6mmQn8IwXRnV8" : {
+      "beds" : 1,
+      "price" : 1244,
+      "roomNr" : 933,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdt7zrGPaQXT7hss" : {
+      "beds" : 1,
+      "price" : 1293,
+      "roomNr" : 934,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdt8qY09iefIVgp8" : {
+      "beds" : 2,
+      "price" : 1257,
+      "roomNr" : 935,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdt8qY09iefIVgp9" : {
+      "beds" : 1,
+      "price" : 1258,
+      "roomNr" : 936,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdt8qY09iefIVgpA" : {
+      "beds" : 1,
+      "price" : 983,
+      "roomNr" : 937,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdt9KldoNWJCokLo" : {
+      "beds" : 3,
+      "price" : 1088,
+      "roomNr" : 938,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdt9KldoNWJCokLp" : {
+      "beds" : 3,
+      "price" : 1012,
+      "roomNr" : 939,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdtA36L29rbYta9l" : {
+      "beds" : 1,
+      "price" : 1032,
+      "roomNr" : 940,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdtBs-Hcwo7uchjq" : {
+      "beds" : 3,
+      "price" : 1049,
+      "roomNr" : 941,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdtComnckYCSLDWD" : {
+      "beds" : 1,
+      "price" : 909,
+      "roomNr" : 942,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdtComnckYCSLDWE" : {
+      "beds" : 1,
+      "price" : 1157,
+      "roomNr" : 943,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdtDHVQRjM_7U3z4" : {
+      "beds" : 2,
+      "price" : 1026,
+      "roomNr" : 944,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdtDHVQRjM_7U3z5" : {
+      "beds" : 3,
+      "price" : 1227,
+      "roomNr" : 945,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 3
+    },
+    "-LdTIdtDHVQRjM_7U3z6" : {
+      "beds" : 2,
+      "price" : 1112,
+      "roomNr" : 946,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdtEdR6wcRoxMJzb" : {
+      "beds" : 1,
+      "price" : 973,
+      "roomNr" : 947,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdtEdR6wcRoxMJzc" : {
+      "beds" : 2,
+      "price" : 1179,
+      "roomNr" : 948,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdtH7oIFyMdEy0AF" : {
+      "beds" : 3,
+      "price" : 900,
+      "roomNr" : 949,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdtH7oIFyMdEy0AG" : {
+      "beds" : 3,
+      "price" : 1129,
+      "roomNr" : 950,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdtIh3ZcN2jnFKBV" : {
+      "beds" : 1,
+      "price" : 1223,
+      "roomNr" : 951,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdtJWAg7UM5l5T4t" : {
+      "beds" : 3,
+      "price" : 1245,
+      "roomNr" : 952,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdtKMlVGdb02kkIn" : {
+      "beds" : 2,
+      "price" : 1048,
+      "roomNr" : 953,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdtKMlVGdb02kkIo" : {
+      "beds" : 1,
+      "price" : 1202,
+      "roomNr" : 954,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdtKMlVGdb02kkIp" : {
+      "beds" : 2,
+      "price" : 989,
+      "roomNr" : 955,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdtL9s6O2O2LS0xC" : {
+      "beds" : 1,
+      "price" : 1166,
+      "roomNr" : 956,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdtL9s6O2O2LS0xD" : {
+      "beds" : 2,
+      "price" : 992,
+      "roomNr" : 957,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdtL9s6O2O2LS0xE" : {
+      "beds" : 3,
+      "price" : 1151,
+      "roomNr" : 958,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdtMsXiQu3jfqeVw" : {
+      "beds" : 1,
+      "price" : 995,
+      "roomNr" : 959,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdtMsXiQu3jfqeVx" : {
+      "beds" : 2,
+      "price" : 1112,
+      "roomNr" : 960,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdtNx1xUOY-RUD1H" : {
+      "beds" : 1,
+      "price" : 931,
+      "roomNr" : 961,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 1
+    },
+    "-LdTIdtNx1xUOY-RUD1I" : {
+      "beds" : 3,
+      "price" : 1131,
+      "roomNr" : 962,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdtNx1xUOY-RUD1J" : {
+      "beds" : 1,
+      "price" : 1070,
+      "roomNr" : 963,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 2
+    },
+    "-LdTIdtOeW3lIXdcibuo" : {
+      "beds" : 3,
+      "price" : 1134,
+      "roomNr" : 964,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdtOeW3lIXdcibup" : {
+      "beds" : 1,
+      "price" : 977,
+      "roomNr" : 965,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdtOeW3lIXdcibuq" : {
+      "beds" : 1,
+      "price" : 1288,
+      "roomNr" : 966,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdtPV8rxxV-qISI-" : {
+      "beds" : 2,
+      "price" : 1220,
+      "roomNr" : 967,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdtPV8rxxV-qISI0" : {
+      "beds" : 1,
+      "price" : 922,
+      "roomNr" : 968,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdtQD42pl4N3ltYy" : {
+      "beds" : 3,
+      "price" : 1146,
+      "roomNr" : 969,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 4
+    },
+    "-LdTIdtQD42pl4N3ltYz" : {
+      "beds" : 3,
+      "price" : 1273,
+      "roomNr" : 970,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdtR8TbVzFogGmI5" : {
+      "beds" : 1,
+      "price" : 1186,
+      "roomNr" : 971,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 9
+    },
+    "-LdTIdtR8TbVzFogGmI6" : {
+      "beds" : 3,
+      "price" : 1276,
+      "roomNr" : 972,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdtSnwtDacJLq4_n" : {
+      "beds" : 2,
+      "price" : 920,
+      "roomNr" : 973,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdtSnwtDacJLq4_o" : {
+      "beds" : 1,
+      "price" : 987,
+      "roomNr" : 974,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdtTEulyP_KCyEfS" : {
+      "beds" : 1,
+      "price" : 920,
+      "roomNr" : 975,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdtUp7qSSKlyxw_9" : {
+      "beds" : 1,
+      "price" : 1242,
+      "roomNr" : 976,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 2
+    },
+    "-LdTIdtUp7qSSKlyxw_A" : {
+      "beds" : 3,
+      "price" : 1185,
+      "roomNr" : 977,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdtUp7qSSKlyxw_B" : {
+      "beds" : 3,
+      "price" : 1007,
+      "roomNr" : 978,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdtVKhYq9MN_1JRT" : {
+      "beds" : 2,
+      "price" : 926,
+      "roomNr" : 979,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdtVKhYq9MN_1JRU" : {
+      "beds" : 2,
+      "price" : 978,
+      "roomNr" : 980,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 9
+    },
+    "-LdTIdtXB2HxXHfuzokK" : {
+      "beds" : 2,
+      "price" : 1146,
+      "roomNr" : 981,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdtZzEnx2HUFYulK" : {
+      "beds" : 2,
+      "price" : 1063,
+      "roomNr" : 982,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdt_uwli6taEah7E" : {
+      "beds" : 3,
+      "price" : 1204,
+      "roomNr" : 983,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 5
+    },
+    "-LdTIdt_uwli6taEah7F" : {
+      "beds" : 3,
+      "price" : 1083,
+      "roomNr" : 984,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdta7-pvBhcayLd0" : {
+      "beds" : 1,
+      "price" : 1081,
+      "roomNr" : 985,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 6
+    },
+    "-LdTIdtb0Ybe98kq8NHf" : {
+      "beds" : 1,
+      "price" : 1242,
+      "roomNr" : 986,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 1
+    },
+    "-LdTIdtb0Ybe98kq8NHg" : {
+      "beds" : 1,
+      "price" : 1277,
+      "roomNr" : 987,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdtcUjktAuGBxvgM" : {
+      "beds" : 3,
+      "price" : 1059,
+      "roomNr" : 988,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdtcUjktAuGBxvgN" : {
+      "beds" : 3,
+      "price" : 1107,
+      "roomNr" : 989,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    },
+    "-LdTIdtdXE3cmHOffSCD" : {
+      "beds" : 3,
+      "price" : 1126,
+      "roomNr" : 990,
+      "shower" : true,
+      "status" : "opptatt",
+      "viewRating" : 7
+    },
+    "-LdTIdtdXE3cmHOffSCE" : {
+      "beds" : 2,
+      "price" : 1088,
+      "roomNr" : 991,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdteneqn_utvjNC5" : {
+      "beds" : 3,
+      "price" : 980,
+      "roomNr" : 992,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 4
+    },
+    "-LdTIdteneqn_utvjNC6" : {
+      "beds" : 3,
+      "price" : 1204,
+      "roomNr" : 993,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 8
+    },
+    "-LdTIdteneqn_utvjNC7" : {
+      "beds" : 2,
+      "price" : 1190,
+      "roomNr" : 994,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 3
+    },
+    "-LdTIdtf1w-8uMgRYPNZ" : {
+      "beds" : 3,
+      "price" : 1177,
+      "roomNr" : 995,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 6
+    },
+    "-LdTIdtf1w-8uMgRYPN_" : {
+      "beds" : 2,
+      "price" : 1144,
+      "roomNr" : 996,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 10
+    },
+    "-LdTIdtgP9t8hqgIZvB1" : {
+      "beds" : 3,
+      "price" : 1091,
+      "roomNr" : 997,
+      "shower" : true,
+      "status" : "ledig",
+      "viewRating" : 8
+    },
+    "-LdTIdtgP9t8hqgIZvB2" : {
+      "beds" : 2,
+      "price" : 1159,
+      "roomNr" : 998,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdtgP9t8hqgIZvB3" : {
+      "beds" : 1,
+      "price" : 928,
+      "roomNr" : 999,
+      "shower" : false,
+      "status" : "opptatt",
+      "viewRating" : 10
+    },
+    "-LdTIdthHnZ76i3gG2W8" : {
+      "beds" : 2,
+      "price" : 1121,
+      "roomNr" : 1000,
+      "shower" : false,
+      "status" : "ledig",
+      "viewRating" : 5
+    }
+  }
+}

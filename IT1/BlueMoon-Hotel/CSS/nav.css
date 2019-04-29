@@ -1,0 +1,49 @@
+.nav-bar{
+  display: grid;
+  grid-template-columns: 4% 6% repeat(4, 1fr) 8% 1fr 2%;
+  grid-gap: 2vw;
+  line-height: 5vw;
+  background-color: #eaeaea;
+  font-family: 'Oswald', sans-serif;
+  transition: 1s;
+}
+
+.nav-bar-btn{
+  text-decoration: none;
+  color: #000714;
+  text-align: center;
+  font-size: 1.3vw;
+  transition: .4s;
+}
+
+.nav-bar-btn:hover{
+  color: #818181;
+  transition: .4s;
+}
+
+.nav-bar-logo{
+  background-image: url("../IMG/blue_moon_logo.png");
+  background-position: center;
+  background-size: 70%;
+  background-repeat: no-repeat;
+  grid-column: 2;
+}
+
+.nav-bar-grid-start{
+  grid-column: 3;
+}
+
+.nav-bar-search{
+  grid-column: 8;
+  top: 50%;
+  left: 50%;
+}
+
+.nav-bar-search-inp{
+  width: 80%;
+  outline: 0;
+  border: 0;
+  display: none;
+  font-size: 1vw;
+  padding-left: .5vw;
+}

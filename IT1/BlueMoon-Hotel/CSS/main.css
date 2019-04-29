@@ -1,0 +1,390 @@
+body{
+  margin: 0;
+}
+
+main{
+  font-family: 'Oswald', sans-serif;
+  margin: 1vw;
+  min-height: 37vw;
+}
+
+footer{
+  background-color: #293339;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  padding-top: 1vw;
+  bottom: auto;
+}
+
+.home-main{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  grid-gap: 2vw;
+  font-family: 'Oswald', sans-serif;
+}
+
+.home-main-grid-1{
+  background-color: #111111;
+  grid-column: span 3;
+  grid-row: span 4;
+}
+
+.home-main-grid-2{
+  background-image: url(../IMG/blue_moon_bedroom.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  grid-column: span 2;
+  grid-row: span 2;
+  color: #eaeaea;
+  text-decoration: none;
+}
+
+.home-main-grid-2-book{
+  font-size: 2vw;
+  background: rgba(0, 0, 0, 0.8);
+  width: 11vw;
+  line-height: 3.4vw;
+  margin-top: 1vw;
+  transition: .6s;
+}
+
+.home-main-grid-3-nyhet{
+  font-size: 2vw;
+  background: rgba(0, 0, 0, 0.8);
+  width: 11vw;
+  line-height: 3.4vw;
+  margin-top: 1vw;
+  transition: .6s;
+}
+
+.home-main-grid-4-om-oss{
+  font-size: 2vw;
+  background: rgba(0, 0, 0, 0.8);
+  width: 11vw;
+  line-height: 3.4vw;
+  margin-top: 1vw;
+  transition: .6s;
+}
+
+.home-main-grid-3{
+  background-image: url(../IMG/blue_moon_nyhetsak_1.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  grid-column: span 2;
+  grid-row: span 1;
+  color: #eaeaea;
+  text-decoration: none;
+}
+
+.home-main-grid-4{
+  background-color: rgba(200, 200, 200, 0.5);
+  background-image: url("../IMG/blue_moon_om-oss.png");
+  background-position: center;
+  background-size: 70%;
+  background-repeat: no-repeat;
+  grid-column: span 2;
+  grid-row: span 1;
+  text-align: center;
+  width: 100%;
+  text-decoration: none;
+  color: #eaeaea;
+}
+
+.home-main-grid-2:hover > .home-main-grid-2-book, .home-main-grid-3:hover > .home-main-grid-3-nyhet, .home-main-grid-4:hover > .home-main-grid-4-om-oss{
+  width: 100%;
+  transition: .8s;
+}
+
+#hotellrom{
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  width: 80%;
+  margin: auto;
+  grid-gap: 1.5vw;
+}
+
+.hotellrom-rom{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  text-align: center;
+  background-color: #eaeaea;
+  text-decoration: none;
+  color: #111111;
+}
+
+.hotellrom-rom-status{
+  grid-column: span 4;
+  color: #eaeaea;
+  font-size: 1.25vw;
+  padding-top: .1vw;
+  padding-bottom: .1vw;
+  text-transform: uppercase;
+}
+
+.hotellrom-rom-status-ledig{
+  background-color: green;
+}
+
+.hotellrom-rom-status-opptatt{
+  background-color: red;
+}
+
+.custom-select{
+  text-align: center;
+  margin: 1vw;
+  margin-top: 1.7vw;
+}
+
+#onChangeSelect{
+  padding: .4vw;
+  padding-left: .5vw;
+  padding-right: 3vw;
+  font-size: 1vw;
+  outline: none;
+  border: .07vw solid #212121;
+  background-color: #eaeaea;
+  color: #212121;
+  margin-bottom: 1.5vw;
+  font-family: 'Oswald', sans-serif;
+  width: 10vw;
+  cursor: pointer;
+}
+
+#onChangeBtn{
+  padding: .4vw;
+  font-size: 1vw;
+  outline: none;
+  border: .07vw solid #212121;
+  background-color: #eaeaea;
+  color: #212121;
+  margin-bottom: 1vw;
+  font-family: 'Oswald', sans-serif;
+  width: 6vw;
+  cursor: pointer;
+}
+
+.sort-by-option{
+  outline: none;
+  border: #eaeaea;
+  outline: none;
+}
+
+.sort-by-option:hover{
+  background-color: white;
+}
+
+.booking-hotellrom-main{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
+
+.booking-main{
+  min-height: 38vw;
+}
+
+.booking-options{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2vw;
+  margin: auto;
+  margin-top: 1vw;
+  width: 90%;
+}
+
+.booking-option-1{
+  margin: auto;
+  text-decoration: none;
+  background-image: url(https://res.cloudinary.com/trump-hotels/image/upload/x_181,y_136,w_3246,h_2435,c_crop/c_fill,w_910,ar_65:38/v1523023588/ip4fu2t8xzaejsvylvqd.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 300%;
+}
+
+.booking-option-2{
+  margin: auto;
+  text-decoration: none;
+  background-image: url(https://www.trumphotels.com/uploads/17612/0/cloudinary/trump-hotels-cloudinary/image/upload/x_32,y_20,w_576,h_363,c_crop/c_fill,w_910,ar_65:38/v1523540862/cmps138k70gg8lyzounb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 300%;
+}
+
+.booking-option-3{
+  margin: auto;
+  text-decoration: none;
+  background-image: url(https://www.trumphotels.com/uploads/17609/0/cloudinary/trump-hotels-cloudinary/image/upload/x_65,y_39,w_1170,h_683,c_crop/c_fill,w_910,ar_65:38/v1523540758/ioje2k92bgacfuze0nu1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 300%;
+}
+
+.booking-option-info{
+  text-align: center;
+  background-color: rgba(0,0,0,0.8);
+  color: #eaeaea;
+  width: 7vw;
+  margin-left: 1vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+  text-align: center;
+  transition: .15s;
+  height: 100%;
+  max-height: 35%;
+}
+
+.booking-option-1:hover > .booking-option-info, .booking-option-2:hover > .booking-option-info, .booking-option-3:hover > .booking-option-info{
+  max-height: 39%;
+	transition: max-height .25s;
+}
+
+.om-oss-main{
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  text-align: center;
+}
+
+.om-oss-ansatte{
+  display: grid;
+  grid-template-columns: 20% 80%;
+  margin-bottom: 1vw;
+  grid-template-rows: 30% 20% 50%;
+  border: .1vw solid black;
+  padding: .5vw;
+}
+
+.om-oss-ansatte-img-1{
+  background-image: url(../IMG/blue_moon_ansatte_odin.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 6vw;
+  width: 100%;
+  border-radius: 50%;
+  grid-row: span 3;
+}
+
+.om-oss-ansatte-img-2{
+  background-image: url(../IMG/blue_moon_ansatte_sondre.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 6vw;
+  width: 100%;
+  border-radius: 50%;
+  grid-row: span 3;
+}
+
+.om-oss-ansatte-img-3{
+  background-image: url(../IMG/blue_moon_ansatte_chris.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 6vw;
+  width: 100%;
+  border-radius: 50%;
+  grid-row: span 3;
+}
+
+.om-oss-ansatte-img-4{
+  background-image: url(../IMG/blue_moon_ansatte_thomas.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 6vw;
+  width: 100%;
+  border-radius: 50%;
+  grid-row: span 3;
+}
+
+.om-oss-ansatte-name{
+  font-size: 2.2vw;
+  margin: auto;
+  font-weight: bold;
+}
+
+.om-oss-ansatte-stilling{
+  font-size: 1.6vw;
+  margin: auto;
+}
+
+.om-oss-ansatte-beskrivelse{
+  padding-left: 2vw;
+  padding-right: 2vw;
+  font-size: 1.2vw;
+  margin: auto;
+}
+
+#valgt-rom-info{
+  display: grid;
+  grid-template-rows: 10% 30% 50% 10%;
+  padding-left: 1vw;
+}
+
+.heading{
+  text-align: center;
+}
+
+.floatLabel{
+  font-family: 'Oswald', sans-serif;
+}
+
+.controls{
+  margin-bottom: 1vw;
+}
+
+.col-1-5{
+  border: none;
+  background-color: green;
+  color: #eaeaea;
+  font-family: 'Oswald', sans-serif;
+  padding: .3vw;
+  font-size: 1.7vw;
+}
+
+.col-1-5:hover{
+  cursor: pointer;
+}
+
+#load{
+}
+
+#loader {
+  margin-top: 8vw;
+  margin-right: auto;
+  margin-left: auto;
+  border: .125vw solid #f3f3f3;
+  border-radius: 50%;
+  border-top: .125vw solid #2a4c82;
+  width: 6vw;
+  height: 6vw;
+  -webkit-animation: spin .7s linear infinite; /* Safari */
+  animation: spin .7s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.fasiliteter-main{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
