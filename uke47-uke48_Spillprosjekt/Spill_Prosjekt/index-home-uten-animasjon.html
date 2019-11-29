@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="https://fonts.googleapis.com/css?family=Amiri:700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap" rel="stylesheet">
+    <style media="screen">
+      body{
+        background-image: url("Lobby_background_FIFA.jpg");
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        font-family: 'Odibee Sans', cursive;
+        display: grid;
+        grid-template-rows: 20% 20% 30% 10% 20%;
+        grid-gap: 2.4vw;
+        overflow: hidden;
+      }
+
+      a{
+        color: rgba(255,255,255,0.5);
+        text-decoration: none;
+        padding: 2vw;
+        border: solid rgba(255, 255, 255, 0.1) .05vw;
+        font-size: 2vw;
+        text-align: center;
+        width: 80%;
+        margin: auto;
+        transition: .3s;
+        display: block;
+      }
+
+      a:hover{
+        color: white;
+        border: solid rgba(255, 255, 255, 0.5) .05vw;
+        transition: .3s;
+      }
+
+      h1{
+        text-align: center;
+        color: rgba(255,255,255,0.9);
+        margin-top: 0;
+      }
+
+      .logo{
+        margin-top: 1.5vw;
+        font-size: 3.5vw;
+        grid-row: span 2;
+        animation: logo 8s 1;
+        letter-spacing: .5vw
+      }
+
+      @keyframes button{
+        0%{
+          width: 20%;
+          margin-top: 30vw;
+        }
+        10%{
+          width: 20%;
+          margin-top: 30vw;
+        }
+        60%{
+          width: 20%;
+          display: block;
+          margin-top: 0;
+        }
+        100%{
+          width: 80%;
+        }
+      }
+
+      .link1{
+        grid-row: 4;
+        line-height: 1vw;
+        background-color: rgba(0,0,0,0.3);
+        animation: button 3s 1;
+        display: block;
+      }
+
+      .link2{
+        grid-row: 5;
+        line-height: 3vw;
+        background-color: rgba(0,0,0,0.6);
+        animation: button 3s 1;
+      }
+
+      img{
+        text-align: center;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="logo">
+      <h1 class="head1">FIFA 2D</h1>
+    </div>
+    <a class="link1" href="../Spill_Prosjekt/con-rul.html">CONTROLS</a>
+    <a class="link2" href="../Spill_Prosjekt/fotball-spill/index.html">LAUNCH GAME</a>
+    <audio autoplay src="Halo Theme Song Original.mp3"></audio>
+  </body>
+</html>
