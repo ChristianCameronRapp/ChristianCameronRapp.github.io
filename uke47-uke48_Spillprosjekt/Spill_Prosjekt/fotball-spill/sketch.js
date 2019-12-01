@@ -9,7 +9,8 @@ let force2 = 1;
 let boostR = 10;
 let boostR2 = 10;
 
-let timerStart = 99;
+let timerStart = 90;
+let timerCountdown = 3;
 
 let player1Points;
 let player2Points;
@@ -39,13 +40,15 @@ function preload(){
   fotball = loadImage("fotball-bilde.png");
   font = loadFont("../fotball-spill/Teko/Teko-Bold.ttf");
   soundFormats('mp3');
-  themeSong = loadSound("../UEFA - Champions League Anthem (Belmin Kuburas Remix).mp3");
+  themeSong = loadSound("../Crowd Cheers and Applause Sound Effects Super Extend.mp3");
+  goalCheering = loadSound("../Goal_Cheering.mp3");
+  whistle = loadSound("../Ref_whiste_sound.mp3");
 }
 
 function setup() {
   // put setup code here
   createCanvas(windowWidth, windowHeight);
-  themeSong.setVolume(1);
+  themeSong.setVolume(0.1);
   themeSong.play();
   angleMode(DEGREES);
   frameRate(144);
@@ -72,9 +75,6 @@ function draw() {
   rect(windowWidth*0.875, windowHeight/2, windowWidth*0.1, windowHeight*0.4);
 
   fotballMaal.tegn();
-
-
-
   midCircle.tegn();
 
   strokeWeight(14);
@@ -85,6 +85,8 @@ function draw() {
 
   if(fotball.x > fotballMaal.x1 - fotballMaal.bredde/2 && fotball.x < fotballMaal.x1 + fotballMaal.bredde - fotballMaal.bredde/2 && fotball.y > fotballMaal.y - fotballMaal.lengde/2 && fotball.y < fotballMaal.y + fotballMaal.lengde - fotballMaal.lengde/2){
     player2Points++;
+    goalCheering.setVolume(0.3);
+    goalCheering.play();
     console.log("ballen er i 1. firkanten");
     fotball.kick = 0;
     fotball.xVelocity = 0;
@@ -108,6 +110,8 @@ function draw() {
   }
   else if(fotball.x > fotballMaal.x2 - fotballMaal.bredde/2 && fotball.x < fotballMaal.x2 + fotballMaal.bredde - fotballMaal.bredde/2 && fotball.y > fotballMaal.y - fotballMaal.lengde/2 && fotball.y < fotballMaal.y + fotballMaal.lengde - fotballMaal.lengde/2){
     player1Points++;
+    goalCheering.setVolume(0.3);
+    goalCheering.play();
     console.log("ballen er i 2. firkanten");
     fotball.kick = 0;
     fotball.xVelocity = 0;
@@ -231,18 +235,6 @@ function draw() {
     text("ACCURACY", width/2, height*0.693);
     text("MISSED SHOTS", width/2, height*0.767);
   }else{
-    //Timer
-    timerStart -= .1/6;
-
-    fill("white");
-    strokeWeight(0);
-    rect(width/2, height/9.5, width/15, height/9);
-    fill("white");
-    strokeWeight(3);
-    stroke("black");
-    textSize(height/10);
-    text(round(timerStart), width/2, height/7.25);
-
     //BOOST P1
     strokeWeight(5);
     stroke("white");
@@ -305,16 +297,6 @@ function draw() {
       player2.yVelocity /= 2;
     }
 
-    //Poengscore
-    fill("white");
-    strokeWeight(0);
-    stroke("black");
-    textSize(height/7.5);
-    textAlign(CENTER);
-    textFont(font);
-    text(player1Points, width/2 * 0.8 , height/2-height/2*-0.085)//.style('font-family', 'Fjalla One, sans-serif');
-    text(player2Points, width/2 * 1.2 , height/2-height/2*-0.085)//.style('font-family', 'Fjalla One, sans-serif');
-
     stroke("black");
     strokeWeight(.9);
 
@@ -357,8 +339,6 @@ function draw() {
     else if(avstandFotball2 < (player2.radius-player2.radius/2 + fotball.radius-fotball.radius/2)){
       fotball.flytt2();
     }
-    fotball.flytt();
-    fotball.tegn();
 
     for(i = matbiter.length - 1; i > 0; i -= 1){
       matbiter[i].tegn();
@@ -401,11 +381,53 @@ function draw() {
       kollisjon();
     }
 
-    strokeWeight(.9);
-    player1.flytt();
-    player1.tegn();
+    textAlign(CENTER);
+    textFont(font);
 
-    player2.flytt();
+    //Timer Countdown
+    timerCountdown -= .1/6;
+
+    if(timerCountdown <= 0.3 && timerCountdown >= 0.1){
+      whistle.setVolume(0.3);
+      whistle.play();
+    }
+
+    if(timerCountdown <= 0.5){
+      timerStart -= .1/6;
+      //Poengscore
+      fill("white");
+      strokeWeight(0);
+      stroke("black");
+      textSize(height/7.5);
+      text(player1Points, width/2 * 0.8 , height/2-height/2*-0.085)
+      text(player2Points, width/2 * 1.2 , height/2-height/2*-0.085)
+      //timer
+      fill("white");
+      strokeWeight(0);
+      rect(width/2, height/9.5, width/15, height/9);
+      fill("rgb(45, 45, 45)");
+      //strokeWeight(3);
+      //stroke("black");
+      textSize(height/10);
+      text(round(timerStart), width/2, height/7.25);
+      //gjør slik at man kan flytte ball og spiller
+      strokeWeight(.9);
+      fotball.flytt();
+      fotball.tegn();
+      player1.flytt();
+      player2.flytt();
+    }else{
+      strokeWeight(5);
+      stroke("white");
+      fill("white");
+      circle(midCircle.x, midCircle.y, midCircle.radius);
+      textSize(height/5);
+      fill("rgb(25, 25, 25)");
+      text(round(timerCountdown), width/2, height/2+height*0.06);
+    }
+    stroke("black");
+    strokeWeight(.9);
+    player1.tegn();
     player2.tegn();
 
     if(frameCount % 700 === 0){
