@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(241, 241, 241);
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.initial-page-main{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 2vw;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 60%;
+    height: 30%;
+}
+
+.h2{
+    font-size: 4vw;
+    text-align: center;
+}
+
+.sign-up-main, .login-main{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    position: absolute;
+    bottom: 5%;
+    left: 0;
+    right: 0;
+    top: 5%;
+}
+
+.sign-up-main .container{
+    display: grid;
+    grid-gap: 2vw;
+}
+
+.login-main .container{
+    display: grid;
+    grid-gap: 6vw;
+}
+
+.registration-btn, .logg-in-btn{
+    background-color: #2E4B47;
+    border-radius: 1vw;
+    color: white;
+    text-decoration: none;
+    display: grid;
+    font-size: 2vw;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.registration-btn div, .logg-in-btn div{
+    margin: auto;
+}
+
+#registrationForm, #login-form{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-gap: 1vw;
+    font-size: 2.6vw;
+}
+
+input{
+    font-size: 2vw;
+    border-radius: 1vw;
+    border: none;
+}
+
+#profilePictureInp{
+    border-radius: 0;
+}
+
+.submit-btn{
+    grid-column: span 2;
+    background-color: #2E4B47;
+    border-radius: 1vw;
+    color: white;
+    text-decoration: none;
+    display: grid;
+    font-size: 3vw;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    cursor: pointer;
+}
+
+.already-have-an-account-btn, .not-signed-up-yet-btn{
+    background-color: white;
+    color: #2E4B47;
+    border-radius: 1vw;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 2vw;
+    display: flex;
+}

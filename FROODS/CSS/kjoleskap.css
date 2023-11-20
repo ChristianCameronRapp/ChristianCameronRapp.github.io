@@ -1,0 +1,110 @@
+.kjoleskap_header{
+    display: grid;
+    grid-template-columns: 85% 15%;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border: 0;
+}
+
+#kjoleskap_main{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1vw;
+}
+
+#welcomeElement{
+    align-items: end;
+    display: flex;
+    padding-left: 1.5vw;
+    font-size: 1.5vw;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.image-crop{
+    border-radius: 50%;
+}
+
+#barcode-scanner{
+    display: none;
+}
+
+#barcode-scanner video{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#barcode-scanner canvas{
+    display: none;
+}
+
+#kjoleskap_item{
+    max-height: 28vw;
+    display: grid;
+    grid-gap: .7vw;
+}
+
+.kjoleskap_item_innerHTML{
+    display: grid;
+    grid-template-columns: 10% 80% 5% 5%;
+    height: 5vw;
+    border: solid rgb(175, 175, 175) .1vw;
+    border-radius: .7vw;
+}
+
+.kjoleskap_item_innerHTML .outer-text{
+    display: grid;
+    grid-template-rows: 65% 35%;
+}
+
+.outer-text .navn{
+    font-size: 1.5vw;
+    align-items:end;
+    display: grid;
+}
+
+.outer-text .selskap{
+    font-size: 1vw;
+    color: grey;
+    align-items: center;
+}
+
+.kjoleskap_item_innerHTML .outer_img{
+    display: grid;
+    place-items: center;
+}
+
+.kjoleskap_item_innerHTML .outer_img img{
+    max-width: 1.8vw;
+    width: 1.8vw;
+}
+
+#skannStrekkodeBtn{
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    cursor: pointer;
+    border: solid black .1vw;
+    text-align: center;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.outer-delete, .outer-edit{
+    display: grid;
+}
+
+.outer-delete .delete-btn, .outer-edit .edit{
+    display: grid;
+    margin: auto;
+    cursor: pointer;
+    width: 70%;
+}
+
+#kjoleskap-container{
+    height: 28vw; 
+    overflow-y: auto;
+}

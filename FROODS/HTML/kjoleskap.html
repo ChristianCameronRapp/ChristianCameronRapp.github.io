@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../CSS/style.css">
+    <link rel="stylesheet" href="../CSS/kjoleskap.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300&family=Roboto:wght@300;700&display=swap" rel="stylesheet">
+
+    <title>FROODS</title>
+</head>
+<body>
+    <header class="kjoleskap_header">
+        <div id="welcomeElement"></div>
+        <div class="image-crop">
+            <img id="userImg" src="" alt="">
+        </div>
+    </header>
+    <main id="kjoleskap_main">
+        <div id="kjoleskap-container">
+            <div id="kjoleskap_item"></div>
+        </div>
+        <div id="barcode-scanner"></div>
+        <div id="skannStrekkodeBtn">SKANN STREKKODE</div>
+    </main>
+    <footer class="footer">
+        <!-- Footer navbar content -->
+        <nav>
+            <ul>
+                <li><a href="index.html">FEED</a></li>
+                <li><a href="#">TOPPLISTER</a></li>
+                <li><a href="#">FROODS</a></li>
+                <li><a href="lister.html">LISTER</a></li>
+                <li><a href="profil.html">PROFIL</a></li>
+            </ul>
+        </nav>
+    </footer>
+    <script type="module" src="../JS/database.js"></script>
+    <script type="module" src="../JS/auth.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/quagga/0.12.1/quagga.min.js"></script>
+
+    <!---
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone@7.14.5/babel.min.js"></script>
+    -->
+
+    <script type="module" src="../JS/barcode_scanner_quagga.js"></script>
+</body>
+</html>
