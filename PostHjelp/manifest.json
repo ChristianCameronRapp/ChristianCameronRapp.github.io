@@ -9,8 +9,8 @@
       }
     ],
     "start_url": "HTML/index.html",
-    "background_color": "#FFFFFF",
+    "background_color": "white",
     "display": "standalone",
     "scope": "/",
-    "theme_color": "white"
+    "theme_color": "#e32d22"
 }
