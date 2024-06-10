@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Noto Sans Display';  /* Use the appropriate font family name */
+    src: url('../static/NotoSansDisplay-VariableFont_wdth,wght.ttf') format('ttf'); /* Modern browsers with better compression */
+    font-weight: bold;
+    font-style: normal;
+}
+
+.vikarliste_element {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    background-color: #eaeaea;
+    align-items: center;
+    height: 4rem;
+}
+
+.vikarliste_element_navn {
+    font-family: 'Noto Sans Display', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    margin-left: .5rem;
+    font-size: 1.1rem;
+}
+
+.vikarliste_element_status {
+    text-align: center;
+    font-size: .9rem;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PostHjelp</title>
+    <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-firestore.js"></script>
+</head>
+<body>
+    <main>
+        <div class="registrer-container">
+            <h2>Registrer</h2>
+            <form id="registrer-form">
+                <input type="firstname" id="user-firstname" placeholder="Fornavn" required>
+                <input type="lastname" id="user-lastname" placeholder="Etternavn" required>
+                <input type="email" id="user-email" placeholder="E-post" required>
+                <input type="password" id="user-password" placeholder="Passord" required>
+                <button type="submit">Registrer</button>
+            </form>
+        </div>
+    </main>
+    <script type="module">
+        import { registerUser } from '../../JS/authentication/userHandling.js';
+
+        // Håndterer registrering
+        document.getElementById('registrer-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const fullName = document.getElementById('user-firstname').value + " " + document.getElementById('user-lastname').value;
+            const email = document.getElementById('user-email').value;
+            const password = document.getElementById('user-password').value;
+            registerUser(email, password, fullName);
+        });
+    </script>
+    <script src="../../JS/registrer.js" type="module"></script>
+</body>
+</html>

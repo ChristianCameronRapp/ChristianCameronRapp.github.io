@@ -1,0 +1,55 @@
+.min_side_main {
+    display: flex;
+}
+
+main section {
+    width: 90%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 2rem;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+button {
+    background-color: #eaeaea;
+    border: .1rem solid black;
+    width: 100%;
+    font-size: 2.5rem;
+}
+
+.user_info_container {
+    display: grid;
+    grid-gap: 0.5rem;
+}
+
+#full_name {
+    font-size: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#availability {
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+label {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#availability-status {
+    font-size: 1rem;
+}
+
+.status {
+    display: grid;
+    justify-content: center;
+    font-size: 1.5rem;
+}

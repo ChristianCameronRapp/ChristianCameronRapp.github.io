@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Noto Sans Display';  /* Use the appropriate font family name */
+    src: url('../NotoSansDisplay-VariableFont_wdth,wght.ttf') format('ttf'); /* Modern browsers with better compression */
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body {
+    height: 100%;  /* Sørger for at kroppen tar hele høyden til vinduet */
+    margin: 0;     /* Fjerner standardmarg */
+    padding: 0;    /* Fjerner standardputting */
+    font-family: 'Noto Sans Display', sans-serif;
+}
+
+header, footer {
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    z-index: 1000;
+}
+
+header {
+    top: 0;
+    background-color: #e32d22;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header nav {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+nav a, nav div {
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-size: 1em;  /* Adjust this value as needed */
+    overflow: hidden;  /* Prevents the text from spilling out */
+    white-space: nowrap;  /* Keeps the text in a single line */
+    text-overflow: ellipsis;  /* Adds ellipsis if the text overflows */
+}
+
+nav a {
+    color: white;
+}
+
+footer nav div{
+    color: black;
+    font-size: .9rem;
+}
+
+footer nav a {
+    color: black;
+    font-size: 1.5rem;
+}
+
+main {
+    height: auto;
+    top: 10%;
+    bottom: 10%;
+    background-color: #ddd; /* Lysere grå for å visualisere hovedinnholdet */
+    width: 100%;
+    position: absolute;
+    overflow: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+main section {
+    display: grid;
+    width: 90%;
+    grid-gap: 1rem;
+    margin: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+footer {
+    bottom: 0;
+    background-color: rgb(245, 245, 245); /* Enda mørkere grå for å visualisere footeren */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer nav {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PostHjelp</title>
+    <script src="../JS/authentication/auth.js" type="module" defer></script>
+    <link rel="icon" href="../../MEDIA/idfMm1ADA9_1717842206506.svg" type="image/x-icon">
+    <link rel="stylesheet" href="../../CSS/index.css">
+    <link rel="stylesheet" href="../../CSS/min_side.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Innleggstavle</a>
+            <a href="arbeidsportal.html">Arbeidsportal</a>
+            <a href="vikarportal.html">Vikarportal</a>
+        </nav>
+    </header>
+    <main class="min_side_main">
+        <section>
+            <div class="user_info_container">
+                <div id="full_name"></div>
+                <div id="availability"></div>
+            </div>
+            <div class="status">
+                <label for="availability-status">Tilgjengelighetsstatus: </label>
+                <select id="availability-status">
+                    <option value="" disabled selected>Velg status</option>
+                    <option value="Tilgjengelig">Tilgjengelig</option>
+                    <option value="Delvis tilgjengelig">Delvis tilgjengelig</option>
+                    <option value="Ikke tilgjengelig">Ikke tilgjengelig</option>
+                </select>
+            </div>
+            <div></div>
+            <button id="logout-btn">Logg ut</button>
+        </section>
+    </main>
+    <footer>
+        <nav>
+            <div id="full_name"></div>
+            <a href="min_side.html">Min Side</a>
+            <div id="availability"></div>
+        </nav>
+    </footer>
+    <script type="module">
+        import { logoutUser } from '../JS/authentication/userHandling.js';
+
+        // Håndterer utlogging
+        document.getElementById('logout-btn').addEventListener('click', function(event) {
+            logoutUser();
+        });
+    </script>
+    <script src="../JS/authentication/userHandling.js" type="module"></script>
+    <script src="../JS/userQuickInfo.js" type="module"></script>
+    <script src="../JS/changeAvailability.js" type="module"></script>
+</body>
+</html>
